@@ -1,0 +1,312 @@
+[
+  {
+    "id": "10m_air_rifle",
+    "slug": "10m-air-rifle",
+    "name": "10m Air Rifle",
+    "code": "AR10",
+    "category_id": "rifle",
+    "distance_id": "10m",
+    "description": "",
+    "rm_is_olympic": true,
+
+    "sort_order": 10,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_rifle_3_positions",
+    "slug": "50m-rifle-3-positions",
+    "name": "50m Rifle 3 Positions",
+    "code": "R3P50",
+    "category_id": "rifle",
+    "distance_id": "50m",
+    "description": "",
+    "rm_is_olympic": true,
+
+    "sort_order": 11,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_rifle_prone",
+    "slug": "50m-rifle-prone",
+    "name": "50m Rifle Prone",
+    "code": "RPR50",
+    "category_id": "rifle",
+    "distance_id": "50m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 12,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "300m_rifle_3_positions",
+    "slug": "300m-rifle-3-positions",
+    "name": "300m Rifle 3 Positions",
+    "code": "R3P300",
+    "category_id": "rifle",
+    "distance_id": "300m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 13,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "300m_rifle_prone",
+    "slug": "300m-rifle-prone",
+    "name": "300m Rifle Prone",
+    "code": "RPR300",
+    "category_id": "rifle",
+    "distance_id": "300m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 14,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "300m_standard_rifle",
+    "slug": "300m-standard-rifle",
+    "name": "300m Standard Rifle",
+    "code": "RS300",
+    "category_id": "rifle",
+    "distance_id": "300m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 15,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "10m_air_pistol",
+    "slug": "10m-air-pistol",
+    "name": "10m Air Pistol",
+    "code": "AP10",
+    "category_id": "pistol",
+    "distance_id": "10m",
+    "description": "",
+    "rm_is_olympic": true,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_pistol",
+    "slug": "25m-pistol",
+    "name": "25m Pistol",
+    "code": "P25",
+    "category_id": "pistol",
+    "distance_id": "25m",
+    "description": "Sport Pistol",
+    "rm_is_olympic": true,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_rapid_fire_pistol",
+    "slug": "25m-rapid-fire-pistol",
+    "name": "25m Rapid Fire Pistol",
+    "code": "RFP25",
+    "category_id": "pistol",
+    "distance_id": "25m",
+    "description": "Rapid Fire Pistol",
+    "rm_is_olympic": true,
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_standard_pistol",
+    "slug": "25m-standard-pistol",
+    "name": "25m Standard Pistol",
+    "code": "SP25",
+    "category_id": "pistol",
+    "distance_id": "25m",
+    "description": "Standard Pistol",
+    "rm_is_olympic": false,
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_center_fire_pistol",
+    "slug": "25m-center-fire-pistol",
+    "name": "25m Center Fire Pistol",
+    "code": "CFP25",
+    "category_id": "pistol",
+    "distance_id": "25m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 6,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "50m_pistol",
+    "slug": "50m-pistol",
+    "name": "50m Pistol",
+    "code": "FP50",
+    "category_id": "pistol",
+    "distance_id": "50m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "trap",
+    "slug": "trap",
+    "name": "Trap",
+    "code": "TRAP",
+
+    "category_id": "shotgun",
+    "distance_id": null,
+    "description": "",
+    "rm_is_olympic": true,
+
+    "sort_order": 40,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "double_trap",
+    "slug": "double-trap",
+    "name": "Double Trap",
+    "code": "DTRAP",
+    "category_id": "shotgun",
+    "distance_id": null,
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 41,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "skeet",
+    "slug": "skeet",
+    "name": "Skeet",
+    "code": "SKEET",
+    "category_id": "shotgun",
+    "distance_id": null,
+    "description": "",
+    "rm_is_olympic": true,
+
+    "sort_order": 30,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "sporting",
+    "slug": "sporting-clays",
+    "name": "Sporting Clays",
+    "code": "SPORT",
+    "category_id": "shotgun",
+    "distance_id": null,
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 50,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "10m_running_target",
+    "slug": "10m-running-target",
+    "name": "10m Running Target",
+    "code": "RT10",
+    "category_id": "rifle",
+    "distance_id": "10m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 60,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_running_target",
+    "slug": "50m-running-target",
+    "name": "50m Running Target",
+    "code": "RT50",
+    "category_id": "rifle",
+    "distance_id": "50m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 61,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "target_sprint",
+    "slug": "target-sprint",
+    "name": "Target Sprint",
+    "code": "TS",
+    "category_id": "rifle",
+    "distance_id": "10m",
+    "description": "",
+    "rm_is_olympic": false,
+
+    "sort_order": 70,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

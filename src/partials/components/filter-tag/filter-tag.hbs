@@ -1,0 +1,17 @@
+<li class="filter-tag js-tag" data-tag="{{ inputName }}" data-value="{{inputValue}}">
+  <input
+    class="filter-tag__checkbox"
+    type="checkbox"
+    name="{{ inputName }}"
+    value="{{ inputValue }}"
+    id="{{ inputId }}"
+  />
+  <label class="filter-tag__container" for="{{ inputId }}">
+    <span class="filter-tag__label">{{ inputLabel }}</span>
+    {{!-- <button class="filter-tag__btn" type="button">
+      <svg class="filter-tag__btn-icon">
+        <use href="/assets/icons/sprite.svg#icon-ui-clear"></use>
+      </svg>
+    </button> --}}
+  </label>
+</li>

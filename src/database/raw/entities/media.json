@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "media_0001",
+
+    "type_id": "image",
+    "mime_type": "image/jpeg",
+
+    "width": 200,
+    "height": 300,
+
+    "url": "assets/images/athletes/lunev-ruslan/portrait.jpg",
+    "description": "Portrait of Ruslan Lunev",
+
+    "is_public": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0002",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/kalmikov-vladislav/portrait.jpg",
+    "description": "Portrait of Kalmikov Vladislav",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0003",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/musayev-haji/portrait.jpg",
+    "description": "Portrait of Musayev Haji",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0004",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/astanov-elvin/portrait.jpg",
+    "description": "Portrait of Astanov Elvin",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0005",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/mammadov-rasul/portrait.jpg",
+    "description": "Portrait of Mammadov Rasul",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0030",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/nasirova-nigar/portrait.jpg",
+    "description": "Portrait of Nasirova Nigar",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0031",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/aliyeva-khanna/portrait.jpg",
+    "description": "Portrait of Aliyeva Khanna",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0032",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/sultanova-zeynab/portrait.jpg",
+    "description": "Portrait of Sultanova Zeynab",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0033",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/barkhalova-sofiya/portrait.jpg",
+    "description": "Portrait of Barkhalova Sofiya",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0006",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/garayev-imran/portrait.jpg",
+    "description": "Portrait of Garayev Imran",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0007",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/kerzhankin-oleg/portrait.jpg",
+    "description": "Portrait of Kerzhankin Oleg",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0008",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/huseynli-onur/portrait.jpg",
+    "description": "Portrait of Huseynli Onur",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0034",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/aliyeva-leyli/portrait.jpg",
+    "description": "Portrait of Aliyeva Leyli",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0036",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/omarova-amina/portrait.jpg",
+    "description": "Portrait of Omarova Amina",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0011",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/khalilov-ramiz/portrait.jpg",
+    "description": "Portrait of Khalilov Ramiz",
+
+    "mime_type": "image/jpeg",
+    "width": 200,
+    "height": 300,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0012",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/tapdigli-uzeyir/portrait.jpg",
+    "description": "Portrait of Tapdigli Uzeyir",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0038",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/aliyeva-nurana/portrait.jpg",
+    "description": "Portrait of Aliyeva Nurana",
+
+    "mime_type": "image/jpeg",
+    "width": 200,
+    "height": 300,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0039",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/bayramova-zhala/portrait.jpg",
+    "description": "Portrait of Bayramova Zhala",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0040",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/ramazanova-nigar/portrait.jpg",
+    "description": "Portrait of Ramazanova Nigar",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0041",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/mahmudova-aynur/portrait.jpg",
+    "description": "Portrait of Mahmudova Aynur",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0013",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/sofiyev-zahid/portrait.jpg",
+    "description": "Portrait of Sofiyev Zahid",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0014",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/aghazada-niyaz/portrait.jpg",
+    "description": "Portrait of Aghazada Niyaz",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0015",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/gurbanov-fuad/portrait.jpg",
+    "description": "Portrait of Gurbanov Fuad",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0016",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/hasanov-javid/portrait.jpg",
+    "description": "Portrait of Hasanov Javid",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0017",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/mustafayev-ali/portrait.jpg",
+    "description": "Portrait of Mustafayev Ali",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0044",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/jafarova-nurlana/portrait.jpg",
+    "description": "Portrait of Jafarova Nurlana",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0045",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/meftakhetdinova-rigina/portrait.jpg",
+    "description": "Portrait of Meftakhetdinova Rigina",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0046",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/najafova-sevda/portrait.jpg",
+    "description": "Portrait of Najafova Sevda",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0050",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/pashayeva-jamila/portrait.jpg",
+    "description": "Portrait of Pashayeva Jamila",
+
+    "mime_type": "image/jpeg",
+    "width": 399,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0023",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/huseynli-ali/portrait.jpg",
+    "description": "Portrait of Huseynli Ali",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0024",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/guliyev-alimirza/portrait.jpg",
+    "description": "Portrait of Guliyev Alimirza",
+
+    "mime_type": "image/jpeg",
+    "width": 200,
+    "height": 300,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0025",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/mammadov-tamerlan/portrait.jpg",
+    "description": "Portrait of Mammadov Tamerlan",
+
+    "mime_type": "image/jpeg",
+    "width": 200,
+    "height": 300,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0026",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/aghazada-mirmomin/portrait.jpg",
+    "description": "Portrait of Aghazada Mirmomin",
+
+    "mime_type": "image/jpeg",
+    "width": 200,
+    "height": 300,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0027",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/mehdizade-sabir/portrait.jpg",
+    "description": "Portrait of Mehdizade Sabir",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0049",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/jamalova-aydan/portrait.jpg",
+    "description": "Portrait of Jamalova Aydan",
+
+    "mime_type": "image/jpeg",
+    "width": 375,
+    "height": 500,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0101",
+
+    "type_id": "image",
+
+    "url": "assets/images/news/issf-leadership-meets-azerbaijan-officials-ahead-baku-world-cup/cover.jpg",
+    "description": "Cover for the article",
+
+    "mime_type": "image/jpeg",
+    "width": 1200,
+    "height": 800,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0103",
+
+    "type_id": "image",
+
+    "url": "assets/images/news/future-of-shooting-sport-est-technology/cover.jpg",
+    "description": "Cover for the article",
+
+    "mime_type": "image/jpeg",
+    "width": 1200,
+    "height": 800,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0102",
+
+    "type_id": "image",
+
+    "url": "assets/images/news/electronic-scoring-systems-precision-engineering/cover.jpg",
+    "description": "Cover for the article",
+
+    "mime_type": "image/jpeg",
+    "width": 1200,
+    "height": 800,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0104",
+
+    "type_id": "image",
+
+    "url": "assets/images/news/ruslan-lunev-gold-10m-air-pistol-issf-granada/cover.jpg",
+    "description": "Cover for the article",
+
+    "mime_type": "image/jpeg",
+    "width": 924,
+    "height": 630,
+
+    "is_public": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "media_0105",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/novruzlu-murtaza/portrait.jpg",
+    "description": "Portrait of Novruzlu Murtaza",
+
+    "mime_type": "image/jpeg",
+    "width": 839,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0106",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/gambayeva-mehriban/portrait.jpg",
+    "description": "Portrait of Gambayeva Mehriban",
+
+    "mime_type": "image/jpeg",
+    "width": 1080,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0107",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/afsana-elvina/portrait.jpg",
+    "description": "Portrait of Afsana Elvina",
+
+    "mime_type": "image/jpeg",
+    "width": 835,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0108",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/gurbanov-aslan/portrait.jpg",
+    "description": "Portrait of Gurbanov Aslan",
+
+    "mime_type": "image/jpeg",
+    "width": 960,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0109",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/asadullayev-abidin/portrait.jpg",
+    "description": "Portrait of Asadullayev Abidin",
+
+    "mime_type": "image/jpeg",
+    "width": 950,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0110",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/aliyev-osman/portrait.jpg",
+    "description": "Portrait of Aliyev Osman",
+
+    "mime_type": "image/jpeg",
+    "width": 960,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0111",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/jafarova-narmin/portrait.jpg",
+    "description": "Portrait of Jafarova Narmin",
+
+    "mime_type": "image/jpeg",
+    "width": 890,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0112",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/ahmadzada-subhan/portrait.jpg",
+    "description": "Portrait of Ahmadzada Subhan",
+
+    "mime_type": "image/jpeg",
+    "width": 890,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0113",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/guliev-amil/portrait.jpg",
+    "description": "Portrait of Guliev Amil",
+
+    "mime_type": "image/jpeg",
+    "width": 870,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0114",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/karimova-arusa/portrait.jpg",
+    "description": "Portrait of Karimova Arusa",
+
+    "mime_type": "image/jpeg",
+    "width": 880,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0115",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/allahyarova-elvira/portrait.jpg",
+    "description": "Portrait of Allahyarova Elvira",
+
+    "mime_type": "image/jpeg",
+    "width": 900,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0116",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/allahverdiyev-murad/portrait.jpg",
+    "description": "Portrait of Allahverdiyev Murad",
+
+    "mime_type": "image/jpeg",
+    "width": 960,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-10 20:05:35.000",
+    "updated_at": "2026-05-10 20:05:35.000"
+  },
+  {
+    "id": "media_0117",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/ajdarov-eldar/portrait.jpg",
+    "description": "Portrait of Ajdarov Eldar",
+
+    "mime_type": "image/jpeg",
+    "width": 900,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-11 20:05:35.000",
+    "updated_at": "2026-05-11 20:05:35.000"
+  },
+  {
+    "id": "media_0118",
+
+    "type_id": "image",
+
+    "url": "assets/images/athletes/badalli-narmin/portrait.jpg",
+    "description": "Portrait of Badalli Narmin",
+
+    "mime_type": "image/jpeg",
+    "width": 900,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-05-11 20:05:35.000",
+    "updated_at": "2026-05-11 20:05:35.000"
+  },
+  {
+    "id": "media_0119",
+
+    "type_id": "image",
+
+    "url": "assets/images/competitions/issf-world-cup-rifle-pistol-munich-2026/issf-world-cup-rifle-pistol-munich-2026.jpg",
+    "description": "Female athlete aiming a Feinwerkbau air rifle during a shooting competition.",
+
+    "mime_type_id": "image_jpeg",
+    "width": 720,
+    "height": 480,
+
+    "is_public": true,
+
+    "created_at": "2026-05-11 20:05:35.000",
+    "updated_at": "2026-05-11 20:05:35.000"
+  },
+  {
+    "id": "media_0120",
+
+    "type_id": "image",
+    "mime_type_id": "image_jpeg",
+
+    "url": "assets/images/galleries/issf-wc-munich-2026-10m-air-rifle-women-final/image-0001.jpg",
+    "description": "Female athlete aiming a Feinwerkbau air rifle during a shooting competition.",
+
+    "width": 720,
+    "height": 480,
+
+    "is_public": true,
+
+    "created_at": "2026-05-30 20:05:35.000",
+    "updated_at": "2026-05-30 20:05:35.000"
+  },
+  {
+    "id": "media_0121",
+
+    "type_id": "image",
+    "mime_type_id": "image_jpeg",
+
+    "url": "assets/images/galleries/issf-wc-munich-2026-10m-air-rifle-women-final/image-0002.jpg",
+    "description": null,
+
+    "width": 720,
+    "height": 480,
+
+    "is_public": true,
+
+    "created_at": "2026-05-30 20:05:35.000",
+    "updated_at": "2026-05-30 20:05:35.000"
+  },
+  {
+    "id": "media_0122",
+
+    "type_id": "image",
+    "mime_type_id": "image_jpeg",
+
+    "url": "assets/images/galleries/issf-wc-munich-2026-10m-air-rifle-women-final/image-0003.jpg",
+    "description": null,
+
+    "width": 720,
+    "height": 480,
+
+    "is_public": true,
+
+    "created_at": "2026-05-30 20:05:35.000",
+    "updated_at": "2026-05-30 20:05:35.000"
+  },
+  {
+    "id": "media_0123",
+
+    "type_id": "image",
+    "mime_type_id": "image_jpeg",
+
+    "url": "assets/images/competitions/placeholders/competition-image-1920x1080-01.jpg",
+    "description": null,
+
+    "width": 1920,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-06-06 19:20:35.000",
+    "updated_at": "2026-06-06 19:20:35.000"
+  },
+  {
+    "id": "media_0124",
+
+    "type_id": "image",
+    "mime_type_id": "image_jpeg",
+
+    "url": "assets/images/competitions/issf-junior-world-champ-suhl-2026/issf-junior-world-champ-suhl-2026-cover.jpg",
+    "description": null,
+
+    "width": 1920,
+    "height": 1080,
+
+    "is_public": true,
+
+    "created_at": "2026-06-07 18:05:35.000",
+    "updated_at": "2026-06-07 18:05:35.000"
+  }
+]

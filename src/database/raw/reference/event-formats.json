@@ -1,0 +1,58 @@
+[
+  {
+    "id": "individual",
+    "name": "Individual",
+    "description": "Single athlete competes individually",
+
+    "team_size": 1,
+    "is_team_event": false,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "team",
+    "name": "Team",
+    "description": "Team competition where multiple athletes represent one team",
+
+    "team_size": 2,
+    "is_team_event": true,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "team_aggregate",
+    "name": "Team (Aggregate)",
+    "description": "Team result calculated from individual athlete scores",
+
+    "team_size": null,
+    "is_team_event": true,
+
+    "sort_order": 3,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "relay",
+    "name": "Relay",
+    "description": "Athletes compete sequentially as part of a team",
+
+    "team_size": 2,
+    "is_team_event": true,
+
+    "sort_order": 4,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  }
+]

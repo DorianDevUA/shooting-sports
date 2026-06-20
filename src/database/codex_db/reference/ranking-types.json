@@ -1,0 +1,20 @@
+[
+  {
+    "id": "national",
+    "name": "National Ranking",
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "federation",
+    "name": "Federation Ranking",
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "international",
+    "name": "International Ranking",
+    "sort_order": 3,
+    "is_active": true
+  }
+]

@@ -1,0 +1,18 @@
+.page-athletes__filters {
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-lg);
+}
+
+.section.pistol,
+.section.rifle,
+.section.skeet,
+.section.trap {
+  padding-block: var(--space-xl);
+}
+
+.section.pistol .title,
+.section.rifle .title,
+.section.skeet .title,
+.section.trap .title {
+  text-transform: uppercase;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ach_2022_granada_lunev_10apm_gold",
+    "title": "Gold medal in 10m Air Pistol Men",
+    "date": "2022-05-22",
+
+    "participant_id": "part_0001",
+
+    "result_id": "res_2022_granada_lunev_10apm_f",
+
+    "type_id": "medal",
+    "medal_id": "gold",
+
+    "is_featured": true,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

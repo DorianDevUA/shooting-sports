@@ -1,0 +1,23 @@
+[
+  {
+    "id": "gold",
+    "name": "Gold",
+    "rank": 1,
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "silver",
+    "name": "Silver",
+    "rank": 2,
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "bronze",
+    "name": "Bronze",
+    "rank": 3,
+    "sort_order": 3,
+    "is_active": true
+  }
+]

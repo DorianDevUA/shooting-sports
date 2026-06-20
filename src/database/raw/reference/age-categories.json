@@ -1,0 +1,53 @@
+[
+  {
+    "id": "senior",
+    "slug": "senior",
+
+    "code": "PRO",
+    "name": "Senior",
+
+    "min_age": 21,
+    "max_age": null,
+    "description": "Main adult competition category. Veteran / masters athletes",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "junior",
+    "slug": "junior",
+
+    "code": "U21",
+    "name": "Junior",
+
+    "min_age": 18,
+    "max_age": 20,
+    "description": "Junior athletes under senior level",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "youth",
+    "slug": "youth",
+
+    "code": "U18",
+    "name": "Youth",
+
+    "min_age": 14,
+    "max_age": 17,
+    "description": "Young athletes category",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

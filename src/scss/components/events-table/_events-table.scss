@@ -1,0 +1,89 @@
+/* Competition Events Table */
+.events-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+
+  @media (min-width: 576px) {
+    font-size: 14px;
+  }
+}
+
+/* Элемент Ячейки */
+.events-table__cell {
+  // border: 1px solid var(--color-border-strong-dark);
+  border-bottom: 1px solid var(--color-border-strong-dark);
+
+  padding-block: 4px;
+  padding-inline: 8px;
+  text-align: center;
+
+  // &--caption {
+  //   font-size: var(--font-size-md);
+  //   font-weight: 700;
+  //   text-transform: uppercase;
+  //   color: var(--color-text-inverse);
+  //   background-color: var(--color-bg-deep-blue);
+  //   background-image: linear-gradient(
+  //     to right bottom,
+  //     rgba(15, 23, 36, 0.5),
+  //     rgba(15, 23, 36, 0)
+  //   );
+  // }
+
+  &--header {
+    // border: 1px solid var(--color-border-strong-dark);
+    padding: 0;
+
+    font-size: var(--font-size-sm);
+    font-weight: 700;
+    line-height: var(--line-height-wide);
+    text-transform: capitalize;
+  }
+
+  &--discipline {
+    font-weight: 500;
+    width: 50%; /* Назва дисципліни займає більше місця */
+    text-transform: capitalize;
+
+    text-align: left; /* Выравнивание названий дисциплин по левому краю */
+  }
+
+  &--category {
+    font-weight: 500;
+    letter-spacing: var(--tracking-ui);
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  &--status {
+    font-weight: 900;
+    color: var(--color-bg-deep-blue);
+  }
+
+  .events-table__row:hover &--discipline {
+    color: var(--color-brand-red);
+  }
+
+  .events-table__row:hover &--status {
+    color: var(--color-brand-red);
+  }
+}
+
+/* Строки */
+.events-table__row {
+  &--category {
+    color: var(--color-text-inverse);
+
+    background-image: linear-gradient(
+      to right,
+      var(--color-brand-blue),
+      var(--color-brand-red),
+      var(--color-brand-green)
+    );
+  }
+
+  &:hover {
+    background-color: rgb(252, 240, 216); /* Подсветка строки при наведении */
+  }
+}

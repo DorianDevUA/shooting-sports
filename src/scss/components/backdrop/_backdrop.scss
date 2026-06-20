@@ -1,0 +1,23 @@
+.backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-backdrop);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: var(--space-lg); // 🔥 важливо
+
+  background-color: rgba(0, 0, 0, 0.4);
+
+  opacity: 0;
+  pointer-events: none;
+
+  transition: opacity var(--duration-normal) var(--timing-cubic);
+
+  body.modal-open & {
+    opacity: 1;
+    pointer-events: all;
+  }
+}

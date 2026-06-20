@@ -1,0 +1,28 @@
+// Page Layouts
+@forward "page-header";
+@forward "page-content";
+@forward "page-footer";
+@forward "page-hero";
+@forward "page-intro";
+@forward "page-details";
+@forward "page-filters";
+@forward "section";
+@forward "related-news";
+
+// Pages
+@forward "home-page";
+@forward "news";
+@forward "competition";
+@forward "athlete";
+@forward "article";
+
+// Card Set Grid
+@forward "card-set-grid";
+
+// Page News
+// @forward "news-hero";
+// @forward "featured-story";
+
+// Form
+@forward "callback-form";
+@forward "feedback-form";

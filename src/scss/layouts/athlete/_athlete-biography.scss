@@ -1,0 +1,59 @@
+.athlete-biography__content {
+}
+
+.athlete-biography__content > *:not(:last-child) {
+  margin-bottom: var(--space-sm);
+}
+
+.athlete-biography__content h4,
+.athlete-biography__content h5,
+.athlete-biography__content h6 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+
+  line-height: var(--line-height-base);
+}
+
+.athlete-biography__content h4 {
+  font-size: 24px;
+}
+
+.athlete-biography__content h5 {
+  font-size: 20px;
+}
+
+.athlete-biography__content h6 {
+  font-size: 18px;
+}
+
+.athlete-biography__content ul,
+.athlete-biography__content ol {
+  padding-left: 20px;
+}
+
+.athlete-biography__content ul {
+  list-style: disc;
+}
+
+.athlete-biography__content ol {
+  list-style: decimal;
+}
+
+.athlete-biography__content img {
+  border-radius: 12px;
+}
+
+.athlete-biography__content a {
+  color: var(--color-text-primary);
+  text-decoration: underline;
+}
+
+.athlete-biography__content blockquote {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding: var(--space-xl);
+  border-left: 4px solid rgb(44, 82, 130);
+  border-radius: var(--radius-xl);
+  font-weight: 500;
+  background-color: rgb(240, 240, 255);
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "male",
+    "name": "Male",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "female",
+    "name": "Female",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "mixed",
+    "name": "Mixed",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  }
+]

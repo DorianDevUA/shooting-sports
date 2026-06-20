@@ -1,0 +1,229 @@
+[
+  {
+    "id": "issf",
+    "slug": "issf",
+    "code": "issf",
+    "short_code": "issf",
+
+    "organization_type_id": "federation",
+    "organization_status_id": "active",
+
+    "name": "International Shooting Sport Federation",
+    "short_name": "ISSF",
+    "acronym": "ISSF",
+
+    "description": "International governing body for Olympic and international shooting sports.",
+
+    "venue_id": null,
+    "city_id": null,
+    "country_id": null,
+
+    "founded_date": "1907-07-17",
+
+    "logo_media_id": null,
+
+    "website_url": "https://www.issf-sports.org",
+    "email": null,
+    "phone": null,
+
+    "notes": null,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "germany_shooting_federation",
+    "slug": "germany-shooting-federation",
+    "code": "germany_shooting_federation",
+    "short_code": "dsb",
+
+    "organization_type_id": "federation",
+    "organization_status_id": "active",
+
+    "name": "German Shooting Sport Federation",
+    "short_name": "German Shooting Federation",
+    "acronym": "DSB",
+
+    "description": "National shooting sport federation of Germany.",
+
+    "venue_id": null,
+    "city_id": null,
+    "country_id": "de",
+
+    "founded_date": null,
+
+    "logo_media_id": null,
+
+    "website_url": "https://www.dsb.de",
+    "email": null,
+    "phone": null,
+
+    "notes": null,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "neftci",
+    "slug": "neftci-shooting-club",
+    "code": "neftci_shooting_club",
+    "short_code": "neftci",
+
+    "organization_type_id": "club",
+    "organization_status_id": "active",
+
+    "name": "Neftci Shooting Club",
+    "short_name": "Neftci",
+    "acronym": "NEFTCI",
+
+    "description": "Professional shooting sports club based in Baku.",
+
+    "parent_organization_id": null,
+
+    "venue_id": null,
+    "city_id": "baku",
+    "country_id": "az",
+
+    "founded_date": "1998-05-12",
+
+    "logo_media_id": null,
+
+    "website_url": "https://example.com",
+    "email": "info@example.com",
+    "phone": "+994501112233",
+
+    "notes": null,
+
+    "sort_order": 2,
+    "is_visible": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "rsaim",
+    "slug": "republican-clay-shooting-sport-school",
+    "code": "rsaim_sport_school",
+    "short_code": "rsaim",
+
+    "organization_type_id": "school",
+    "organization_status_id": "active",
+
+    "name": "Republican Clay Shooting Sport School",
+    "short_name": "RSAIM Sport School",
+    "acronym": "RSAIM",
+
+    "description": "State-governed professional youth sport school specializing in Olympic clay target shooting disciplines.",
+
+    "parent_organization_id": "mys_gov_az",
+
+    "venue_id": null,
+    "city_id": "baku",
+    "country_id": "az",
+
+    "founded_date": "2005-06-03",
+
+    "logo_media_id": null,
+
+    "website_url": "https://mys.gov.az",
+    "email": "rsaim@mys.gov.az",
+    "phone": "+994125655620",
+
+    "notes": "Official training grounds located at Sumgait Highway 3D, Baku, AZ1124.",
+
+    "sort_order": 3,
+    "is_visible": true,
+    "is_active": true,
+
+    "created_at": "2026-05-13T12:00:00Z",
+    "updated_at": "2026-05-13T12:00:00Z"
+  },
+
+  {
+    "id": "din_ic",
+    "slug": "sports-society-of-the-ministry-of-internal-affairs",
+    "code": "din_sports_society",
+    "short_code": "din_ic",
+
+    "organization_type_id": "society",
+    "organization_status_id": "active",
+
+    "name": "Sports Society of the Ministry of Internal Affairs",
+    "short_name": "DIN Sports Society",
+    "acronym": "DIN IC",
+
+    "description": "State-affiliated sports organization operating under the Ministry of Internal Affairs of Azerbaijan.",
+
+    "parent_organization_id": "mia_gov_az",
+
+    "venue_id": "granada_shooting_range",
+    "city_id": "baku",
+    "country_id": "az",
+
+    "founded_date": "1951-04-18",
+
+    "logo_media_id": null,
+
+    "website_url": "https://mia.gov.az",
+    "email": "info@mia.gov.az",
+    "phone": "+994124937060",
+
+    "notes": "Official shooting range facility located in Zabrat.",
+
+    "sort_order": 4,
+    "is_visible": true,
+    "is_active": true,
+
+    "created_at": "2026-05-13T12:00:00Z",
+    "updated_at": "2026-05-13T12:00:00Z"
+  },
+
+  {
+    "id": "zafar_sc",
+    "slug": "zafar-sports-club",
+    "code": "zafar_sports_club",
+    "short_code": "zafar",
+
+    "organization_type_id": "club",
+    "organization_status_id": "active",
+
+    "name": "Zafar Sports Club",
+    "short_name": "Zafar SC",
+    "acronym": "ZAFAR",
+
+    "description": "Professional sports club providing athlete development programs across multiple disciplines.",
+
+    "parent_organization_id": null,
+
+    "venue_id": null,
+    "city_id": "baku",
+    "country_id": "az",
+
+    "founded_date": "2018-10-10",
+
+    "logo_media_id": null,
+
+    "website_url": "https://example.com",
+    "email": "info@zafersc.az",
+    "phone": "+994705200000",
+
+    "notes": "Training complex located in Yeni Guneshli, Baku.",
+
+    "sort_order": 5,
+    "is_visible": true,
+    "is_active": true,
+
+    "created_at": "2026-05-13T12:00:00Z",
+    "updated_at": "2026-05-13T12:00:00Z"
+  }
+]

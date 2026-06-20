@@ -1,0 +1,54 @@
+[
+  {
+    "id": "qualification",
+    "name": "Qualification",
+    "code": "Q",
+
+    "has_series": true,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "semifinal",
+    "name": "Semifinal",
+    "code": "SF",
+
+    "has_series": false,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "final",
+    "name": "Final",
+    "code": "F",
+
+    "has_series": false,
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "medal-match",
+    "name": "Medal Match",
+    "code": "MM",
+
+    "has_series": false,
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

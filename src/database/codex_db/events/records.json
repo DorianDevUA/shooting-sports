@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rec_2022_granada_lunev_10apm_sample",
+    "record_type_id": "personal_best",
+    "scope_id": "personal",
+
+    "person_id": "pers_0001",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+
+    "competition_event_id": "ce_2022_granada_10m_air_pistol_men",
+    "event_id": "10m_air_pistol_men",
+    "discipline_id": "10m_air_pistol",
+    "score": 581,
+    "score_display": "581",
+    "date": "2022-05-22",
+    "is_current": true,
+    "created_at": "",
+    "updated_at": ""
+  }
+]

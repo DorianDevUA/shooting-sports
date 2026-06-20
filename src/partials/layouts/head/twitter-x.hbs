@@ -1,0 +1,9 @@
+<meta name="twitter:card" content="summary_large_image" />
+{{! <meta name='twitter:site' content='@your_account' /> }}
+{{! <meta name='twitter:creator' content='@your_account' /> }}
+<meta name="twitter:title" content="{{fallback page.seo.title seo.default.title}} | {{ site.name }}" />
+<meta name="twitter:description" content="{{fallback page.seo.description seo.default.description}}" />
+<meta
+  name="twitter:image"
+  content="{{buildAbsUrl site.url (fallback page.ogImage seo.default.ogImage)}}"
+/>

@@ -1,0 +1,24 @@
+.discipline-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.discipline-card__body {
+  margin-bottom: 8px;
+}
+
+.discipline-card__title {
+  margin-bottom: var(--space-md);
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-normal);
+}
+
+.discipline-card__footer {
+  display: flex;
+  margin-top: auto;
+}
+
+.discipline-card__link {
+  margin-left: auto;
+}

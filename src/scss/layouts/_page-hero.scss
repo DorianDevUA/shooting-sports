@@ -1,0 +1,53 @@
+.page-hero {
+  --hero-bg-image: url(https://picsum.photos/1600/800);
+
+  display: flex;
+  min-height: 300px;
+
+  color: var(--color-text-inverse);
+
+  background-color: var(--color-bg-dark);
+  background-image:
+    linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0.4) 50%,
+      rgba(0, 0, 0, 0.8) 100%
+    ),
+    var(--hero-bg-image);
+
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  overflow: hidden;
+
+  &--athletes {
+    --hero-bg-image: url(/assets/images/pages/athletes/page-hero-athletes-1600x900.jpg);
+  }
+}
+
+.page-hero__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-block: auto;
+}
+
+.page-hero__title {
+  text-align: center;
+}
+
+.page-hero__breadcrumbs {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.page-hero__breadcrumbs .breadcrumbs__link {
+  &:hover {
+    color: var(--color-text-inverse);
+  }
+}
+
+.page-hero__breadcrumbs .breadcrumbs__current {
+  color: var(--color-text-inverse);
+}

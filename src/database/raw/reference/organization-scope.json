@@ -1,0 +1,27 @@
+[
+  {
+    "id": "international",
+    "name": "International",
+    "description": "Organization operates across multiple countries and has global-level authority or representation."
+  },
+  {
+    "id": "continental",
+    "name": "Continental",
+    "description": "Organization operates within a continent or multi-country regional block (e.g. Europe, Asia, Americas)."
+  },
+  {
+    "id": "national",
+    "name": "National",
+    "description": "Organization operates within a single country and is recognized at the state/national level."
+  },
+  {
+    "id": "regional",
+    "name": "Regional",
+    "description": "Organization operates within a specific region that may include multiple administrative areas inside a country or across nearby territories."
+  },
+  {
+    "id": "local",
+    "name": "Local",
+    "description": "Organization operates within a city, municipality, or very limited geographic area."
+  }
+]

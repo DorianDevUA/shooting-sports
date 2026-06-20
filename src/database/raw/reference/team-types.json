@@ -1,0 +1,34 @@
+[
+  {
+    "id": "national",
+    "slug": "national",
+    "code": "NAT",
+
+    "name": "National Team",
+    "short_name": "National",
+
+    "description": "Official national representative team for international competitions.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "paralympic",
+    "slug": "paralympic",
+    "code": "PAR",
+
+    "name": "Paralympic Team",
+    "short_name": "Paralympic",
+
+    "description": "National paralympic shooting team.",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

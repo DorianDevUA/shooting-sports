@@ -1,0 +1,28 @@
+{{! Newsletter Subscription  }}
+<div class='subscription {{class}}'>
+  {{! Call To Action }}
+  <b class='subscription__call-to-action'>Get our updates</b>
+
+  {{! Form Subscription }}
+  <form class='subscription__form' autocomplete='off'>
+    <label class='u-sr-only' for='email'>Email address</label>
+
+    <input
+      class='subscription__input'
+      type='email'
+      id='email'
+      name='uesr-email'
+      placeholder='Email'
+      autocomplete='email'
+      inputmode='email'
+      required
+    />
+
+    <button class='subscription__btn' type='submit'>
+      <span class='title'>Subscribe</span>
+      <svg class='icon' width='16' height='16' aria-hidden='true'>
+        <use href='assets/icons/sprite.svg#icon-ui-send'></use>
+      </svg>
+    </button>
+  </form>
+</div>

@@ -1,0 +1,32 @@
+.share__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.share__button {
+  display: flex;
+
+  padding: var(--space-sm);
+
+  border-radius: var(--radius-full);
+  color: var(--color-text-secondary);
+
+  transition:
+    color var(--duration-normal) var(--timing-cubic),
+    background-color var(--duration-normal) var(--timing-cubic);
+
+  &:hover,
+  &:focus {
+    color: var(--color-text-inverse);
+    background-color: var(--deep-blue);
+  }
+
+  & > .icon {
+    width: 1rem;
+    height: 1rem;
+    fill: currentColor;
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "comp_issf_grand_prix",
+    "code": "issf_grand_prix",
+    "slug": "issf-grand-prix",
+
+    "name": "ISSF Grand Prix",
+    "short_name": "ISSF GP",
+
+    "level_id": "international",
+    "organizer_id": "org_issf",
+
+    "description": "International Shooting Sport Federation Grand Prix competition series.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

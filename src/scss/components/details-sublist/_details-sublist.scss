@@ -1,0 +1,20 @@
+/* =========================================================
+  INFO TAB | ATHLETE EVENTS
+========================================================= */
+.details-sublist {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 4px;
+}
+
+.details-sublist__item:not(:last-child)::after {
+  content: "/";
+}
+
+.details-sublist__link {
+  font-size: var(--font-size-sm);
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "comp_ed_2022_issf_grand_prix_granada",
+    "slug": "issf-grand-prix-granada-2022",
+    "name": "ISSF Grand Prix Granada 2022",
+    "short_name": "Granada 2022",
+
+    "competition_id": "comp_issf_grand_prix",
+
+    "venue_id": null,
+    "city_id": null,
+    "country_id": null,
+
+    "start_date": "2022-05-22",
+    "end_date": "2022-05-22",
+
+    "source_url": "",
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

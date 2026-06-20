@@ -1,0 +1,7 @@
+{
+  "slug": "contacts",
+  "title": "Contacts",
+  "description": "",
+  "keywords": "",
+  "breadcrumbs": [{ "label": "Home", "path": "/" }, { "label": "Contacts" }]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pers_occ_0001",
+
+    "person_id": "pers_0001",
+    "occupation_id": "athlete",
+
+    "started_at": "2010-01-01",
+    "ended_at": null,
+
+    "is_primary": true,
+    "is_active": true
+  }
+]

@@ -1,0 +1,42 @@
+<address class='contacts {{class}}'>
+  {{! Contacts Label }}
+  <b class='contacts__title'>Our Contacts</b>
+  {{! Contact List }}
+  <ul class='contacts__list'>
+    {{! Phone }}
+    <li class='contacts__item'>
+      <a class='contacts__link' href='tel:+994124937060' data-type='phone'>
+        <svg class='icon' width='16' height='16' aria-hidden='true'>
+          <use href='assets/icons/sprite.svg#icon-ui-mobile'></use>
+        </svg>
+        <span class='text'>(+994) 12 493 70 60</span>
+      </a>
+    </li>
+
+    {{! Email }}
+    <li class='contacts__item'>
+      <a class='contacts__link' href='mailto:info@aze-shooting.org' data-type='email'>
+        <svg class='icon' width='16' height='16' aria-hidden='true'>
+          <use href='assets/icons/sprite.svg#icon-ui-email'></use>
+        </svg>
+        <span class='text'>info@aze-shooting.org</span>
+      </a>
+    </li>
+
+    {{! Address }}
+    <li class='contacts__item'>
+      <a
+        class='contacts__link'
+        href='https://www.google.com/maps?q=3D+Silk+Way+highway,+Baku'
+        target='_blank'
+        rel='noopener noreferrer'
+        data-type='location'
+      >
+        <svg class='icon' width='16' height='16' aria-hidden='true'>
+          <use href='assets/icons/sprite.svg#icon-ui-location'></use>
+        </svg>
+        <span class='text'>3D Silk Way highway, Baku</span>
+      </a>
+    </li>
+  </ul>
+</address>

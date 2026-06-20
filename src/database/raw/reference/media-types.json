@@ -1,0 +1,35 @@
+[
+  {
+    "id": "image",
+    "code": "image",
+    "name": "Image",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "video",
+    "code": "video",
+    "name": "Video",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "audio",
+    "code": "audio",
+    "name": "Audio",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "granada_shooting_range",
+    "code": "granada_shooting_range",
+    "slug": "granada-shooting-range",
+
+    "name": "Granada Shooting Range",
+    "short_name": "Granada Range",
+    "description": "Official shooting venue in Granada.",
+
+    "venue_type_id": "shooting_range",
+
+    "city_id": "granada",
+
+    "address": "Calle Example, 123",
+    "postal_code": "18001",
+    "latitude": 37.1773,
+    "longitude": -3.5986,
+
+    "notes": "",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

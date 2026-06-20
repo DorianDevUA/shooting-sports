@@ -1,0 +1,258 @@
+/* Event Banner*/
+// .competition-banner {
+//   display: flex;
+//   flex-direction: column;
+//   align-items: flex-start;
+//   gap: var(--space-3xl);
+
+//   padding: var(--space-3xl);
+
+//   border-radius: var(--radius-md);
+
+//   background-color: var(--color-bg-deep-blue);
+//   background-image: linear-gradient(
+//     135deg,
+//     rgba(15, 23, 36, 0),
+//     rgba(15, 23, 36, 1)
+//   );
+
+//   @media (max-width: 576px) {
+//     padding-block: var(--space-2xl);
+//     padding-inline: var(--space-xl);
+//   }
+
+//   @media (min-width: 1024px) {
+//     flex-direction: row;
+//     justify-content: space-between;
+//     align-items: center;
+//   }
+
+//   &--upcoming {
+//   }
+
+//   &--live {
+//   }
+
+//   &--finished {
+//   }
+// }
+
+// .competition-banner__content {
+//   display: flex;
+//   flex-direction: column;
+//   gap: var(--space-lg);
+
+//   color: rgba(255, 255, 255, 0.7);
+// }
+
+// .competition-banner__label {
+//   color: rgba(255, 255, 255, 0.7);
+
+//   text-transform: uppercase;
+//   font-size: var(--font-size-sm);
+//   letter-spacing: var(--tracking-ui);
+// }
+
+// .competition-banner__title {
+//   font-size: var(--font-size-3xl);
+//   line-height: var(--line-height-base);
+//   color: var(--color-text-inverse);
+// }
+
+// .competition-banner__text {
+//   color: rgba(255, 255, 255, 0.7);
+// }
+
+// .competition-banner__link {
+//   display: inline-flex;
+
+//   padding-block: var(--space-lg);
+//   padding-inline: var(--space-xl);
+
+//   border-radius: var(--radius-xl);
+
+//   font-weight: 700;
+//   white-space: nowrap;
+//   color: var(--color-text-dark);
+
+//   background-color: var(--color-bg-primary);
+// }
+
+.competition-banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-xl);
+
+  padding: var(--space-lg);
+  border-radius: var(--radius-md);
+
+  background-color: var(--color-bg-deep-blue);
+  background-image: linear-gradient(
+    135deg,
+    var(--color-bg-dark-blue) 0%,
+    var(--color-bg-deep-blue) 100%
+  );
+
+  color: var(--color-text-inverse);
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    align-items: center;
+
+    padding: var(--space-2xl);
+  }
+}
+
+.competition-banner__content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.competition-banner__meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+.competition-banner__status {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  min-height: 2.5rem;
+  padding-inline: var(--space-lg);
+
+  border-radius: var(--radius-full);
+
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  line-height: 1;
+
+  background-color: rgba(255, 255, 255, 0.2);
+
+  /* Upcoming */
+  .competition-banner--upcoming & {
+    background-color: rgba(59, 130, 246, 0.2);
+    color: #cbffca;
+  }
+
+  /* Live */
+  .competition-banner--live & {
+    background-color: rgba(239, 68, 68, 0.2);
+    color: #fca5a5;
+  }
+
+  /* Finished */
+  .competition-banner--finished & {
+    background-color: rgba(107, 114, 128, 0.25);
+    color: #d1d5db;
+  }
+}
+
+.competition-banner__timer {
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-relaxed);
+
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.competition-banner__timer-value {
+  font-weight: 700;
+  color: var(--color-text-inverse);
+}
+
+.competition-banner__main {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+.competition-banner__title {
+  font-size: var(--font-size-3xl);
+  line-height: var(--line-height-base);
+
+  @media (min-width: 1024px) {
+    font-size: var(--font-size-4xl);
+  }
+}
+
+.competition-banner__disciplines {
+  // font-size: var(--font-size-2xl);
+  // font-weight: 500;
+}
+
+.competition-banner__flag {
+  width: 32px;
+}
+
+.competition-banner__location {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.competition-banner__venue {
+  font-size: var(--font-size-md);
+}
+
+.competition-banner__date {
+  font-size: var(--font-size-xs);
+  line-height: 1;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.competition-banner__description {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.competition-banner__actions {
+  width: 100%;
+
+  @media (min-width: 768px) {
+    width: auto;
+  }
+}
+
+.competition-banner__link-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+
+  width: 100%;
+
+  padding-block: var(--space-lg);
+  padding-inline: var(--space-xl);
+
+  border-radius: var(--radius-full);
+
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  line-height: 1;
+
+  color: var(--color-text-deep-blue);
+  background-color: var(--color-bg-primary);
+
+  text-decoration: none;
+
+  transition:
+    color var(--duration-normal) var(--timing-cubic),
+    background-color var(--duration-normal) var(--timing-cubic),
+    transform var(--duration-normal) var(--timing-cubic);
+
+  &:hover {
+    color: var(--color-text-dark-blue);
+  }
+
+  .competition-banner--finished & {
+    background-color: var(--color-bg-secondary);
+  }
+
+  @media (min-width: 768px) {
+    width: auto;
+  }
+}

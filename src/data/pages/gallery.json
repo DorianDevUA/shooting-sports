@@ -1,0 +1,8 @@
+{
+  "slug": "gallery",
+  "title": "Gallery",
+  "description": "",
+  "keywords": "",
+  "canonical": "https://doriandevois.github.io/aze-shooting/gallery/",
+  "breadcrumbs": [{ "label": "Home", "path": "/" }, { "label": "Gallery" }]
+}

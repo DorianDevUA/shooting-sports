@@ -1,0 +1,15 @@
+[
+  {
+    "id": "emr_0001",
+
+    "gallery_id": "gallery_0001",
+
+    "entity_id": "issf_world_cup_munich_2026",
+    "entity_type": "competition_edition",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

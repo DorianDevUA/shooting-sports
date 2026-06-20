@@ -1,0 +1,69 @@
+[
+  {
+    "id": "secondary",
+    "code": "secondary",
+
+    "name": "Secondary Education",
+    "short_name": "Secondary",
+    "description": "Completed secondary school education",
+
+    "level": 1,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "technical",
+    "code": "technical",
+
+    "name": "Technical Education",
+    "short_name": "Technical",
+
+    "description": "Technical or vocational college education",
+
+    "level": 2,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "higher",
+    "code": "higher",
+
+    "name": "Higher Education",
+    "short_name": "Higher",
+
+    "description": "University education (Bachelor or equivalent)",
+
+    "level": 3,
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "postgraduate",
+    "code": "postgraduate",
+
+    "name": "Postgraduate Education",
+    "short_name": "Postgraduate",
+
+    "description": "Master's, doctoral or postgraduate studies",
+
+    "level": 4,
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

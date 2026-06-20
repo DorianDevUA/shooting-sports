@@ -1,0 +1,80 @@
+.medals-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.medals-table__th,
+.medals-table__td {
+  padding-block: var(--space-sm);
+  padding-inline: var(--space-xs);
+  font-size: var(--font-size-sm);
+}
+
+.medals-table__th {
+  &--team {
+    text-align: left;
+  }
+
+  &--total {
+    font-weight: bold;
+  }
+}
+
+.medals-table__td {
+  &--rank {
+    width: 50px;
+
+    font-weight: 500;
+  }
+
+  &--noc {
+    display: flex;
+    gap: 8px;
+    font-weight: 500;
+  }
+
+  &--flag {
+    width: 28px;
+  }
+
+  &--count {
+    width: 50px;
+  }
+
+  &--total-count {
+    width: 60px;
+    font-weight: 700;
+  }
+
+  &--footer-amount {
+    font-weight: 700;
+    text-align: right;
+  }
+
+  &--footer-count,
+  &--footer-total {
+    font-weight: 700;
+  }
+}
+
+.medals-table__row {
+  border-bottom: 1px solid var(--color-border-strong-dark); // Тонка лінія під кожним рядком
+
+  &--header {
+    border-bottom: 2px solid var(--color-border-dark); // Товстіша лінія під шапкою
+  }
+
+  &--footer {
+    border-top: 1px solid var(--color-border-strong-dark);
+    border-bottom: none; // У футера немає нижньої лінії
+  }
+}
+
+.medals-table__country {
+}
+
+.medals-table__flag {
+  width: 1.5rem;
+  min-width: 1.5rem;
+}

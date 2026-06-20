@@ -1,0 +1,56 @@
+[
+  {
+    "id": "issf_grand_prix",
+    "code": "issf_grand_prix",
+    "slug": "issf-grand-prix",
+
+    "name": "ISSF Grand Prix",
+    "short_name": "ISSF GP",
+
+    "level_id": "international",
+
+    "description": "International Shooting Sport Federation Grand Prix competition series.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "issf_world_cup",
+    "code": "issf_world_cup",
+    "slug": "issf-world-cup",
+
+    "name": "ISSF World Cup",
+    "short_name": "ISSF WC",
+
+    "level_id": "international",
+
+    "description": "ISSF World Cup series featuring elite international shooting competitions across multiple stages each year.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "issf_world_championship",
+    "code": "issf_world_championship",
+    "slug": "issf-world-championship",
+
+    "name": "ISSF World Championship",
+    "short_name": "ISSF WCh",
+
+    "level_id": "international",
+
+    "description": "The premier ISSF competition determining world champions in all shooting disciplines.",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

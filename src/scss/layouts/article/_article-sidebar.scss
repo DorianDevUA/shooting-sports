@@ -1,0 +1,12 @@
+.article-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2xl);
+
+  width: 100%;
+
+  @media (min-width: 1024px) {
+    flex-shrink: 0;
+    width: 360px;
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "shooting-sports",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node asf_db/server/server.js",
+    "serv": "nodemon asf_db/server/server.js",
+    "dev": "vite --host",
+    "build": "vite build --base=/shooting-sports/",
+    "preview": "vite preview",
+    "build:athletes": "node src/js/scripts/build-athletes.js",
+    "build:articles": "node src/js/scripts/build-articles.js",
+    "build:competitions": "node src/js/scripts/build-competitions.js",
+    "generate:athlete-seo": "node src/js/scripts/generate-athlete-seo-profiles.js",
+    "generate:athlete-pages": "node src/js/scripts/generate-athlete-pages.js"
+  },
+  "devDependencies": {
+    "@vituum/vite-plugin-handlebars": "^2.0.2",
+    "nodemon": "^3.1.14",
+    "sass": "^1.98.0",
+    "vite": "^8.0.1",
+    "vituum": "^2.0.1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "pg": "^8.20.0",
+    "swiper": "^12.1.3"
+  }
+}

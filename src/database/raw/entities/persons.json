@@ -1,0 +1,1720 @@
+[
+  {
+    "id": "pers_0001",
+    "slug": "lunev-ruslan",
+    "code": "lunev_ruslan",
+    "role_id": "athlete",
+
+    "first_name": "Ruslan",
+    "last_name": "Lunev",
+
+    "gender_id": "male",
+    "date_of_birth": "1989-07-25",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "marital_status_id": "single",
+
+    "sort_order": 1,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0002",
+    "slug": "kalmikov-vladislav",
+    "code": "kalmikov_vladislav",
+    "role_id": "athlete",
+
+    "first_name": "Vladislav",
+    "last_name": "Kalmikov",
+
+    "gender_id": "male",
+    "date_of_birth": "2004-03-10",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/kalmikov-vladislav/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 2,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0003",
+    "slug": "musayev-haji",
+    "code": "musayev_haji",
+    "role_id": "athlete",
+
+    "first_name": "Haji",
+    "last_name": "Musayev",
+
+    "gender_id": "male",
+    "date_of_birth": "2004-09-11",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/musayev-haji/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 3,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0004",
+    "slug": "astanov-elvin",
+    "code": "astanov_elvin",
+    "role_id": "athlete",
+
+    "first_name": "Elvin",
+    "last_name": "Astanov",
+
+    "gender_id": "male",
+    "date_of_birth": "1996-07-23",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": 178,
+    "weight": 58,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/astanov-elvin/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 4,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0005",
+    "slug": "mammadov-rasul",
+    "code": "mammadov_rasul",
+    "role_id": "athlete",
+
+    "first_name": "Rasul",
+    "last_name": "Mammadov",
+
+    "gender_id": "male",
+    "date_of_birth": "1984-05-20",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "balakan",
+    "hometown_id": "balakan",
+    "residence_id": "baku",
+
+    "height": 172,
+    "weight": 72,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/mammadov-rasul/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 5,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "pers_0006",
+    "slug": "garayev-imran",
+    "code": "garayev_imran",
+    "role_id": "athlete",
+
+    "first_name": "Imran",
+    "last_name": "Garayev",
+
+    "gender_id": "male",
+    "date_of_birth": "2006-08-06",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/garayev-imran/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 6,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0007",
+    "slug": "kerzhankin-oleg",
+    "code": "kerzhankin_oleg",
+    "role_id": "athlete",
+
+    "first_name": "Oleg",
+    "last_name": "Kerzhankin",
+
+    "gender_id": "male",
+    "date_of_birth": "2007-12-14",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/kerzhankin-oleg/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 7,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0008",
+    "slug": "huseynli-onur",
+    "code": "huseynli_onur",
+    "role_id": "athlete",
+
+    "first_name": "Onur",
+    "last_name": "Huseynli",
+
+    "gender_id": "male",
+    "date_of_birth": "2007-04-01",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/huseynli-onur/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 8,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0011",
+    "slug": "khalilov-ramiz",
+    "code": "khalilov_ramiz",
+    "role_id": "athlete",
+
+    "first_name": "Ramiz",
+    "last_name": "Khalilov",
+
+    "gender_id": "male",
+    "date_of_birth": "2002-04-08",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/khalilov-ramiz/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 11,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0012",
+    "slug": "tapdigli-uzeyir",
+    "code": "tapdigli_uzeyir",
+    "role_id": "athlete",
+
+    "first_name": "Uzeyir",
+    "last_name": "Tapdigli",
+
+    "gender_id": "male",
+    "date_of_birth": "1999-05-28",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/tapdigli-uzeyir/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 12,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0013",
+    "slug": "sofiyev-zahid",
+    "code": "sofiyev_zahid",
+    "role_id": "athlete",
+
+    "first_name": "Zahid",
+    "last_name": "Sofiyev",
+
+    "gender_id": "male",
+    "date_of_birth": "2006-07-22",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/sofiyev-zahid/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 13,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0014",
+    "slug": "aghazada-niyaz",
+    "code": "aghazada_niyaz",
+    "role_id": "athlete",
+
+    "first_name": "Niyaz",
+    "last_name": "Aghazada",
+
+    "gender_id": "male",
+    "date_of_birth": "1996-02-24",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": 185,
+    "weight": 70,
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/aghazada-niyaz/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 14,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0015",
+    "slug": "gurbanov-fuad",
+    "code": "gurbanov_fuad",
+    "role_id": "athlete",
+
+    "first_name": "Fuad",
+    "last_name": "Gurbanov",
+
+    "gender_id": "male",
+    "date_of_birth": "1994-08-27",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": 168,
+    "weight": 71,
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/gurbanov-fuad/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 15,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0016",
+    "slug": "hasanov-javid",
+    "code": "hasanov_javid",
+    "role_id": "athlete",
+
+    "first_name": "Javid",
+    "last_name": "Hasanov",
+
+    "gender_id": "male",
+    "date_of_birth": "2001-04-23",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/hasanov-javid/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 16,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0017",
+    "slug": "mustafayev-ali",
+    "code": "mustafayev_ali",
+    "role_id": "athlete",
+
+    "first_name": "Ali",
+    "last_name": "Mustafayev",
+
+    "gender_id": "male",
+    "date_of_birth": "1995-03-12",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/mustafayev-ali/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 17,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0018",
+    "slug": "teyublu-mahammad",
+    "code": "teyublu_mahammad",
+    "role_id": "athlete",
+
+    "first_name": "Mahammad",
+    "last_name": "Teyublu",
+
+    "gender_id": "male",
+    "date_of_birth": "2007-09-17",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "lokbatan",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 18,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0019",
+    "slug": "gurbanov-aslan",
+    "code": "gurbanov_aslan",
+    "role_id": "athlete",
+
+    "first_name": "Aslan",
+    "last_name": "Gurbanov",
+
+    "gender_id": "male",
+    "date_of_birth": "2007-06-26",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 19,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0020",
+    "slug": "asadullayev-abidin",
+    "code": "asadullayev_abidin",
+    "role_id": "athlete",
+
+    "first_name": "Abidin",
+    "last_name": "Asadullayev",
+
+    "gender_id": "male",
+    "date_of_birth": "2006-07-27",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 20,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0023",
+    "slug": "huseynli-ali",
+    "code": "huseynli_ali",
+    "role_id": "athlete",
+
+    "first_name": "Ali",
+    "last_name": "Huseynli",
+
+    "gender_id": "male",
+    "date_of_birth": "1994-01-29",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/huseynli-ali/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 23,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0024",
+    "slug": "guliyev-alimirza",
+    "code": "guliyev_alimirza",
+    "role_id": "athlete",
+
+    "first_name": "Alimirza",
+    "last_name": "Guliyev",
+
+    "gender_id": "male",
+    "date_of_birth": "1996-06-09",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": "shorabad",
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/guliyev-alimirza/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 24,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0025",
+    "slug": "mammadov-tamerlan",
+    "code": "mammadov_tamerlan",
+    "role_id": "athlete",
+
+    "first_name": "Tamerlan",
+    "last_name": "Mammadov",
+
+    "gender_id": "male",
+    "date_of_birth": "1984-01-16",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/mammadov-tamerlan/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 25,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0026",
+    "slug": "aghazada-mirmomin",
+    "code": "aghazada_mirmomin",
+    "role_id": "athlete",
+
+    "first_name": "Mirmomin",
+    "last_name": "Aghazada",
+
+    "gender_id": "male",
+    "date_of_birth": "1998-03-20",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/aghazada-mirmomin/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 26,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0027",
+    "slug": "mehdizade-sabir",
+    "code": "mehdizade_sabir",
+    "role_id": "athlete",
+
+    "first_name": "Sabir",
+    "last_name": "Mehdizade",
+
+    "gender_id": "male",
+    "date_of_birth": "1998-12-20",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/mehdizade-sabir/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 27,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0028",
+    "slug": "novruzlu-murtaza",
+    "code": "novruzlu_murtaza",
+    "role_id": "athlete",
+
+    "first_name": "Murtaza",
+    "last_name": "Novruzlu",
+
+    "gender_id": "male",
+    "date_of_birth": "2008-08-30",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 28,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0029",
+    "slug": "aliyev-osman",
+    "code": "aliyev_osman",
+    "role_id": "athlete",
+
+    "first_name": "Osman",
+    "last_name": "Aliyev",
+
+    "gender_id": "male",
+    "date_of_birth": "2012-01-01",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 29,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0030",
+    "slug": "nasirova-nigar",
+    "code": "nasirova_nigar",
+    "role_id": "athlete",
+
+    "first_name": "Nigar",
+    "last_name": "Nasirova",
+
+    "gender_id": "female",
+    "date_of_birth": "1987-09-16",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": 165,
+    "weight": 50,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/nasirova-nigar/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 30,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0031",
+    "slug": "aliyeva-khanna",
+    "code": "aliyeva_khanna",
+    "role_id": "athlete",
+
+    "first_name": "Khanna",
+    "last_name": "Aliyeva",
+
+    "gender_id": "female",
+    "date_of_birth": "2002-04-19",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/aliyeva-khanna/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 31,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0032",
+    "slug": "sultanova-zeynab",
+    "code": "sultanova_zeynab",
+    "role_id": "athlete",
+
+    "first_name": "Zeynab",
+    "last_name": "Sultanova",
+
+    "gender_id": "female",
+    "date_of_birth": "2003-11-12",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/sultanova-zeynab/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 32,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0033",
+    "slug": "barkhalova-sofiya",
+    "code": "barkhalova_sofiya",
+    "role_id": "athlete",
+
+    "first_name": "Sofiya",
+    "last_name": "Barkhalova",
+
+    "gender_id": "female",
+    "date_of_birth": "2004-02-06",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/barkhalova-sofiya/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 33,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0034",
+    "slug": "aliyeva-leyli",
+    "code": "aliyeva_leyli",
+    "role_id": "athlete",
+
+    "first_name": "Leyli",
+    "last_name": "Aliyeva",
+
+    "gender_id": "female",
+    "date_of_birth": "2007-09-10",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/aliyeva-leyli/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 34,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0035",
+    "slug": "gambayeva-mehriban",
+    "code": "gambayeva_mehriban",
+    "role_id": "athlete",
+
+    "first_name": "Mehriban",
+    "last_name": "Gambayeva",
+
+    "gender_id": "female",
+    "date_of_birth": "2008-05-15",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 35,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0036",
+    "slug": "omarova-amina",
+    "code": "omarova_amina",
+    "role_id": "athlete",
+
+    "first_name": "Amina",
+    "last_name": "Omarova",
+
+    "gender_id": "female",
+    "date_of_birth": "2005-06-06",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "khirdalan",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/omarova-amina/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 36,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0038",
+    "slug": "aliyeva-nurana",
+    "code": "aliyeva_nurana",
+    "role_id": "athlete",
+
+    "first_name": "Nurana",
+    "last_name": "Aliyeva",
+
+    "gender_id": "female",
+    "date_of_birth": "1997-05-30",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/aliyeva-nurana/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 38,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0039",
+    "slug": "bayramova-zhala",
+    "code": "bayramova_zhala",
+    "role_id": "athlete",
+
+    "first_name": "Zhala",
+    "last_name": "Bayramova",
+
+    "gender_id": "female",
+    "date_of_birth": "1994-07-17",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/bayramova-zhala/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 39,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0040",
+    "slug": "ramazanova-nigar",
+    "code": "ramazanova_nigar",
+    "role_id": "athlete",
+
+    "first_name": "Nigar",
+    "last_name": "Ramazanova",
+
+    "gender_id": "female",
+    "date_of_birth": "2003-08-28",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/ramazanova-nigar/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 40,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0041",
+    "slug": "mahmudova-aynur",
+    "code": "mahmudova_aynur",
+    "role_id": "athlete",
+
+    "first_name": "Aynur",
+    "last_name": "Mahmudova",
+
+    "gender_id": "female",
+    "date_of_birth": "1991-01-10",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/mahmudova-aynur/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 41,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0043",
+    "slug": "afsana-elvina",
+    "code": "afsana_elvina",
+    "role_id": "athlete",
+
+    "first_name": "Elvina",
+    "last_name": "Afsana",
+
+    "gender_id": "female",
+    "date_of_birth": "2007-08-04",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 43,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0044",
+    "slug": "jafarova-nurlana",
+    "code": "jafarova_nurlana",
+    "role_id": "athlete",
+
+    "first_name": "Nurlana",
+    "last_name": "Jafarova",
+
+    "gender_id": "female",
+    "date_of_birth": "1982-08-11",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": 164,
+    "weight": 54,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/jafarova-nurlana/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 44,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0045",
+    "slug": "meftakhetdinova-rigina",
+    "code": "meftakhetdinova_rigina",
+    "role_id": "athlete",
+
+    "first_name": "Rigina",
+    "last_name": "Meftakhetdinova",
+
+    "gender_id": "female",
+    "date_of_birth": "1990-02-05",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": 167,
+    "weight": 52,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": "right",
+
+    "images": {
+      "portrait": "assets/images/athletes/meftakhetdinova-rigina/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 45,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0046",
+    "slug": "najafova-sevda",
+    "code": "najafova_sevda",
+    "role_id": "athlete",
+
+    "first_name": "Sevda",
+    "last_name": "Najafova",
+
+    "gender_id": "female",
+    "date_of_birth": "1996-04-04",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": "baku",
+    "hometown_id": "baku",
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/najafova-sevda/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 46,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0047",
+    "slug": "jafarova-narmin",
+    "code": "jafarova_narmin",
+    "role_id": "athlete",
+
+    "first_name": "Narmin",
+    "last_name": "Jafarova",
+
+    "gender_id": "female",
+    "date_of_birth": "2008-01-08",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": null,
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 47,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0049",
+    "slug": "jamalova-aydan",
+    "code": "jamalova_aydan",
+    "role_id": "athlete",
+
+    "first_name": "Aydan",
+    "last_name": "Jamalova",
+
+    "gender_id": "female",
+    "date_of_birth": "1998-04-16",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "images": {
+      "portrait": "assets/images/athletes/jamalova-aydan/portrait.jpg",
+      "preview": null,
+      "original": null
+    },
+
+    "sort_order": 49,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0050",
+    "slug": "pashayeva-jamila",
+    "code": "pashayeva_jamila",
+    "role_id": "athlete",
+
+    "first_name": "Jamila",
+    "last_name": "Pashayeva",
+
+    "gender_id": "female",
+    "date_of_birth": "2005-05-19",
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "height": null,
+    "weight": null,
+
+    "occupation": "Athlete",
+
+    "dominant_eye_id": null,
+    "handedness_id": null,
+
+    "sort_order": 50,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0101",
+    "slug": "lunev-vladimir",
+    "code": "lunev_vladimir",
+
+    "first_name": "Vladimir",
+    "last_name": "Lunev",
+
+    "gender_id": "male",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "sort_order": 101,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0102",
+    "slug": "ahmadzada-subhan",
+    "code": "ahmadzada_subhan",
+    "role_id": "athlete",
+
+    "first_name": "Subhan",
+    "last_name": "Ahmadzada",
+
+    "gender_id": "male",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0103",
+    "slug": "guliev-amil",
+    "code": "guliev_amil",
+    "role_id": "athlete",
+
+    "first_name": "Amil",
+    "last_name": "Guliev",
+
+    "gender_id": "male",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0104",
+    "slug": "karimova-arusa",
+    "code": "karimova_arusa",
+    "role_id": "athlete",
+
+    "first_name": "Arusa",
+    "last_name": "Karimova",
+
+    "gender_id": "female",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0105",
+    "slug": "allahyarova-elvira",
+    "code": "allahyarova_elvira",
+    "role_id": "athlete",
+
+    "first_name": "Elvira",
+    "last_name": "Allahyarova",
+
+    "gender_id": "female",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "balakan",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0106",
+    "slug": "allahverdiyev-murad",
+    "code": "allahverdiyev_murad",
+    "role_id": "athlete",
+
+    "first_name": "Murad",
+    "last_name": "Allahverdiyev",
+
+    "gender_id": "male",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "mehdiabad",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0107",
+    "slug": "ajdarov-eldar",
+    "code": "ajdarov_eldar",
+    "role_id": "athlete",
+
+    "first_name": "Eldar",
+    "last_name": "Ajdarov",
+
+    "gender_id": "male",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": "azerbaijani",
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_0108",
+    "slug": "badalli-narmin",
+    "code": "badalli_narmin",
+    "role_id": "athlete",
+
+    "first_name": "Narmin",
+    "last_name": "Badalli",
+
+    "gender_id": "female",
+    "date_of_birth": null,
+
+    "country_id": "az",
+    "nationality_id": null,
+    "birth_place_id": null,
+    "hometown_id": null,
+    "residence_id": "baku",
+
+    "sort_order": 100,
+    "is_active": true,
+    "created_at": "",
+    "updated_at": ""
+  }
+]

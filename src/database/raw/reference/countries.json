@@ -1,0 +1,197 @@
+[
+  {
+    "id": "az",
+    "slug": "azerbaijan",
+    "name": "Azerbaijan",
+    "region_id": "asia",
+    "code": "AZE",
+    "alpha2": "az",
+    "alpha3": "aze",
+    "flag": "assets/icons/flags/az.svg",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ua",
+    "slug": "ukraine",
+    "name": "Ukraine",
+    "region_id": "europe",
+    "code": "UKR",
+    "alpha2": "ua",
+    "alpha3": "ukr",
+    "flag": "assets/icons/flags/ua.svg",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "tr",
+    "slug": "turkiye",
+    "name": "Türkiye",
+    "region_id": "asia",
+    "code": "TUR",
+    "alpha2": "tr",
+    "alpha3": "tur",
+    "flag": "assets/icons/flags/tr.svg",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "us",
+    "slug": "usa",
+    "name": "United States of America",
+    "region_id": "north_america",
+    "code": "USA",
+    "alpha2": "us",
+    "alpha3": "usa",
+    "flag": "assets/icons/flags/us.svg",
+
+    "sort_order": 4,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "de",
+    "slug": "germany",
+    "name": "Germany",
+    "region_id": "europe",
+    "code": "DEU",
+    "alpha2": "de",
+    "alpha3": "deu",
+    "flag": "assets/icons/flags/de.svg",
+
+    "sort_order": 5,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "fr",
+    "slug": "france",
+    "name": "France",
+    "region_id": "europe",
+    "code": "FRA",
+    "alpha2": "fr",
+    "alpha3": "fra",
+    "flag": "assets/icons/flags/fr.svg",
+
+    "sort_order": 6,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "it",
+    "slug": "italy",
+    "name": "Italy",
+    "region_id": "europe",
+    "code": "ITA",
+    "alpha2": "it",
+    "alpha3": "ita",
+    "flag": "assets/icons/flags/it.svg",
+
+    "sort_order": 7,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "jp",
+    "slug": "japan",
+    "name": "Japan",
+    "region_id": "asia",
+    "code": "JPN",
+    "alpha2": "jp",
+    "alpha3": "jpn",
+    "flag": "assets/icons/flags/jp.svg",
+
+    "sort_order": 8,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "kr",
+    "slug": "south-korea",
+    "name": "South Korea",
+    "region_id": "asia",
+    "code": "KOR",
+    "alpha2": "kr",
+    "alpha3": "kor",
+    "flag": "assets/icons/flags/kr.svg",
+
+    "sort_order": 9,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "gb",
+    "slug": "united-kingdom",
+    "name": "United Kingdom",
+    "region_id": "europe",
+    "code": "GBR",
+    "alpha2": "gb",
+    "alpha3": "gbr",
+    "flag": "assets/icons/flags/gb.svg",
+
+    "sort_order": 10,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "cn",
+    "slug": "china",
+    "name": "China",
+    "region_id": "asia",
+    "code": "CHN",
+    "alpha2": "cn",
+    "alpha3": "chn",
+    "flag": "assets/icons/flags/cn.svg",
+
+    "sort_order": 11,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "es",
+    "slug": "spain",
+    "code": "ESP",
+    "name": "Spain",
+
+    "region_id": "europe",
+
+    "alpha2": "es",
+    "alpha3": "esp",
+
+    "flag": "assets/icons/flags/es.svg",
+
+    "sort_order": 12,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "active",
+    "slug": "active",
+
+    "name": "Active",
+    "description": "Athlete is eligible for training and competition.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "injured",
+    "slug": "injured",
+
+    "name": "Injured",
+    "description": "Athlete temporarily unable to compete due to injury",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "suspended",
+    "slug": "suspended",
+
+    "name": "Suspended",
+    "description": "Athlete is suspended due to disciplinary or administrative reasons",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "retired",
+    "slug": "retired",
+
+    "name": "Retired",
+    "description": "Athlete retired from professional competition.",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

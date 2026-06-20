@@ -1,0 +1,11 @@
+/* LAYOUT */
+.article-layout__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2xl);
+
+  @media (min-width: 1024px) {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}

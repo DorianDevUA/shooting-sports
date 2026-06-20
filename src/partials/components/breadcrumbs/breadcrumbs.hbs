@@ -1,0 +1,22 @@
+{{!-- Рендер лише, якщо в /src/data/pages/page.json є breadcrumbs --}}
+{{#if breadcrumbs}}
+  {{!-- Breadcrumbs --}}
+  <nav class="breadcrumbs {{addClass}}" aria-label="Breadcrumbs">
+    <ol class="breadcrumbs__list">
+      {{#each breadcrumbs}}
+        <!-- breadcrumbs -->
+        <li class="breadcrumbs__item" {{#if @last}}aria-current="page"{{/if}}>
+
+          {{#if @last}}
+            <span class="breadcrumbs__current">{{this.label}}</span>
+          {{else}}
+            <a href="{{this.path}}" class="breadcrumbs__link">
+              {{this.label}}
+            </a>
+          {{/if}}
+
+        </li>
+      {{/each}}
+    </ol>
+  </nav>
+{{/if}}

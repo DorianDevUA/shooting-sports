@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pers_hobby_0001",
+
+    "person_id": "pers_0001",
+    "hobby_id": "internet",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_hobby_0002",
+
+    "person_id": "pers_0001",
+    "hobby_id": "reading",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_hobby_0003",
+
+    "person_id": "pers_0001",
+    "hobby_id": "chess",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

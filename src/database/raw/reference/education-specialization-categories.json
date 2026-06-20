@@ -1,0 +1,86 @@
+[
+  {
+    "id": "natural_sciences",
+    "code": "natural_sciences",
+
+    "name": "Natural Sciences",
+    "short_name": "Natural Sciences",
+    "description": "Mathematics, Computer and Information Sciences, Physical Sciences, Chemical Sciences, Earth and Environmental Sciences, Biological Sciences",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "engineering_technology",
+    "code": "engineering_technology",
+
+    "name": "Engineering and Technology",
+    "short_name": "Engineering & Tech",
+    "description": "Civil, Electrical, Mechanical, Chemical Engineering, Materials, Medical Engineering, Environmental Engineering, Nanotechnology",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "medical_health_sciences",
+    "code": "medical_health_sciences",
+
+    "name": "Medical and Health Sciences",
+    "short_name": "Medical & Health",
+    "description": "Basic Medicine, Clinical Medicine, Health Sciences, Medical Biotechnology",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "agricultural_sciences",
+    "code": "agricultural_sciences",
+
+    "name": "Agricultural Sciences",
+    "short_name": "Agricultural",
+    "description": "Agriculture, Forestry and Fisheries, Animal and Dairy Science, Veterinary Science, Agricultural Biotechnology",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "social_sciences",
+    "code": "social_sciences",
+
+    "name": "Social Sciences",
+    "short_name": "Social Sciences",
+    "description": "Psychology, Economics and Business, Educational Sciences, Sociology, Law, Political Science, Media and Communications",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "humanities",
+    "code": "humanities",
+
+    "name": "Humanities",
+    "short_name": "Humanities",
+    "description": "History and Archaeology, Languages and Literature, Philosophy, Ethics and Religion, Art (Arts, History of Art, Performing Arts)",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

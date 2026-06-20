@@ -1,0 +1,99 @@
+[
+  {
+    "id": "news",
+    "slug": "news",
+    "code": "news",
+    "name": "News",
+    "description": "General federation news",
+    "temp": "🔥 1. Не змішуємо ВСЕ в 'news' 👉 це головна помилка більшості сайтів",
+
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "competitions",
+    "slug": "competitions",
+    "code": "competitions",
+    "name": "Competitions",
+    "description": "Competition-related articles, reports, summaries",
+    "temp": "🔥 2. 'competitions' + 'results' окремо 👉 бо: competitions → історія / опис results → сухі результати",
+
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "announcements",
+    "slug": "announcements",
+    "code": "announcements",
+    "name": "Announcements",
+    "description": "Official announcements and notices",
+    "temp": "🔥 3. 'announcements' — критично, 👉 це: відбори, зміни правил, дедлайни",
+
+    "sort_order": 3,
+    "is_active": true
+  },
+  {
+    "id": "results",
+    "slug": "results",
+    "code": "results",
+    "name": "Results",
+    "description": "Competition results and performance highlights",
+    "temp": "🔥 2. 'competitions' + 'results' окремо 👉 бо: competitions → історія / опис results → сухі результати",
+
+    "sort_order": 4,
+    "is_active": true
+  },
+  {
+    "id": "interviews",
+    "slug": "interviews",
+    "code": "interviews",
+    "name": "Interviews",
+    "description": "Athlete and coach interviews",
+
+    "sort_order": 5,
+    "is_active": true
+  },
+  {
+    "id": "development",
+    "slug": "development",
+    "code": "development",
+    "name": "Development",
+    "description": "Youth, junior and grassroots development",
+    "temp": "🔥 5. 'development' 👉 дуже важливо для: юніорів, програм розвитку",
+
+    "sort_order": 6,
+    "is_active": true
+  },
+  {
+    "id": "federation",
+    "slug": "federation",
+    "code": "federation",
+    "name": "Federation",
+    "description": "Internal federation news, meetings, governance",
+    "temp": "🔥 4. 'federation' 👉 внутрішнє життя: збори, призначення, партнери",
+
+    "sort_order": 7,
+    "is_active": true
+  },
+  {
+    "id": "anti_doping",
+    "slug": "anti-Doping",
+    "code": "anti_doping",
+    "name": "Anti-Doping",
+    "description": "Anti-doping rules, education and updates",
+
+    "sort_order": 8,
+    "is_active": true
+  },
+  {
+    "id": "media",
+    "slug": "media",
+    "code": "media",
+    "name": "Media",
+    "description": "Photo galleries, videos and media releases",
+    "temp": "🔥 6. 'media' 👉 щоб не пхати галереї в news",
+
+    "sort_order": 9,
+    "is_active": true
+  }
+]

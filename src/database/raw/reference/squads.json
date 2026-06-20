@@ -1,0 +1,80 @@
+[
+  {
+    "id": "main",
+    "slug": "main",
+
+    "name": "Main Squad",
+    "description": "Primary athletes representing the national team in major competitions",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "reserve",
+    "slug": "reserve",
+
+    "name": "Reserve Squad",
+    "description": "Backup athletes who may replace main squad members if needed",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "candidate",
+    "slug": "candidate",
+
+    "name": "Candidate Squad",
+    "description": "Athletes considered for future promotion to the national team",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "development",
+    "slug": "development",
+
+    "name": "Development Squad",
+    "description": "Developing athletes within federation program.",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "olympic_pool",
+    "slug": "olympic-pool",
+
+    "name": "Olympic Pool",
+    "description": "Athletes selected as potential Olympic team members",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "training",
+    "slug": "training",
+
+    "name": "Training Squad",
+    "description": "Training camp and preparation roster.",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

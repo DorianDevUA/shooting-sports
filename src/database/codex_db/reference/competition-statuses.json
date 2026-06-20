@@ -1,0 +1,58 @@
+[
+  {
+    "id": "scheduled",
+    "code": "scheduled",
+    "slug": "scheduled",
+
+    "name": "Scheduled",
+    "description": "",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "live",
+    "code": "live",
+    "slug": "live",
+
+    "name": "Live",
+    "description": "",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "completed",
+    "code": "completed",
+    "slug": "completed",
+
+    "name": "Completed",
+    "description": "",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "cancelled",
+    "code": "cancelled",
+    "slug": "cancelled",
+
+    "name": "Cancelled",
+    "description": "",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

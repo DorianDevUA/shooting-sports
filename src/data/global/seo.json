@@ -1,0 +1,1536 @@
+{
+  "default": {
+    "title": "Azerbaijan Shooting Federation",
+    "description": "Official website...",
+    "ogImage": "/assets/images/social/social-preview-1200x630.jpg"
+  },
+  "home": {
+    "code": "home_page",
+    "slug": "home-page",
+    "url": "/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/",
+    "seo": {
+      "title": "Home Page",
+      "description": "Official website of the Azerbaijan Shooting Federation. Competitions, gallery, news, athletes and results.",
+      "keywords": "",
+      "image": "/assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [{ "label": "Home" }]
+  },
+  "about_us": {
+    "code": "about_us",
+    "slug": "about-us",
+    "url": "about-us/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/about-us/",
+    "seo": {
+      "title": "About Us",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "About Us", "path": null }
+    ]
+  },
+  "competitions": {
+    "code": "competitions",
+    "slug": "competitions",
+    "url": "competitions/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/competitions/",
+    "seo": {
+      "title": "Competitions",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "Competitions", "path": null }
+    ]
+  },
+  "disciplines": {
+    "code": "disciplines",
+    "slug": "disciplines",
+    "url": "disciplines/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/disciplines/",
+    "seo": {
+      "title": "Shooting Disciplines",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "Disciplines", "path": null }
+    ]
+  },
+  "athletes": {
+    "code": "athletes",
+    "slug": "athletes",
+    "url": "athletes/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/athletes/",
+    "seo": {
+      "title": "Athletes",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "Athletes", "path": null }
+    ]
+  },
+  "news": {
+    "code": "news",
+    "slug": "news",
+    "url": "news/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/news/",
+    "seo": {
+      "title": "News",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "News", "path": null }
+    ]
+  },
+  "gallery": {
+    "code": "gallery",
+    "slug": "gallery",
+    "url": "gallery/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/gallery/",
+    "seo": {
+      "title": "Image Gallery",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "Gallery", "path": null }
+    ]
+  },
+  "contacts": {
+    "code": "contacts",
+    "slug": "contacts",
+    "url": "contacts/",
+    "canonical": "https://doriandevua.github.io/shooting-sports/contacts/",
+    "seo": {
+      "title": "Our Contacts",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      { "label": "Home", "path": "/" },
+      { "label": "Contacts", "path": null }
+    ]
+  },
+  "events": {
+    "issf_junior_world_champ_suhl_2026": {
+      "code": "issf_junior_world_champ_suhl_2026",
+      "slug": "issf-junior-world-champ-suhl-2026",
+      "url": "competitions/issf-junior-world-champ-suhl-2026/",
+      "canonical": "https://doriandevua.github.io/shooting-sports/competitions/issf-junior-world-champ-suhl-2026/",
+      "seo": {
+        "title": "ISSF Junior World Championship Rifle / Pistol / Shotgun - Suhl, Germany 2026",
+        "description": "Emerging talents battle for global titles with precision, consistency and nerve across eight days of elite competition.",
+        "keywords": "",
+        "image": "assets/images/social/social-preview-1200x630.jpg"
+      },
+      "breadcrumbs": [
+        { "label": "Home", "path": "/" },
+        { "label": "Competitions", "path": "competitions/" },
+        {
+          "label": "ISSF Junior World Championship Rifle / Pistol / Shotgun",
+          "path": null
+        }
+      ]
+    }
+  },
+  "articles": {
+    "ruslan_lunev_gold_10m_air_pistol_issf_granada": {
+      "code": "ruslan_lunev_gold_10m_air_pistol_issf_granada",
+      "slug": "ruslan-lunev-gold-10m-air-pistol-issf-granada",
+      "url": "news/ruslan-lunev-gold-10m-air-pistol-issf-granada/",
+      "canonical": "https://doriandevua.github.io/shooting-sports/news/ruslan-lunev-gold-10m-air-pistol-issf-granada/",
+      "seo": {
+        "title": "Ruslan Lunev Wins Gold in 10m Air Pistol at ISSF Granada",
+        "description": "Azerbaijan's Ruslan Lunev claimed gold in the 10m Air Pistol Men event at the ISSF competition in Granada, Spain, delivering a composed performance against a strong international field.",
+        "keywords": "",
+        "image": "assets/images/social/social-preview-1200x630.jpg"
+      },
+      "breadcrumbs": [
+        { "label": "Home", "path": "/" },
+        { "label": "News", "path": "news/" },
+        {
+          "label": "Ruslan Lunev Wins Gold in 10m Air Pistol at ISSF Granada",
+          "path": null
+        }
+      ]
+    },
+    "issf_officials_azerbaijan_representatives-meeting_baku": {
+      "code": "issf_officials_azerbaijan_representatives-meeting_baku",
+      "slug": "issf-officials-azerbaijan-representatives-meeting-baku",
+      "url": "news/issf-officials-azerbaijan-representatives-meeting-baku/",
+      "canonical": "https://doriandevua.github.io/shooting-sports/news/issf-officials-azerbaijan-representatives-meeting-baku/",
+      "seo": {
+        "title": "Official meeting between ISSF officials and Azerbaijani representatives in Baku",
+        "description": "ISSF President Luciano Rossi and General Secretary Alessandro Nicotra di San Giacomo met the Minister of the Interior & President of the Azerbaijan Shooting Federation Vilayat Eyvazov and Deputy Minister of the Interior Ismat Alijev ahead of the ISSF World Cup in Baku.",
+        "keywords": "",
+        "image": "assets/images/social/social-preview-1200x630.jpg"
+      },
+      "breadcrumbs": [
+        { "label": "Home", "path": "/" },
+        { "label": "News", "path": "news/" },
+        {
+          "label": "Official meeting between ISSF officials and Azerbaijani representatives in Baku",
+          "path": null
+        }
+      ]
+    },
+    "future_of_shooting_sport_est_technology": {
+      "code": "future_of_shooting_sport_est_technology",
+      "slug": "future-of-shooting-sport-est-technology",
+      "url": "news/future-of-shooting-sport-est-technology/",
+      "canonical": "https://doriandevua.github.io/shooting-sports/news/future-of-shooting-sport-est-technology/",
+      "seo": {
+        "title": "Beyond the Target: The Digital Revolution of ISSF and SIUS",
+        "description": "Technology meets expertise: how the ISSF and SIUS are defining the future of Olympic shooting through digital innovation and rigorous official training.",
+        "keywords": "",
+        "image": "assets/images/social/social-preview-1200x630.jpg"
+      },
+      "breadcrumbs": [
+        { "label": "Home", "path": "/" },
+        { "label": "News", "path": "news/" },
+        {
+          "label": "Beyond the Target: The Digital Revolution of ISSF and SIUS",
+          "path": null
+        }
+      ]
+    },
+    "electronic_scoring_systems_precision_engineering": {
+      "code": "electronic_scoring_systems_precision_engineering",
+      "slug": "electronic-scoring-systems-precision-engineering",
+      "url": "news/electronic-scoring-systems-precision-engineering/",
+      "canonical": "https://doriandevua.github.io/shooting-sports/news/electronic-scoring-systems-precision-engineering/",
+      "seo": {
+        "title": "Electronic Scoring Systems: The Science of Micrometric Precision in Shooting Sports",
+        "description": "Discover how laser technology and micrometric precision are transforming shooting sports. From instant feedback to ISSF dual-verification — go behind the scenes of systems where every millimeter determines an Olympic medal.",
+        "keywords": "",
+        "image": "assets/images/social/social-preview-1200x630.jpg"
+      },
+      "breadcrumbs": [
+        { "label": "Home", "path": "/" },
+        { "label": "News", "path": "news/" },
+        {
+          "label": "Electronic Scoring Systems: The Science of Micrometric Precision in Shooting Sports",
+          "path": null
+        }
+      ]
+    }
+  },
+  "ahmadzada_subhan": {
+    "code": "ahmadzada_subhan",
+    "slug": "ahmadzada-subhan",
+    "url": "athletes/ahmadzada-subhan/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/ahmadzada-subhan/",
+    "seo": {
+      "title": "Athlete Ahmadzada Subhan",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Ahmadzada Subhan",
+        "path": null
+      }
+    ]
+  },
+  "guliev_amil": {
+    "code": "guliev_amil",
+    "slug": "guliev-amil",
+    "url": "athletes/guliev-amil/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/guliev-amil/",
+    "seo": {
+      "title": "Athlete Guliev Amil",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Guliev Amil",
+        "path": null
+      }
+    ]
+  },
+  "karimova_arusa": {
+    "code": "karimova_arusa",
+    "slug": "karimova-arusa",
+    "url": "athletes/karimova-arusa/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/karimova-arusa/",
+    "seo": {
+      "title": "Athlete Karimova Arusa",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Karimova Arusa",
+        "path": null
+      }
+    ]
+  },
+  "allahyarova_elvira": {
+    "code": "allahyarova_elvira",
+    "slug": "allahyarova-elvira",
+    "url": "athletes/allahyarova-elvira/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/allahyarova-elvira/",
+    "seo": {
+      "title": "Athlete Allahyarova Elvira",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Allahyarova Elvira",
+        "path": null
+      }
+    ]
+  },
+  "allahverdiyev_murad": {
+    "code": "allahverdiyev_murad",
+    "slug": "allahverdiyev-murad",
+    "url": "athletes/allahverdiyev-murad/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/allahverdiyev-murad/",
+    "seo": {
+      "title": "Athlete Allahverdiyev Murad",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Allahverdiyev Murad",
+        "path": null
+      }
+    ]
+  },
+  "ajdarov_eldar": {
+    "code": "ajdarov_eldar",
+    "slug": "ajdarov-eldar",
+    "url": "athletes/ajdarov-eldar/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/ajdarov-eldar/",
+    "seo": {
+      "title": "Athlete Ajdarov Eldar",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Ajdarov Eldar",
+        "path": null
+      }
+    ]
+  },
+  "badalli_narmin": {
+    "code": "badalli_narmin",
+    "slug": "badalli-narmin",
+    "url": "athletes/badalli-narmin/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/badalli-narmin/",
+    "seo": {
+      "title": "Athlete Badalli Narmin",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Badalli Narmin",
+        "path": null
+      }
+    ]
+  },
+  "lunev_ruslan": {
+    "code": "lunev_ruslan",
+    "slug": "lunev-ruslan",
+    "url": "athletes/lunev-ruslan/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/lunev-ruslan/",
+    "seo": {
+      "title": "Athlete Lunev Ruslan",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Lunev Ruslan",
+        "path": null
+      }
+    ]
+  },
+  "kalmikov_vladislav": {
+    "code": "kalmikov_vladislav",
+    "slug": "kalmikov-vladislav",
+    "url": "athletes/kalmikov-vladislav/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/kalmikov-vladislav/",
+    "seo": {
+      "title": "Athlete Kalmikov Vladislav",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Kalmikov Vladislav",
+        "path": null
+      }
+    ]
+  },
+  "musayev_haji": {
+    "code": "musayev_haji",
+    "slug": "musayev-haji",
+    "url": "athletes/musayev-haji/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/musayev-haji/",
+    "seo": {
+      "title": "Athlete Musayev Haji",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Musayev Haji",
+        "path": null
+      }
+    ]
+  },
+  "astanov_elvin": {
+    "code": "astanov_elvin",
+    "slug": "astanov-elvin",
+    "url": "athletes/astanov-elvin/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/astanov-elvin/",
+    "seo": {
+      "title": "Athlete Astanov Elvin",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Astanov Elvin",
+        "path": null
+      }
+    ]
+  },
+  "mammadov_rasul": {
+    "code": "mammadov_rasul",
+    "slug": "mammadov-rasul",
+    "url": "athletes/mammadov-rasul/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/mammadov-rasul/",
+    "seo": {
+      "title": "Athlete Mammadov Rasul",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Mammadov Rasul",
+        "path": null
+      }
+    ]
+  },
+  "garayev_imran": {
+    "code": "garayev_imran",
+    "slug": "garayev-imran",
+    "url": "athletes/garayev-imran/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/garayev-imran/",
+    "seo": {
+      "title": "Athlete Garayev Imran",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Garayev Imran",
+        "path": null
+      }
+    ]
+  },
+  "kerzhankin_oleg": {
+    "code": "kerzhankin_oleg",
+    "slug": "kerzhankin-oleg",
+    "url": "athletes/kerzhankin-oleg/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/kerzhankin-oleg/",
+    "seo": {
+      "title": "Athlete Kerzhankin Oleg",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Kerzhankin Oleg",
+        "path": null
+      }
+    ]
+  },
+  "huseynli_onur": {
+    "code": "huseynli_onur",
+    "slug": "huseynli-onur",
+    "url": "athletes/huseynli-onur/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/huseynli-onur/",
+    "seo": {
+      "title": "Athlete Huseynli Onur",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Huseynli Onur",
+        "path": null
+      }
+    ]
+  },
+  "khalilov_ramiz": {
+    "code": "khalilov_ramiz",
+    "slug": "khalilov-ramiz",
+    "url": "athletes/khalilov-ramiz/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/khalilov-ramiz/",
+    "seo": {
+      "title": "Athlete Khalilov Ramiz",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Khalilov Ramiz",
+        "path": null
+      }
+    ]
+  },
+  "tapdigli_uzeyir": {
+    "code": "tapdigli_uzeyir",
+    "slug": "tapdigli-uzeyir",
+    "url": "athletes/tapdigli-uzeyir/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/tapdigli-uzeyir/",
+    "seo": {
+      "title": "Athlete Tapdigli Uzeyir",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Tapdigli Uzeyir",
+        "path": null
+      }
+    ]
+  },
+  "sofiyev_zahid": {
+    "code": "sofiyev_zahid",
+    "slug": "sofiyev-zahid",
+    "url": "athletes/sofiyev-zahid/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/sofiyev-zahid/",
+    "seo": {
+      "title": "Athlete Sofiyev Zahid",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Sofiyev Zahid",
+        "path": null
+      }
+    ]
+  },
+  "aghazada_niyaz": {
+    "code": "aghazada_niyaz",
+    "slug": "aghazada-niyaz",
+    "url": "athletes/aghazada-niyaz/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/aghazada-niyaz/",
+    "seo": {
+      "title": "Athlete Aghazada Niyaz",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Aghazada Niyaz",
+        "path": null
+      }
+    ]
+  },
+  "gurbanov_fuad": {
+    "code": "gurbanov_fuad",
+    "slug": "gurbanov-fuad",
+    "url": "athletes/gurbanov-fuad/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/gurbanov-fuad/",
+    "seo": {
+      "title": "Athlete Gurbanov Fuad",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Gurbanov Fuad",
+        "path": null
+      }
+    ]
+  },
+  "hasanov_javid": {
+    "code": "hasanov_javid",
+    "slug": "hasanov-javid",
+    "url": "athletes/hasanov-javid/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/hasanov-javid/",
+    "seo": {
+      "title": "Athlete Hasanov Javid",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Hasanov Javid",
+        "path": null
+      }
+    ]
+  },
+  "mustafayev_ali": {
+    "code": "mustafayev_ali",
+    "slug": "mustafayev-ali",
+    "url": "athletes/mustafayev-ali/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/mustafayev-ali/",
+    "seo": {
+      "title": "Athlete Mustafayev Ali",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Mustafayev Ali",
+        "path": null
+      }
+    ]
+  },
+  "teyublu_mahammad": {
+    "code": "teyublu_mahammad",
+    "slug": "teyublu-mahammad",
+    "url": "athletes/teyublu-mahammad/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/teyublu-mahammad/",
+    "seo": {
+      "title": "Athlete Teyublu Mahammad",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Teyublu Mahammad",
+        "path": null
+      }
+    ]
+  },
+  "gurbanov_aslan": {
+    "code": "gurbanov_aslan",
+    "slug": "gurbanov-aslan",
+    "url": "athletes/gurbanov-aslan/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/gurbanov-aslan/",
+    "seo": {
+      "title": "Athlete Gurbanov Aslan",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Gurbanov Aslan",
+        "path": null
+      }
+    ]
+  },
+  "asadullayev_abidin": {
+    "code": "asadullayev_abidin",
+    "slug": "asadullayev-abidin",
+    "url": "athletes/asadullayev-abidin/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/asadullayev-abidin/",
+    "seo": {
+      "title": "Athlete Asadullayev Abidin",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Asadullayev Abidin",
+        "path": null
+      }
+    ]
+  },
+  "huseynli_ali": {
+    "code": "huseynli_ali",
+    "slug": "huseynli-ali",
+    "url": "athletes/huseynli-ali/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/huseynli-ali/",
+    "seo": {
+      "title": "Athlete Huseynli Ali",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Huseynli Ali",
+        "path": null
+      }
+    ]
+  },
+  "guliyev_alimirza": {
+    "code": "guliyev_alimirza",
+    "slug": "guliyev-alimirza",
+    "url": "athletes/guliyev-alimirza/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/guliyev-alimirza/",
+    "seo": {
+      "title": "Athlete Guliyev Alimirza",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Guliyev Alimirza",
+        "path": null
+      }
+    ]
+  },
+  "mammadov_tamerlan": {
+    "code": "mammadov_tamerlan",
+    "slug": "mammadov-tamerlan",
+    "url": "athletes/mammadov-tamerlan/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/mammadov-tamerlan/",
+    "seo": {
+      "title": "Athlete Mammadov Tamerlan",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Mammadov Tamerlan",
+        "path": null
+      }
+    ]
+  },
+  "aghazada_mirmomin": {
+    "code": "aghazada_mirmomin",
+    "slug": "aghazada-mirmomin",
+    "url": "athletes/aghazada-mirmomin/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/aghazada-mirmomin/",
+    "seo": {
+      "title": "Athlete Aghazada Mirmomin",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Aghazada Mirmomin",
+        "path": null
+      }
+    ]
+  },
+  "mehdizade_sabir": {
+    "code": "mehdizade_sabir",
+    "slug": "mehdizade-sabir",
+    "url": "athletes/mehdizade-sabir/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/mehdizade-sabir/",
+    "seo": {
+      "title": "Athlete Mehdizade Sabir",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Mehdizade Sabir",
+        "path": null
+      }
+    ]
+  },
+  "novruzlu_murtaza": {
+    "code": "novruzlu_murtaza",
+    "slug": "novruzlu-murtaza",
+    "url": "athletes/novruzlu-murtaza/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/novruzlu-murtaza/",
+    "seo": {
+      "title": "Athlete Novruzlu Murtaza",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Novruzlu Murtaza",
+        "path": null
+      }
+    ]
+  },
+  "aliyev_osman": {
+    "code": "aliyev_osman",
+    "slug": "aliyev-osman",
+    "url": "athletes/aliyev-osman/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/aliyev-osman/",
+    "seo": {
+      "title": "Athlete Aliyev Osman",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Aliyev Osman",
+        "path": null
+      }
+    ]
+  },
+  "nasirova_nigar": {
+    "code": "nasirova_nigar",
+    "slug": "nasirova-nigar",
+    "url": "athletes/nasirova-nigar/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/nasirova-nigar/",
+    "seo": {
+      "title": "Athlete Nasirova Nigar",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Nasirova Nigar",
+        "path": null
+      }
+    ]
+  },
+  "aliyeva_khanna": {
+    "code": "aliyeva_khanna",
+    "slug": "aliyeva-khanna",
+    "url": "athletes/aliyeva-khanna/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/aliyeva-khanna/",
+    "seo": {
+      "title": "Athlete Aliyeva Khanna",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Aliyeva Khanna",
+        "path": null
+      }
+    ]
+  },
+  "sultanova_zeynab": {
+    "code": "sultanova_zeynab",
+    "slug": "sultanova-zeynab",
+    "url": "athletes/sultanova-zeynab/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/sultanova-zeynab/",
+    "seo": {
+      "title": "Athlete Sultanova Zeynab",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Sultanova Zeynab",
+        "path": null
+      }
+    ]
+  },
+  "barkhalova_sofiya": {
+    "code": "barkhalova_sofiya",
+    "slug": "barkhalova-sofiya",
+    "url": "athletes/barkhalova-sofiya/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/barkhalova-sofiya/",
+    "seo": {
+      "title": "Athlete Barkhalova Sofiya",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Barkhalova Sofiya",
+        "path": null
+      }
+    ]
+  },
+  "aliyeva_leyli": {
+    "code": "aliyeva_leyli",
+    "slug": "aliyeva-leyli",
+    "url": "athletes/aliyeva-leyli/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/aliyeva-leyli/",
+    "seo": {
+      "title": "Athlete Aliyeva Leyli",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Aliyeva Leyli",
+        "path": null
+      }
+    ]
+  },
+  "gambayeva_mehriban": {
+    "code": "gambayeva_mehriban",
+    "slug": "gambayeva-mehriban",
+    "url": "athletes/gambayeva-mehriban/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/gambayeva-mehriban/",
+    "seo": {
+      "title": "Athlete Gambayeva Mehriban",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Gambayeva Mehriban",
+        "path": null
+      }
+    ]
+  },
+  "omarova_amina": {
+    "code": "omarova_amina",
+    "slug": "omarova-amina",
+    "url": "athletes/omarova-amina/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/omarova-amina/",
+    "seo": {
+      "title": "Athlete Omarova Amina",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Omarova Amina",
+        "path": null
+      }
+    ]
+  },
+  "aliyeva_nurana": {
+    "code": "aliyeva_nurana",
+    "slug": "aliyeva-nurana",
+    "url": "athletes/aliyeva-nurana/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/aliyeva-nurana/",
+    "seo": {
+      "title": "Athlete Aliyeva Nurana",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Aliyeva Nurana",
+        "path": null
+      }
+    ]
+  },
+  "bayramova_zhala": {
+    "code": "bayramova_zhala",
+    "slug": "bayramova-zhala",
+    "url": "athletes/bayramova-zhala/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/bayramova-zhala/",
+    "seo": {
+      "title": "Athlete Bayramova Zhala",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Bayramova Zhala",
+        "path": null
+      }
+    ]
+  },
+  "ramazanova_nigar": {
+    "code": "ramazanova_nigar",
+    "slug": "ramazanova-nigar",
+    "url": "athletes/ramazanova-nigar/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/ramazanova-nigar/",
+    "seo": {
+      "title": "Athlete Ramazanova Nigar",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Ramazanova Nigar",
+        "path": null
+      }
+    ]
+  },
+  "mahmudova_aynur": {
+    "code": "mahmudova_aynur",
+    "slug": "mahmudova-aynur",
+    "url": "athletes/mahmudova-aynur/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/mahmudova-aynur/",
+    "seo": {
+      "title": "Athlete Mahmudova Aynur",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Mahmudova Aynur",
+        "path": null
+      }
+    ]
+  },
+  "afsana_elvina": {
+    "code": "afsana_elvina",
+    "slug": "afsana-elvina",
+    "url": "athletes/afsana-elvina/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/afsana-elvina/",
+    "seo": {
+      "title": "Athlete Afsana Elvina",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Afsana Elvina",
+        "path": null
+      }
+    ]
+  },
+  "jafarova_nurlana": {
+    "code": "jafarova_nurlana",
+    "slug": "jafarova-nurlana",
+    "url": "athletes/jafarova-nurlana/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/jafarova-nurlana/",
+    "seo": {
+      "title": "Athlete Jafarova Nurlana",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Jafarova Nurlana",
+        "path": null
+      }
+    ]
+  },
+  "meftakhetdinova_rigina": {
+    "code": "meftakhetdinova_rigina",
+    "slug": "meftakhetdinova-rigina",
+    "url": "athletes/meftakhetdinova-rigina/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/meftakhetdinova-rigina/",
+    "seo": {
+      "title": "Athlete Meftakhetdinova Rigina",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Meftakhetdinova Rigina",
+        "path": null
+      }
+    ]
+  },
+  "najafova_sevda": {
+    "code": "najafova_sevda",
+    "slug": "najafova-sevda",
+    "url": "athletes/najafova-sevda/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/najafova-sevda/",
+    "seo": {
+      "title": "Athlete Najafova Sevda",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Najafova Sevda",
+        "path": null
+      }
+    ]
+  },
+  "jafarova_narmin": {
+    "code": "jafarova_narmin",
+    "slug": "jafarova-narmin",
+    "url": "athletes/jafarova-narmin/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/jafarova-narmin/",
+    "seo": {
+      "title": "Athlete Jafarova Narmin",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Jafarova Narmin",
+        "path": null
+      }
+    ]
+  },
+  "jamalova_aydan": {
+    "code": "jamalova_aydan",
+    "slug": "jamalova-aydan",
+    "url": "athletes/jamalova-aydan/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/jamalova-aydan/",
+    "seo": {
+      "title": "Athlete Jamalova Aydan",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Jamalova Aydan",
+        "path": null
+      }
+    ]
+  },
+  "pashayeva_jamila": {
+    "code": "pashayeva_jamila",
+    "slug": "pashayeva-jamila",
+    "url": "athletes/pashayeva-jamila/",
+    "canonical": "https://doriandevois.github.io/aze-shooting/athletes/pashayeva-jamila/",
+    "seo": {
+      "title": "Athlete Pashayeva Jamila",
+      "description": "",
+      "keywords": "",
+      "image": "assets/images/social/social-preview-1200x630.jpg"
+    },
+    "breadcrumbs": [
+      {
+        "label": "Home",
+        "path": ""
+      },
+      {
+        "label": "Athletes",
+        "path": "athletes/"
+      },
+      {
+        "label": "Pashayeva Jamila",
+        "path": null
+      }
+    ]
+  }
+}

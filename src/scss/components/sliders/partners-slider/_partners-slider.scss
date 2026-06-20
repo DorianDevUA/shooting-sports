@@ -1,0 +1,17 @@
+.partners-slider__wrapper {
+  padding-top: var(--space-lg);
+  padding-bottom: var(--space-lg);
+  padding-inline: var(--space-xs);
+}
+
+.partners-slider__wrapper .swiper-wrapper {
+  height: auto;
+}
+
+.partners-slider__wrapper .swiper-slide {
+  transition: transform var(--duration-normal) var(--timing-cubic);
+
+  &:hover {
+    transform: translateY(-4px);
+  }
+}

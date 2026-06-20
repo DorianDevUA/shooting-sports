@@ -1,0 +1,58 @@
+[
+  {
+    "id": "active",
+    "code": "active",
+    "slug": "active",
+
+    "name": "Active",
+    "description": "Organization is active and operational.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "inactive",
+    "code": "inactive",
+    "slug": "inactive",
+
+    "name": "Inactive",
+    "description": "Organization exists but is currently inactive.",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "suspended",
+    "code": "suspended",
+    "slug": "suspended",
+
+    "name": "Suspended",
+    "description": "Organization is temporarily suspended from activities or recognition.",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "dissolved",
+    "code": "dissolved",
+    "slug": "dissolved",
+
+    "name": "Dissolved",
+    "description": "Organization has been officially dissolved and no longer operates.",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

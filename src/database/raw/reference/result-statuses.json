@@ -1,0 +1,86 @@
+[
+  {
+    "id": "completed",
+    "code": "OK",
+    "name": "Completed",
+    "description": "Valid completed result",
+
+    "category_id": "valid",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "qualified",
+    "code": "Q",
+    "name": "Qualified",
+    "description": "Participant qualified to the next stage",
+
+    "category_id": "valid",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "dns",
+    "code": "DNS",
+    "name": "Did Not Start",
+    "description": "Athlete did not start the competition",
+
+    "category_id": "non_start",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "dnf",
+    "code": "DNF",
+    "name": "Did Not Finish",
+    "description": "Athlete started but did not finish",
+
+    "category_id": "incomplete",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "dsq",
+    "code": "DSQ",
+    "name": "Disqualified",
+    "description": "Athlete disqualified due to rule violation",
+
+    "category_id": "penalty",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "nm",
+    "code": "NM",
+    "name": "No Mark",
+    "description": "No valid result recorded",
+
+    "category_id": "invalid",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

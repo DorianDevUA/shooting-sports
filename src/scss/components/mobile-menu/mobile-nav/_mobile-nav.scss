@@ -1,0 +1,20 @@
+.mobile-nav {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xl);
+}
+
+.mobile-nav__link {
+  font-size: var(--font-size-4xl);
+  font-weight: 500;
+  color: inherit;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  transition: color var(--duration-normal) var(--timing-cubic);
+
+  &:hover,
+  &:focus {
+    color: var(--color-text-accent);
+  }
+}

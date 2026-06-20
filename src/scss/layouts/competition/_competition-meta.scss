@@ -1,0 +1,27 @@
+.competition-meta {
+  display: flex;
+  align-items: center;
+  column-gap: var(--space-sm);
+
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-divider);
+}
+
+.competition-meta__flag {
+  width: 43px;
+}
+
+.competition-meta__location > .link {
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-text-title);
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.competition-meta__date {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+}

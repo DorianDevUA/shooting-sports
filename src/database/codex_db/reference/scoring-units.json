@@ -1,0 +1,20 @@
+[
+  {
+    "id": "points",
+    "name": "Points",
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "hits",
+    "name": "Hits",
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "time",
+    "name": "Time",
+    "sort_order": 3,
+    "is_active": true
+  }
+]

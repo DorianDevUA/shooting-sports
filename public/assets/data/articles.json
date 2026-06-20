@@ -1,0 +1,196 @@
+[
+  {
+    "id": "art_0001",
+    "slug": "issf-officials-azerbaijan-representatives-meeting-baku",
+    "title": "Official meeting between ISSF officials and Azerbaijani representatives in Baku",
+    "excerpt": "ISSF President Luciano Rossi and General Secretary Alessandro Nicotra di San Giacomo met the Minister of the Interior & President of the Azerbaijan Shooting Federation Vilayat Eyvazov and Deputy Minister of the Interior Ismat Alijev ahead of the ISSF World Cup in Baku.",
+    "content": "<p>ISSF President <strong>Luciano Rossi</strong> and General Secretary <strong>Alessandro Nicotra di San Giacomo</strong> met the Minister of the Interior & President of the Azerbaijan Shooting Federation <strong>Vilayat Eyvazov</strong> and Deputy Minister of the Interior <strong>Ismat Alijev</strong> ahead of the ISSF World Cup in Baku.</p><img src='assets/images/news/issf-leadership-meets-azerbaijan-officials-ahead-baku-world-cup/article-content-image-01.jpg' alt='Official meeting between ISSF and Azerbaijani representatives' width='840' height='480'/><p>The delegations met on Thursday, May 2nd inside the Baku Shooting Center structure to discuss future sporting collaborations and the great tradition and dedication that Azerbaijan has shown towards the sport of shooting.</p><p>President Rossi also honoured Minister Eyvazov with the ISSF gold medal and a commemorative book celebrating 100 years of the Italian Olympic Committee - CONI.</p>",
+    "published": "2024-05-02T10:00:00Z",
+    "tags": [
+      {
+        "id": "azerbaijan",
+        "slug": "azerbaijan",
+        "name": "Azerbaijan",
+        "description": "National level content",
+        "group": {
+          "id": "location",
+          "slug": "location",
+          "name": "Location",
+          "description": "Geographical context"
+        }
+      },
+      {
+        "id": "asf",
+        "slug": "asf",
+        "name": "ASF",
+        "description": "Azerbaijan Shooting Federation",
+        "group": {
+          "id": "organization",
+          "slug": "organization",
+          "name": "Organization",
+          "description": "Organizations and federations"
+        }
+      },
+      {
+        "id": "issf",
+        "slug": "issf",
+        "name": "ISSF",
+        "description": "International Shooting Sport Federation",
+        "group": {
+          "id": "organization",
+          "slug": "organization",
+          "name": "Organization",
+          "description": "Organizations and federations"
+        }
+      }
+    ],
+    "category": {
+      "id": "federation",
+      "slug": "federation",
+      "code": "federation",
+      "name": "Federation",
+      "description": "Internal federation news, meetings, governance"
+    },
+    "status": {
+      "id": "published",
+      "code": "published",
+      "name": "Published",
+      "description": "Article is publicly visible"
+    },
+    "media": {
+      "cover": {
+        "url": "assets/images/news/issf-leadership-meets-azerbaijan-officials-ahead-baku-world-cup/cover.jpg",
+        "alt": "ISSF leadership meeting Azerbaijani officials in Baku",
+        "width": 1200,
+        "height": 800
+      }
+    }
+  },
+  {
+    "id": "art_0003",
+    "slug": "future-of-shooting-sport-est-technology",
+    "title": "Beyond the Target: The Digital Revolution of ISSF and SIUS",
+    "excerpt": "Technology meets expertise: how the ISSF and SIUS are defining the future of Olympic shooting through digital innovation and rigorous official training.",
+    "content": "<p>While technology plays a central role, human expertise remains essential &mdash; particularly for judges operating in this highly technical environment.</p><p>To support this, the ISSF has developed specialised Electronic Scoring Target (EST) courses, designed to equip judges with the knowledge required to manage complex scoring situations in real time.</p><p>These courses typically cover:</p><ul><li>Understanding the operating principles of EST systems</li><li>Calculating scores for unregistered or doubtful shots</li><li>Managing cross-shots and irregular situations</li><li>Conducting pre-competition testing and calibration</li><li>Applying rules related to penalties and score corrections</li></ul><img class='' src='assets/images/news/future-of-shooting-sport-est-technology/article-content-image-01.jpg' alt='' loading='lazy' /><p>Unlike the past, where scoring decisions were made &ldquo;behind closed doors,&rdquo; today&rsquo;s judges often operate under full media visibility, requiring both technical expertise and the ability to make fast, accurate decisions under pressure.</p><p>This is particularly important because, in some cases &mdash; such as penalties or malfunctions &mdash; manual intervention in the scoring system is required, representing one of the few remaining sources of potential error.</p><p>At the same time, electronic scoring has dramatically improved fairness and transparency. The removal of subjective human judgement has reduced disputes, and athletes now have strong confidence in the system.</p><img class='' src='assets/images/news/future-of-shooting-sport-est-technology/article-content-image-02.jpg' alt='' loading='lazy' /><p>For athletes, the impact is equally transformative.</p><p>With instant feedback after every shot, competitors can adjust their strategy in real time. In finals, where decimal scoring is used, even the smallest margins can decide medals &mdash; often by just one tenth of a point.</p><p>Beyond competition, EST data is opening new frontiers in performance analysis and sport development.</p><p>Through innovations such as the Shooting Sports Cloud, SIUS is transforming competition data into a global intelligence system:</p><ul><li>Real-time rankings, automatically updated</li><li>Advanced analytics, including shot timing, consistency, and fatigue patterns</li><li>Talent identification, supporting federations worldwide</li><li>Enhanced fan engagement, through data-driven storytelling</li></ul><p>As Walti explains:</p><blockquote>&ldquo;We didn't just want to measure a shot, we wanted to empower the entire ecosystem.&rdquo;</blockquote><img class='' src='assets/images/news/future-of-shooting-sport-est-technology/article-content-image-03.jpg' alt='' loading='lazy' /><h2>A system built on precision and trust</h2><p>From its early introduction in 1992 to its current role at the heart of Olympic competition, electronic scoring has revolutionised shooting sport.</p><p>It combines cutting-edge technology, rigorous scientific validation, and highly trained officials to deliver a system that athletes trust and audiences can follow in real time.</p><p>As the sport continues to evolve, one thing remains clear: precision is no longer just a matter of performance &mdash; it is built into the very infrastructure of the sport itself.</p>",
+    "published": "2026-04-17T10:00:00Z",
+    "tags": [],
+    "category": {
+      "id": "news",
+      "slug": "news",
+      "code": "news",
+      "name": "News",
+      "description": "General federation news"
+    },
+    "status": {
+      "id": "published",
+      "code": "published",
+      "name": "Published",
+      "description": "Article is publicly visible"
+    },
+    "media": {
+      "cover": {
+        "url": "assets/images/news/future-of-shooting-sport-est-technology/cover.jpg",
+        "alt": "A judge and an arbitrator observing shooters on the firing line during an ISSF competition equipped with SIUS electronic scoring systems.",
+        "width": 1200,
+        "height": 800
+      }
+    }
+  },
+  {
+    "id": "art_0002",
+    "slug": "electronic-scoring-systems-precision-engineering",
+    "title": "Electronic Scoring Systems: The Science of Micrometric Precision in Shooting Sports",
+    "excerpt": "Discover how laser technology and micrometric precision are transforming shooting sports. From instant feedback to ISSF dual-verification — go behind the scenes of systems where every millimeter determines an Olympic medal.",
+    "content": "<p>At the heart of EST lies an exceptional level of scientific precision. Modern systems measure shot placement with micrometric accuracy, detecting the exact position of a projectile as it reaches the target.</p><p>The evolution of technology has been significant:</p><ul><li>Early systems relied on acoustic detection, using microphones to capture sound waves generated as a projectile passed through a target membrane</li><li>Modern systems use laser-based detection, where beams of light are interrupted by the projectile to calculate exact X and Y coordinates</li></ul><div><img src='assets/images/news/electronic-scoring-systems-precision-engineering/news-img-01-w1200.jpg' alt='' width='1200' height='800' /></div><p>These measurements are instantaneous and precise, allowing scores &mdash; including decimal scoring in finals &mdash; to be displayed in real time.</p><p>However, ensuring accuracy goes beyond technology alone.</p><p>The ISSF has established a Target Testing Group, composed of specialists who rigorously verify system performance. A key method used is photogrammetry, an independent validation process:</p><ul><li>A calibrated paper target is placed in front of the EST</li><li>After each shot, three digital cameras capture the bullet hole</li><li>Using a grid system, the exact position is calculated</li></ul><p>Results are compared directly with the electronic score</p><div><img src='assets/images/news/electronic-scoring-systems-precision-engineering/news-img-02-w1200.jpg' alt='' width='1200' height='800' /></div><p>This dual-verification system ensures that electronic scoring remains fully reliable and scientifically validated, with methodologies confirmed by independent universities.</p><p>Behind the scenes, reliability is further ensured through:</p><ul><li>Sensors sampling hundreds of thousands of times per second</li><li>Built-in redundancy and error-correction systems</li><li>Pre- and post-competition maintenance and testing</li><li>Continuous monitoring by experienced technicians</li></ul><p>As Thomas Walti, CEO of Sius, explains, delivering flawless performance over competitions involving tens of thousands of shots requires both advanced engineering and highly skilled human oversight.</p>",
+    "published": "2026-04-16T10:00:00Z",
+    "tags": [],
+    "category": {
+      "id": "news",
+      "slug": "news",
+      "code": "news",
+      "name": "News",
+      "description": "General federation news"
+    },
+    "status": {
+      "id": "published",
+      "code": "published",
+      "name": "Published",
+      "description": "Article is publicly visible"
+    },
+    "media": {
+      "cover": {
+        "url": "assets/images/news/electronic-scoring-systems-precision-engineering/cover.jpg",
+        "alt": "A close-up of a sport shooter loading a pistol at a competition table featuring a SIUS electronic monitor displaying real-time shot data.",
+        "width": 1200,
+        "height": 800
+      }
+    }
+  },
+  {
+    "id": "art_0004",
+    "slug": "ruslan-lunev-gold-10m-air-pistol-issf-granada",
+    "title": "Ruslan Lunev Wins Gold in 10m Air Pistol at ISSF Granada",
+    "excerpt": "Azerbaijan's Ruslan Lunev claimed gold in the 10m Air Pistol Men event at the ISSF competition in Granada, Spain, delivering a composed performance against a strong international field.",
+    "content": "<p>The opening day of finals at the ISSF competition in <strong>Granada, Spain</strong> brought excitement across all 10m individual events, but it was Azerbaijan's <strong>Ruslan Lunev</strong> who delivered the standout performance of the day. Lunev claimed <strong>gold in the 10m Air Pistol Men</strong> event, showcasing a confident and composed display on the international stage.</p><img src='assets/images/news/ruslan-lunev-gold-10m-air-pistol-issf-granada/content-img-01.jpg' alt='Athlete Ruslan Lunev' width='840' height='480'/><p>A winner and medalist of the ISSF Grand Prix, Lunev once again proved his class in a tense final. He held off strong competition, including Tokyo 2020 Olympic silver medalist <strong>Damir Mikec</strong> of Serbia, who finished second. Bronze went to South Korea's <strong>Wonho Lee</strong>, marking an impressive debut at ISSF level.</p><p> Despite strong performances across all events, the highlight of the day remained <strong>Ruslan Lunev's</strong> victory — a significant achievement for Azerbaijan on the international stage.</p><blockquote>&ldquo;This result reflects the dedication of our athletes and coaching staff. We are proud to represent Azerbaijan at the highest level.&rdquo;</blockquote><p>Coaches also highlighted the importance of long-term athlete development, emphasizing the federation's investment in youth programs and international preparation camps.</p>",
+    "published": "2022-05-22T17:00:00Z",
+    "tags": [
+      {
+        "id": "spain",
+        "slug": "spain",
+        "name": "Spain",
+        "description": "National level content",
+        "group": {
+          "id": "location",
+          "slug": "location",
+          "name": "Location",
+          "description": "Geographical context"
+        }
+      },
+      {
+        "id": "winner",
+        "slug": "winner",
+        "name": "Winner",
+        "description": "Indicates first place or gold medal winner",
+        "group": {
+          "id": "achievement",
+          "slug": "achievement",
+          "name": "Achievement",
+          "description": "Results and achievements"
+        }
+      },
+      {
+        "id": "gold_medal",
+        "slug": "gold-medal",
+        "name": "Gold Medal",
+        "description": "Gold medal achievement",
+        "group": {
+          "id": "achievement",
+          "slug": "achievement",
+          "name": "Achievement",
+          "description": "Results and achievements"
+        }
+      }
+    ],
+    "category": {
+      "id": "results",
+      "slug": "results",
+      "code": "results",
+      "name": "Results",
+      "description": "Competition results and performance highlights"
+    },
+    "status": {
+      "id": "published",
+      "code": "published",
+      "name": "Published",
+      "description": "Article is publicly visible"
+    },
+    "media": {
+      "cover": {
+        "url": "assets/images/news/ruslan-lunev-gold-10m-air-pistol-issf-granada/cover.jpg",
+        "alt": "Ruslan Lunev with gold medal after 10m Air Pistol victory in Granada",
+        "width": 924,
+        "height": 630
+      }
+    }
+  }
+]

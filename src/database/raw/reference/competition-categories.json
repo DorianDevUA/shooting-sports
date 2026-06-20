@@ -1,0 +1,50 @@
+[
+  {
+    "id": "senior",
+    "code": "senior",
+    "slug": "senior",
+
+    "name": "Senior Competition",
+    "short_name": "Senior",
+
+    "description": "Competition intended primarily for senior athletes. May include open participation depending on federation rules.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "junior",
+    "code": "junior",
+    "slug": "junior",
+
+    "name": "Junior Competition",
+    "short_name": "Junior",
+
+    "description": "Competition intended for junior athletes according to the age limits defined by the governing federation.",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "mixed",
+    "code": "mixed",
+    "slug": "mixed",
+
+    "name": "Mixed Competition",
+    "short_name": "Mixed",
+
+    "description": "Competition that includes multiple age categories, such as junior and senior athletes competing within the same event program.",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

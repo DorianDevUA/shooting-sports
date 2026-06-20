@@ -1,0 +1,8 @@
+{
+  "slug": "news",
+  "title": "News",
+  "description": "Latest news",
+  "keywords": "",
+  "canonical": "https://doriandevois.github.io/aze-shooting/news/",
+  "breadcrumbs": [{ "label": "Home", "path": "/" }, { "label": "News" }]
+}

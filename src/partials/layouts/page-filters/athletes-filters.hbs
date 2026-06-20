@@ -1,0 +1,262 @@
+{{!-- Page Filters Section --}}
+<section>
+  <div class="container">
+    {{!-- Filters --}}
+    <div
+      class="page-athletes__filters page-filters"
+      aria-label="Athletes Page filters"
+    >
+      {{!-- Filters Header --}}
+      <div class="page-filters__header">
+        {{!-- Filter Search Field --}}
+        <div class="search page-filters__search">
+          <input
+            class="search__input js-athlete-search"
+            type="search"
+            name="query"
+            placeholder="Search..."
+          />
+
+          <svg
+            class="search__icon"
+            width="24"
+            height="24"
+            aria-label="Search icon"
+          >
+            <use href="/assets/icons/sprite.svg#icon-ui-search"></use>
+          </svg>
+        </div>
+
+        <button class="page-filters__toggle" type="button">
+          <svg
+            class="page-filters__toggle-icon"
+            width="16"
+            height="16"
+            aria-hidden="true"
+          >
+            <use href="/assets/icons/sprite.svg#icon-ui-cogs"></use>
+          </svg>
+          <span>Filters</span>
+        </button>
+      </div>
+
+      {{!-- Filters Panel (Розділ, що розгортається) --}}
+      <div class="page-filters__panel">
+        <div class="page-filters__groups">
+          {{!-- Filter Group - Genders --}}
+          <div class="filters-group">
+            <h3 class="filters-group__title">Gender</h3>
+            <ul class="filters-group__list">
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="gender"
+                  data-filter-value="male"
+                >
+                  Men
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="gender"
+                  data-filter-value="female"
+                >
+                  Women
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          {{!-- Age Categories Filter --}}
+          <div class="filters-group">
+            <b class="filters-group__title">Age category</b>
+            <ul class="filters-group__list">
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="age_category"
+                  data-filter-value="senior"
+                >
+                  Pro
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="age_category"
+                  data-filter-value="junior"
+                >
+                  U21
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="age_category"
+                  data-filter-value="youth"
+                >
+                  U18
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          {{!-- Sports Grade Filter --}}
+          <div class="filters-group">
+            <b class="filters-group__title">Sports Grade</b>
+            <ul class="filters-group__list">
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="sports_grade"
+                  data-filter-value="cms"
+                >
+                  CMS
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="sports_grade"
+                  data-filter-value="ms"
+                >
+                  MS
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="sports_grade"
+                  data-filter-value="msic"
+                >
+                  MSIC
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          {{!-- Discipline Filter --}}
+          <div class="filters-group">
+            <b class="filters-group__title">Discipline</b>
+            <ul class="filters-group__list">
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="discipline"
+                  data-filter-value="pistol"
+                >
+                  Pistol
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="discipline"
+                  data-filter-value="rifle"
+                >
+                  Rifle
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="discipline"
+                  data-filter-value="skeet"
+                >
+                  Skeet
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="discipline"
+                  data-filter-value="trap"
+                >
+                  Trap
+                </button>
+              </li>
+            </ul>
+          </div>
+
+          {{!-- Club Filter --}}
+          <div class="filters-group">
+            <b class="filters-group__title">Club</b>
+            <ul class="filters-group__list">
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="primary_club"
+                  data-filter-value="rsaim"
+                >
+                  RSAIM
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="primary_club"
+                  data-filter-value="neftci"
+                >
+                  NEFTCI
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="primary_club"
+                  data-filter-value="din_ic"
+                >
+                  DINIC
+                </button>
+              </li>
+
+              <li class="filters-group__item">
+                <button
+                  type="button"
+                  class="filters-group__button"
+                  data-filter-group="primary_club"
+                  data-filter-value="zafar_sc"
+                >
+                  ZAFAR
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{!-- Filter|Search Results --}}
+    <div class="filter-results">
+      <h2 class="filter-results__title">Filtered Athletes</h2>
+      <ul class="filter-results__list grid grid--5"></ul>
+      <p class="filter-results__message"></p>
+    </div>
+  </div>
+</section>

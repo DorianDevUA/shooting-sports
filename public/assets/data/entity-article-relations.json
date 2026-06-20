@@ -1,0 +1,77 @@
+[
+  {
+    "id": "art_rel_0001",
+
+    "article_id": "art_0001",
+
+    "entity_id": "pers_0001",
+    "entity_type_id": "person",
+    "relation_type_id": "mentioned",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "art_rel_0002",
+
+    "article_id": "art_0004",
+
+    "entity_id": "pers_0001",
+    "entity_type_id": "person",
+    "relation_type_id": "winner",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "art_rel_0003",
+
+    "article_id": "art_0002",
+
+    "entity_id": "pers_0002",
+    "entity_type_id": "person",
+    "relation_type_id": "mentioned",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "art_rel_0004",
+
+    "article_id": "art_0002",
+
+    "entity_id": "art_0003",
+    "entity_type_id": "article",
+    "relation_type_id": "related",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "art_rel_0005",
+
+    "article_id": "art_0003",
+
+    "entity_id": "art_0002",
+    "entity_type_id": "article",
+    "relation_type_id": "related",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

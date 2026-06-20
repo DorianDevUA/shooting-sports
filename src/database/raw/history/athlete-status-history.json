@@ -1,0 +1,64 @@
+[
+  {
+    "id": "ash_0001",
+
+    "athlete_id": "athlete_001",
+
+    "athlete_status_id": "active",
+
+    "started_at": "2020-01-01",
+    "ended_at": "2024-03-10",
+
+    "reason": null,
+    "notes": "",
+
+    "is_current": false,
+
+    "sort_order": 1,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "ash_0002",
+
+    "athlete_id": "athlete_001",
+
+    "athlete_status_id": "injured",
+
+    "started_at": "2024-03-10",
+    "ended_at": "2024-05-01",
+
+    "reason": "Shoulder injury",
+    "notes": "",
+
+    "is_current": false,
+
+    "sort_order": 2,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "ash_0003",
+
+    "athlete_id": "athlete_001",
+
+    "athlete_status_id": "active",
+
+    "started_at": "2024-05-01",
+    "ended_at": null,
+
+    "reason": null,
+    "notes": "",
+
+    "is_current": true,
+
+    "sort_order": 3,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

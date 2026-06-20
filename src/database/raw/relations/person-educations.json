@@ -1,0 +1,26 @@
+[
+  {
+    "id": "pers_edu_0001",
+
+    "person_id": "pers_0001",
+
+    "education_level_id": "higher",
+    "education_qualification_id": "bachelors_degree",
+    "education_specialization_id": "sports_management",
+
+    "institution_name": "Azerbaijan State Academy of Physical Education and Sport",
+
+    "started_at": "2010-09-01",
+    "graduated_at": "2014-06-30",
+
+    "is_current": true,
+
+    "notes": "test note",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

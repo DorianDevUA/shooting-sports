@@ -1,0 +1,15 @@
+{
+  "slug": "home",
+  "url": "/",
+  "title": "Home Page",
+  "description": "Official website of the Azerbaijan Shooting Federation. Competitions, gallery, news, athletes and results.",
+  "keywords": "",
+  "canonical": "https://doriandevois.github.io/aze-shooting/",
+  "seo": {
+    "title": "...",
+    "description": "...",
+    "keywords": "",
+    "image": "/assets/images/social/social-preview-1200x630.jpg"
+  },
+  "breadcrumbs": [{ "label": "Home" }]
+}

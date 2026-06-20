@@ -1,0 +1,145 @@
+.athlete-profile__layout {
+  padding-block: var(--space-2xl);
+  padding-inline: var(--space-lg);
+  border-radius: 8px;
+  background-color: #fff;
+
+  @media (min-width: 768px) {
+    display: flex;
+  }
+}
+
+.athlete-profile__aside {
+  @media (max-width: 767.98px) {
+    max-width: 576px;
+  }
+
+  @media (min-width: 768px) {
+    min-width: 288px;
+  }
+
+  @media (min-width: 1024px) {
+    width: 40%;
+  }
+
+  @media (min-width: 1440px) {
+    width: 45%;
+  }
+}
+
+.athlete-profile__media {
+  // background-color: brown;
+
+  @media (min-width: 768px) {
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+.athlete-profile__portrait {
+  width: 100%;
+  border-radius: 8px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+
+  @media (min-width: 768px) {
+    border-radius: var(--radius-full);
+    max-width: 320px;
+  }
+}
+
+.athlete-profile__main {
+  margin-top: 24px;
+
+  @media (min-width: 768px) {
+    margin-left: 64px;
+    padding-inline: var(--space-lg);
+  }
+  @media (min-width: 1440px) {
+    margin-left: 96px;
+  }
+}
+
+.athlete-profile__header {
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--color-divider);
+}
+
+.athlete-profile__name {
+  font-size: var(--font-size-4xl);
+  line-height: 1;
+  // white-space: nowrap;
+}
+
+.athlete-profile__info {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+
+  margin-top: 16px;
+}
+
+.athlete-profile__info-row {
+  display: flex;
+}
+
+.athlete-profile__info-key {
+  flex-shrink: 1;
+  min-width: 160px;
+  font-weight: 500;
+  white-space: nowrap;
+  text-transform: uppercase;
+
+  @media (min-width: 768px) {
+    min-width: 160px;
+  }
+}
+
+.athlete-profile__info-value {
+  display: flex;
+  align-items: center;
+
+  line-height: var(--line-height-relaxed);
+
+  @media (min-width: 768px) {
+  }
+}
+
+.athlete-profile__flag-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  gap: 8px;
+}
+
+.athlete-profile__flag {
+  width: 1.5rem;
+}
+
+.athlete-profile__events {
+  display: flex;
+  flex-wrap: wrap;
+
+  column-gap: 4px;
+}
+
+.athlete-profile__events-item {
+  display: flex;
+  align-items: center;
+
+  gap: 4px;
+}
+
+.athlete-profile__events-item:not(:last-child)::after {
+  content: "/";
+}
+
+.athlete-profile__events-item .athlete-profile__events-link {
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

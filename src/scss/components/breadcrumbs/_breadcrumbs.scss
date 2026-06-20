@@ -1,0 +1,44 @@
+.breadcrumbs {
+  font-size: var(--font-size-sm);
+  line-height: 1;
+}
+
+.breadcrumbs__list {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+
+  display: flex;
+}
+
+.breadcrumbs__item {
+  display: flex;
+  align-items: center;
+
+  /* separator */
+  &:not(:last-child)::after {
+    content: "/";
+    padding-inline: var(--space-xs);
+  }
+}
+
+.breadcrumbs__link {
+  transition: color var(--duration-normal) var(--timing-cubic);
+
+  &:hover,
+  &:focus-visible {
+    text-decoration: underline;
+  }
+}
+
+.breadcrumbs__current {
+  font-weight: 500;
+
+  /* захист від дуже довгих назв */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  line-clamp: 1;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}

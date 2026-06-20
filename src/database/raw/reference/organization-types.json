@@ -1,0 +1,86 @@
+[
+  {
+    "id": "federation",
+    "code": "federation",
+    "slug": "federation",
+
+    "name": "Sports Federation",
+    "description": "Governing body for a sport or discipline",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "confederation",
+    "code": "confederation",
+    "slug": "confederation",
+
+    "name": "Sports Confederation",
+    "description": "Continental or regional union of national sports federations.",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "school",
+    "code": "school",
+    "slug": "school",
+
+    "name": "Sports School",
+    "description": "Educational sports institution focused on athlete development and training.",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "club",
+    "code": "club",
+    "slug": "club",
+
+    "name": "Sports Club",
+    "description": "Local or private sports club",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "society",
+    "code": "society",
+    "slug": "society",
+
+    "name": "Sports Society",
+    "description": "State-affiliated or institutional sports organization providing training infrastructure.",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "company",
+    "code": "company",
+    "slug": "company",
+
+    "name": "Company",
+    "description": "Commercial organization or sponsor involved in sports ecosystem.",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

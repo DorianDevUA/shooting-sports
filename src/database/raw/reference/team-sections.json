@@ -1,0 +1,96 @@
+[
+  {
+    "id": "pistol",
+    "slug": "pistol",
+    "code": "PST",
+
+    "name": "Pistol",
+    "short_name": "Pistol",
+
+    "discipline_category_id": "pistol",
+
+    "description": "Pistol shooting section.",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "rifle",
+    "slug": "rifle",
+    "code": "RFL",
+
+    "name": "Rifle",
+    "short_name": "Rifle",
+
+    "discipline_category_id": "rifle",
+
+    "description": "Rifle shooting section.",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "skeet",
+    "slug": "skeet",
+    "code": "SKT",
+
+    "name": "Skeet",
+    "short_name": "Skeet",
+
+    "discipline_category_id": "shotgun",
+
+    "description": "Skeet shooting section.",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "trap",
+    "slug": "trap",
+    "code": "TRP",
+
+    "name": "Trap",
+    "short_name": "Trap",
+
+    "discipline_category_id": "shotgun",
+
+    "description": "Trap shooting section.",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "sporting",
+    "slug": "sporting",
+    "code": "SPT",
+
+    "name": "Sporting",
+    "short_name": "Sporting",
+
+    "discipline_category_id": "shotgun",
+
+    "description": "Sporting shooting section.",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

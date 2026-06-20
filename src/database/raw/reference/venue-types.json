@@ -1,0 +1,57 @@
+[
+  {
+    "id": "shooting_range",
+    "code": "shooting_range",
+    "slug": "shooting-range",
+
+    "name": "Shooting Range",
+    "short_name": "Range",
+
+    "description": "General purpose shooting range for rifle, pistol, or shotgun disciplines.",
+
+    "sort_order": 1,
+    "is_active": true
+  },
+
+  {
+    "id": "sport_complex",
+    "code": "sport_complex",
+    "slug": "sport-complex",
+
+    "name": "Sport Complex",
+    "short_name": "Complex",
+
+    "description": "Large multi-purpose sports complex hosting competitions and events.",
+
+    "sort_order": 9,
+    "is_active": true
+  },
+
+  {
+    "id": "training_center",
+    "code": "training_center",
+    "slug": "training-center",
+
+    "name": "Training Center",
+    "short_name": "Training",
+
+    "description": "Sports training facility for athletes and national teams.",
+
+    "sort_order": 12,
+    "is_active": true
+  },
+
+  {
+    "id": "olympic_center",
+    "code": "olympic_center",
+    "slug": "olympic-center",
+
+    "name": "Olympic Center",
+    "short_name": "Olympic",
+
+    "description": "Official Olympic-standard sports venue or complex.",
+
+    "sort_order": 13,
+    "is_active": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ce_org_0001",
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "organization_id": "issf",
+    "role_id": "organizer"
+  },
+  {
+    "id": "ce_org_0002",
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "organization_id": "germany_shooting_federation",
+    "role_id": "host"
+  }
+]

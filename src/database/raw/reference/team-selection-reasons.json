@@ -1,0 +1,146 @@
+[
+  {
+    "id": "national_championship",
+    "name": "National Championship Result",
+    "type": "competition_result",
+    "description": "Selected based on results at the national championship",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "national_cup",
+    "name": "National Cup Result",
+    "type": "competition_result",
+    "description": "Selected based on performance at the national cup",
+
+    "sort_order": 2,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "national_ranking",
+    "name": "National Ranking",
+    "type": "ranking",
+    "description": "Selected according to national ranking position",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "international_ranking",
+    "name": "International Ranking",
+    "type": "ranking",
+    "description": "Selected based on international ranking (e.g. ISSF ranking)",
+
+    "sort_order": 4,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "qualification_standard",
+    "name": "Qualification Standard",
+    "type": "performance_standard",
+    "description": "Athlete achieved required qualification score or standard",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "selection_trials",
+    "name": "Selection Trials",
+    "type": "selection_event",
+    "description": "Selected based on results of special selection trials",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "coach_decision",
+    "name": "Coach Decision",
+    "type": "administrative",
+    "description": "Selected by decision of head coach",
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "selection_committee",
+    "name": "Selection Committee Decision",
+    "type": "administrative",
+    "description": "Selected by federation selection committee",
+
+    "sort_order": 8,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "wildcard",
+    "name": "Wildcard Selection",
+    "type": "administrative",
+    "description": "Special invitation or discretionary selection",
+
+    "sort_order": 9,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "development_program",
+    "name": "Development Program",
+    "type": "development",
+    "description": "Selected as part of youth or development program",
+
+    "sort_order": 10,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "olympic_preparation",
+    "name": "Olympic Preparation Program",
+    "type": "program",
+    "description": "Included in Olympic preparation squad",
+
+    "sort_order": 11,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "replacement",
+    "name": "Replacement Athlete",
+    "description": "Added to replace another athlete who withdrew",
+    "type": "administrative",
+
+    "sort_order": 12,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

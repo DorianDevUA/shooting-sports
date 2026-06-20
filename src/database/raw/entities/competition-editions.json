@@ -1,0 +1,103 @@
+[
+  {
+    "id": "issf_world_cup_munich_2026",
+    "code": "issf_world_cup_munich_2026",
+    "slug": "issf-world-cup-munich-2026",
+
+    "name": "ISSF World Cup Rifle / Pistol",
+    "short_name": "ISSF World Cup",
+    "excerpt": "Precision, speed, and control: The core focus of elite rifle and pistol competition",
+
+    "competition_id": "issf_world_cup",
+    "competition_category_id": "senior",
+
+    "venue_id": null,
+    "city_id": "munich",
+
+    "start_date": "2026-05-24",
+    "end_date": "2026-05-31",
+
+    "source_url": "https://www.issf-sports.org/competitions/3284",
+    "notes": null,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "issf_junior_world_champ_suhl_2026",
+    "code": "issf_junior_world_champ_suhl_2026",
+    "slug": "issf-junior-world-champ-suhl-2026",
+
+    "name": "ISSF Junior World Championship Rifle / Pistol / Shotgun",
+    "short_name": "ISSF Junior World Championship",
+    "excerpt": "Emerging talents battle for global titles with precision, consistency and nerve across eight days of elite competition",
+
+    "competition_id": "issf_world_championship",
+    "competition_category_id": "junior",
+
+    "venue_id": null,
+    "city_id": "suhl",
+
+    "start_date": "2026-06-16",
+    "end_date": "2026-06-26",
+
+    "schedules": [
+      {
+        "date": "2026-06-17",
+        "day_name": "Wednesday",
+
+        "sessions": [
+          {
+            "start_time": "09:00",
+            "end_time": "10:00",
+            "title": "Pre-event Training 10m Air Pistol Women Junior Relay 1"
+          },
+          {
+            "start_time": "16:00",
+            "end_time": null,
+            "title": "Technical Meeting Rifle / Pistol / Skeet"
+          }
+        ]
+      }
+    ],
+
+    "source_url": "https://www.issf-sports.org/competitions/3283",
+    "notes": null,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-06-06 19:05:35.000",
+    "updated_at": "2026-06-06 19:05:35.000"
+  },
+  {
+    "id": "comp_ed_2022_issf_grand_prix_granada",
+    "code": "issf_grand_prix_granada_2022",
+    "slug": "issf-grand-prix-granada-2022",
+
+    "name": "ISSF Grand Prix (Test)",
+    "short_name": "ISSF GP Granada 2022",
+    "excerpt": "some text",
+
+    "competition_id": "issf_grand_prix",
+    "competition_category_id": "junior",
+
+    "venue_id": "granada_shooting_range",
+    "city_id": "granada",
+
+    "start_date": "2022-05-22",
+    "end_date": "2027-05-22",
+
+    "source_url": "",
+    "notes": "",
+
+    "sort_order": 1,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

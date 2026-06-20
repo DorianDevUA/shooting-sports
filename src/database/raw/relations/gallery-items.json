@@ -1,0 +1,46 @@
+[
+  {
+    "id": "gallery_item_0001",
+
+    "gallery_id": "gallery_0001",
+    "media_id": "media_0120",
+
+    "caption": "Gold medal moment",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28"
+  },
+  {
+    "id": "gallery_item_0002",
+
+    "gallery_id": "gallery_0001",
+    "media_id": "media_0121",
+
+    "caption": "",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-05-28",
+    "updated_at": "2026-05-28"
+  },
+
+  {
+    "id": "gallery_item_0003",
+
+    "gallery_id": "gallery_0001",
+    "media_id": "media_0122",
+
+    "alt": null,
+    "title": null,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

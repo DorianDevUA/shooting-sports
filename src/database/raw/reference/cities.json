@@ -1,0 +1,218 @@
+[
+  {
+    "id": "baku",
+    "slug": "baku",
+    "name": "Baku",
+    "country_id": "az",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "sumqayit",
+    "slug": "sumqayit",
+    "name": "Sumqayit",
+    "country_id": "az",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "khirdalan",
+    "slug": "khirdalan",
+    "name": "Khirdalan",
+    "country_id": "az",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "shorabad",
+    "slug": "shorabad",
+    "name": "Shorabad",
+    "country_id": "az",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "balakan",
+    "slug": "balakan",
+    "name": "Balakan",
+    "country_id": "az",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "lokbatan",
+    "slug": "lokbatan",
+    "name": "Lokbatan",
+    "country_id": "az",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "mehdiabad",
+    "slug": "mehdiabad",
+    "name": "Mehdiabad",
+    "country_id": "az",
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "2026-05-10 21:58:35.000",
+    "updated_at": "2026-05-10 21:58:35.000"
+  },
+  {
+    "id": "munich",
+    "slug": "munich",
+    "name": "Munich",
+    "country_id": "de",
+
+    "sort_order": 60,
+    "is_active": true,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "suhl",
+    "slug": "suhl",
+    "name": "Suhl",
+    "country_id": "de",
+
+    "sort_order": 61,
+    "is_active": true,
+
+    "created_at": "2026-06-06 19:04:35.000",
+    "updated_at": "2026-06-06 19:04:35.000"
+  },
+  {
+    "id": "tokyo",
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "country_id": "jp",
+
+    "sort_order": 61,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "colorado_springs",
+    "slug": "colorado-springs",
+    "name": "Colorado Springs",
+    "country_id": "us",
+
+    "sort_order": 62,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "rome",
+    "slug": "rome",
+    "name": "Rome",
+    "country_id": "it",
+
+    "sort_order": 63,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "paris",
+    "slug": "paris",
+    "name": "Paris",
+    "country_id": "fr",
+
+    "sort_order": 64,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "ankara",
+    "slug": "ankara",
+    "name": "Ankara",
+    "country_id": "tr",
+
+    "sort_order": 65,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "seoul",
+    "slug": "seoul",
+    "name": "Seoul",
+    "country_id": "kr",
+
+    "sort_order": 66,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "kyiv",
+    "slug": "kyiv",
+    "name": "Kyiv",
+
+    "country_id": "ua",
+    "sort_order": 51,
+
+    "is_active": false,
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "london",
+    "slug": "london",
+    "name": "London",
+    "country_id": "gb",
+
+    "sort_order": 67,
+    "is_active": false,
+
+    "created_at": "2026-03-10 21:58:35.000",
+    "updated_at": "2026-03-10 21:58:35.000"
+  },
+  {
+    "id": "granada",
+    "slug": "granada",
+    "name": "Granada",
+    "country_id": "es",
+
+    "sort_order": 68,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

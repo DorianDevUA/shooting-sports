@@ -1,0 +1,17 @@
+<html lang="en">
+  {{!-- Head --}}
+  {{> layouts/head/index }}
+  {{!-- Body --}}
+  <body class="article-page" data-page="article">
+    {{!-- Header --}}
+    {{> layouts/header/index }}
+    {{!-- Main --}}
+    {{> layouts/pages/article/main }}
+    {{!-- Footer --}}
+    {{> layouts/footer/index}}
+    {{!-- Modal Backdrop --}}
+    {{> components/backdrop/backdrop}}
+    {{!-- Page Scripts --}}
+    <script type="module" src="/src/js/main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "draft",
+    "code": "draft",
+    "name": "Draft",
+    "description": "Article is being edited and not visible to the public",
+
+    "is_public": false,
+    "is_editable": true,
+    "allowed_transitions": ["scheduled"],
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "scheduled",
+    "code": "scheduled",
+    "name": "Scheduled",
+    "description": "Article will be published automatically at a specific date",
+
+    "is_public": false,
+    "is_editable": true,
+    "allowed_transitions": ["draft"],
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "published",
+    "code": "published",
+    "name": "Published",
+    "description": "Article is publicly visible",
+
+    "is_public": true,
+    "is_editable": true,
+    "allowed_transitions": ["scheduled", "draft", "hidden"],
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "archived",
+    "code": "archived",
+    "name": "Archived",
+    "description": "Article is no longer relevant, but still accessible",
+
+    "is_public": true,
+    "is_editable": false,
+    "is_publishable": false,
+    "allowed_transitions": ["published", "hidden"],
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "hidden",
+    "code": "hidden",
+    "name": "Hidden",
+    "description": "Article is temporarily hidden from public view",
+
+    "is_public": false,
+    "is_editable": true,
+    "is_publishable": true,
+    "allowed_transitions": ["published"],
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,14 @@
+/* Common styles */
+@use "base";
+@use "fonts";
+@use "tokens";
+@use "utils";
+
+/* Component styles */
+@use "components";
+
+/* Partial styles */
+@use "layouts";
+
+/* Page styles */
+@use "pages";

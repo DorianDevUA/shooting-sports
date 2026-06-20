@@ -1,0 +1,14 @@
+<html lang='en'>
+  {{> layouts/head/index }}
+  <body data-page="{{page.slug}}">
+    {{> layouts/header/index }}
+    <h1>{{page.title}}</h1>
+    <p>{{page.description}}</p>
+    <button type="button" data-modal-open data-modal-type="callback">modal</button>
+    {{!-- {{> layouts/footer/footer}} --}}
+    {{> components/backdrop/backdrop}}
+    <script type="module" src="/src/js/main.js"></script>
+  </body>
+</html>
+
+    {{ log this }}

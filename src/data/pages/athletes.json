@@ -1,0 +1,9 @@
+{
+  "slug": "athletes",
+  "seo": {
+    "title": "Athletes",
+    "description": "",
+    "keywords": ""
+  },
+  "breadcrumbs": [{ "label": "Home", "path": "/" }, { "label": "Athletes" }]
+}

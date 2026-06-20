@@ -1,0 +1,105 @@
+/* =========================
+  TABS BLOCK
+========================= */
+.tabs {
+  width: 100%;
+}
+
+/* --- TABS NAV --- */
+.tabs__nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  border-bottom: 1px solid var(--color-divider);
+  // overflow-x: auto;
+}
+
+/* --- TABS BUTTON --- */
+.tabs__btn {
+  position: relative;
+  padding-block: var(--space-sm);
+  padding-inline: var(--space-sm);
+
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+
+  white-space: nowrap;
+  transition:
+    color var(--duration-normal) var(--timing-cubic),
+    background-color var(--duration-normal) var(--timing-cubic);
+
+  &:hover {
+    color: var(--color-text-accent);
+  }
+
+  /* Active Tab */
+  &.is-active {
+    color: var(--color-text-accent);
+    background-color: var(--color-bg-secondary);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+
+  /* Underline Indicator */
+  &::after {
+    content: "";
+
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+
+    width: 100%;
+    height: 2px;
+
+    background-color: var(--color-bg-accent);
+
+    opacity: 0;
+    transform: scaleX(0);
+
+    transition:
+      transform var(--duration-slow) var(--timing-cubic),
+      opacity var(--duration-fast) var(--timing-cubic);
+  }
+
+  &.is-active::after,
+  &:hover::after,
+  &:focus::after {
+    opacity: 1;
+    transform: scaleX(1);
+  }
+
+  @media (min-width: 768px) {
+    padding-inline: var(--space-lg);
+  }
+}
+
+/* TABS CONTENT */
+.tabs__content {
+  padding-top: 20px;
+}
+
+/* TABS PANEL */
+
+.tabs__panel {
+  display: none;
+  animation: fadeIn var(--duration-slow) var(--timing-cubic);
+
+  &.is-active {
+    display: block;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

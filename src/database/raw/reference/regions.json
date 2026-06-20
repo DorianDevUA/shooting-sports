@@ -1,0 +1,38 @@
+[
+  {
+    "id": "europe",
+    "code": "EU",
+    "slug": "europe",
+    "name": "Europe",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "asia",
+    "code": "AS",
+    "slug": "asia",
+    "name": "Asia",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "north_america",
+    "code": "NA",
+    "slug": "north-america",
+    "name": "North America",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

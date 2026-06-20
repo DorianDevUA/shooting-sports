@@ -1,0 +1,34 @@
+[
+  {
+    "id": "comp_ed_2022_issf_grand_prix_granada",
+    "code": "issf_grand_prix_granada_2022",
+    "slug": "issf-grand-prix-granada-2022",
+
+    "name": "ISSF Grand Prix Granada 2022",
+    "short_name": "ISSF GP Granada 2022",
+    "excerpt": "International Shooting Sport Federation Grand Prix competition series.",
+
+    "competition_level_id": "international",
+
+    "start_date": "2022-05-22",
+    "end_date": "2022-05-22",
+
+    "venue_id": null,
+    "city_id": "granada",
+
+    "organizations": [],
+
+    "competition_events": [],
+
+    "event_sessions": [],
+
+    "source_url": "",
+    "notes": "",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

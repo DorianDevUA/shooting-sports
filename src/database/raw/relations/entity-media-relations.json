@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "ety_media_0001",
+
+    "entity_id": "pers_0001",
+    "entity_type": "person",
+
+    "media_id": "media_0001",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Ruslan Lunev",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0002",
+
+    "entity_id": "pers_0002",
+    "entity_type": "person",
+
+    "media_id": "media_0002",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Kalmikov Vladislav",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0003",
+
+    "entity_id": "pers_0003",
+    "entity_type": "person",
+
+    "media_id": "media_0003",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Musayev Haji",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0004",
+
+    "entity_id": "pers_0004",
+    "entity_type": "person",
+
+    "media_id": "media_0004",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Astanov Elvin",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0005",
+
+    "entity_id": "pers_0005",
+    "entity_type": "person",
+
+    "media_id": "media_0005",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Mammadov Rasul",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0030",
+
+    "entity_id": "pers_0030",
+    "entity_type": "person",
+
+    "media_id": "media_0030",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Nasirova Nigar",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0031",
+
+    "entity_id": "pers_0031",
+    "entity_type": "person",
+
+    "media_id": "media_0031",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Aliyeva Khanna",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0032",
+
+    "entity_id": "pers_0032",
+    "entity_type": "person",
+
+    "media_id": "media_0032",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Sultanova Zeynab",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0033",
+
+    "entity_id": "pers_0033",
+    "entity_type": "person",
+
+    "media_id": "media_0033",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Barkhalova Sofiya",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0006",
+
+    "entity_id": "pers_0006",
+    "entity_type": "person",
+
+    "media_id": "media_0006",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Garayev Imran",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0007",
+
+    "entity_id": "pers_0007",
+    "entity_type": "person",
+
+    "media_id": "media_0007",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Kerzhankin Oleg",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0008",
+
+    "entity_id": "pers_0008",
+    "entity_type": "person",
+
+    "media_id": "media_0008",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Huseynli Onur",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0034",
+
+    "entity_id": "pers_0034",
+    "entity_type": "person",
+
+    "media_id": "media_0034",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Aliyeva Leyli",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0036",
+
+    "entity_id": "pers_0036",
+    "entity_type": "person",
+
+    "media_id": "media_0036",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Omarova Amina",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0011",
+
+    "entity_id": "pers_0011",
+    "entity_type": "person",
+
+    "media_id": "media_0011",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Khalilov Ramiz",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0012",
+
+    "entity_id": "pers_0012",
+    "entity_type": "person",
+
+    "media_id": "media_0012",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Tapdigli Uzeyir",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0038",
+
+    "entity_id": "pers_0038",
+    "entity_type": "person",
+
+    "media_id": "media_0038",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Aliyeva Nurana",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0039",
+
+    "entity_id": "pers_0039",
+    "entity_type": "person",
+
+    "media_id": "media_0039",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Bayramova Zhala",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0040",
+
+    "entity_id": "pers_0040",
+    "entity_type": "person",
+
+    "media_id": "media_0040",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Ramazanova Nigar",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0041",
+
+    "entity_id": "pers_0041",
+    "entity_type": "person",
+
+    "media_id": "media_0041",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Mahmudova Aynur",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0013",
+
+    "entity_id": "pers_0013",
+    "entity_type": "person",
+
+    "media_id": "media_0013",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Sofiyev Zahid",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0014",
+
+    "entity_id": "pers_0014",
+    "entity_type": "person",
+
+    "media_id": "media_0014",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Aghazada Niyaz",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0015",
+
+    "entity_id": "pers_0015",
+    "entity_type": "person",
+
+    "media_id": "media_0015",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Gurbanov Fuad",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0016",
+
+    "entity_id": "pers_0016",
+    "entity_type": "person",
+
+    "media_id": "media_0016",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Hasanov Javid",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0017",
+
+    "entity_id": "pers_0017",
+    "entity_type": "person",
+
+    "media_id": "media_0017",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Mustafayev Ali",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0044",
+
+    "entity_id": "pers_0044",
+    "entity_type": "person",
+
+    "media_id": "media_0044",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Jafarova Nurlana",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0045",
+
+    "entity_id": "pers_0045",
+    "entity_type": "person",
+
+    "media_id": "media_0045",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Meftakhetdinova Rigina",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0046",
+
+    "entity_id": "pers_0046",
+    "entity_type": "person",
+
+    "media_id": "media_0046",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Najafova Sevda",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0050",
+
+    "entity_id": "pers_0050",
+    "entity_type": "person",
+
+    "media_id": "media_0050",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Pashayeva Jamila",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0023",
+
+    "entity_id": "pers_0023",
+    "entity_type": "person",
+
+    "media_id": "media_0023",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Huseynli Ali",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0024",
+
+    "entity_id": "pers_0024",
+    "entity_type": "person",
+
+    "media_id": "media_0024",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Guliyev Alimirza",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0025",
+
+    "entity_id": "pers_0025",
+    "entity_type": "person",
+
+    "media_id": "media_0025",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Mammadov Tamerlan",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0026",
+
+    "entity_id": "pers_0026",
+    "entity_type": "person",
+
+    "media_id": "media_0026",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Aghazada Mirmomin",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0027",
+
+    "entity_id": "pers_0027",
+    "entity_type": "person",
+
+    "media_id": "media_0027",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Mehdizade Sabir",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0049",
+
+    "entity_id": "pers_0049",
+    "entity_type": "person",
+
+    "media_id": "media_0049",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Jamalova Aydan",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0101",
+
+    "entity_id": "art_0001",
+    "entity_type": "article",
+
+    "media_id": "media_0101",
+    "usage_type_id": "cover",
+
+    "alt": "ISSF leadership meeting Azerbaijani officials in Baku",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0103",
+
+    "entity_id": "art_0003",
+    "entity_type": "article",
+
+    "media_id": "media_0103",
+    "usage_type_id": "cover",
+
+    "alt": "A judge and an arbitrator observing shooters on the firing line during an ISSF competition equipped with SIUS electronic scoring systems.",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0102",
+
+    "entity_id": "art_0002",
+    "entity_type": "article",
+
+    "media_id": "media_0102",
+    "usage_type_id": "cover",
+
+    "alt": "A close-up of a sport shooter loading a pistol at a competition table featuring a SIUS electronic monitor displaying real-time shot data.",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0104",
+
+    "entity_id": "art_0004",
+    "entity_type": "article",
+
+    "media_id": "media_0104",
+    "usage_type_id": "cover",
+
+    "alt": "Ruslan Lunev with gold medal after 10m Air Pistol victory in Granada",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0105",
+
+    "entity_id": "pers_0028",
+    "entity_type": "person",
+
+    "media_id": "media_0105",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Novruzlu Murtaza",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0106",
+
+    "entity_id": "pers_0035",
+    "entity_type": "person",
+
+    "media_id": "media_0106",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Gambayeva Mehriban",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0107",
+
+    "entity_id": "pers_0043",
+    "entity_type": "person",
+
+    "media_id": "media_0107",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Afsana Elvina",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0108",
+
+    "entity_id": "pers_0019",
+    "entity_type": "person",
+
+    "media_id": "media_0108",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Gurbanov Aslan",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0109",
+
+    "entity_id": "pers_0020",
+    "entity_type": "person",
+
+    "media_id": "media_0109",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Asadullayev Abidin",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0110",
+
+    "entity_id": "pers_0029",
+    "entity_type": "person",
+
+    "media_id": "media_0110",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Aliyev Osman",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0111",
+
+    "entity_id": "pers_0047",
+    "entity_type": "person",
+
+    "media_id": "media_0111",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Jafarova Narmin",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0112",
+
+    "entity_id": "pers_0102",
+    "entity_type": "person",
+
+    "media_id": "media_0112",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Ahmadzada Subhan",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0113",
+
+    "entity_id": "pers_0103",
+    "entity_type": "person",
+
+    "media_id": "media_0113",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Guliev Amil",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0114",
+
+    "entity_id": "pers_0104",
+    "entity_type": "person",
+
+    "media_id": "media_0114",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Karimova Arusa",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0115",
+
+    "entity_id": "pers_0105",
+    "entity_type": "person",
+
+    "media_id": "media_0115",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Allahyarova Elvira",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0116",
+
+    "entity_id": "pers_0106",
+    "entity_type": "person",
+
+    "media_id": "media_0116",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Allahverdiyev Murad",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0117",
+
+    "entity_id": "pers_0107",
+    "entity_type": "person",
+
+    "media_id": "media_0117",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Ajdarov Eldar",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0118",
+
+    "entity_id": "pers_0108",
+    "entity_type": "person",
+
+    "media_id": "media_0118",
+    "usage_type_id": "portrait",
+
+    "alt": "Portrait of Badalli Narmin",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0119",
+
+    "entity_id": "issf_world_cup_munich_2026",
+    "entity_type": "competition_edition",
+
+    "media_id": "media_0119",
+    "media_usage_type_id": "cover",
+
+    "alt": "Female athlete aiming a Feinwerkbau air rifle during a shooting competition",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0120",
+
+    "entity_id": "gallery_0001",
+    "entity_type": "gallery",
+
+    "media_id": "media_0120",
+    "usage_type_id": "cover",
+
+    "alt": "10m Air Rifle Women final gallery cover",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ety_media_0121",
+
+    "entity_id": "issf_junior_world_champ_suhl_2026",
+    "entity_type": "competition_edition",
+
+    "media_id": "media_0124",
+    "media_usage_type_id": "cover",
+
+    "alt": "ISSF Junior World Championship Rifle / Pistol / Shotgun - Suhl, Germany 2026",
+    "title": null,
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

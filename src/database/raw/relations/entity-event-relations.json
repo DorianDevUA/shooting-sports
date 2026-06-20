@@ -1,0 +1,41 @@
+[
+  {
+    "id": "evt_rel_0001",
+
+    "event_id": "10m_air_pistol_men",
+
+    "entity_id": "pers_0001",
+    "entity_type_id": "person",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "evt_rel_0002",
+
+    "event_id": "10m_air_pistol_mixed",
+
+    "entity_id": "pers_0001",
+    "entity_type_id": "person",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "evt_rel_0003",
+
+    "event_id": "25m_rapid_fire_pistol_men",
+
+    "entity_id": "pers_0001",
+    "entity_type_id": "person",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

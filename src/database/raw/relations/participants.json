@@ -1,0 +1,22 @@
+[
+  {
+    "id": "part_0001",
+    "type_id": "individual",
+    "athlete_ids": ["pers_0001"],
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "part_0002",
+    "type_id": "team",
+    "athlete_ids": ["pers_0001", "pers_0002"],
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

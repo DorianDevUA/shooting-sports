@@ -1,0 +1,42 @@
+[
+  {
+    "id": "weight",
+    "code": "weight",
+    "name": "Weight",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "length",
+    "code": "length",
+    "name": "Length",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "time",
+    "code": "time",
+    "name": "Time",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "score",
+    "code": "score",
+    "name": "Score",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

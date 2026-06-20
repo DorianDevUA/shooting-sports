@@ -1,0 +1,44 @@
+[
+  {
+    "id": "international",
+    "code": "international",
+    "slug": "international",
+
+    "name": "International",
+    "description": "",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "continental",
+    "code": "continental",
+    "slug": "continental",
+
+    "name": "Continental",
+    "description": "",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "national",
+    "code": "national",
+    "slug": "national",
+
+    "name": "National",
+    "description": "",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

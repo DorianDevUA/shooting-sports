@@ -1,0 +1,548 @@
+[
+  {
+    "id": "ce_munich_2026_10m_air_rifle_men",
+    "code": "10m_air_rifle_men",
+    "slug": "10m-air-rifle-men",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "10m_air_rifle_men",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_10m_air_rifle_women",
+    "code": "10m_air_rifle_women",
+    "slug": "10m-air-rifle-women",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "10m_air_rifle_women",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_10m_air_rifle_mixed",
+    "code": "10m_air_rifle_mixed",
+    "slug": "10m-air-rifle-mixed",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "10m_air_rifle_mixed",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_10m_air_pistol_men",
+    "code": "10m_air_pistol_men",
+    "slug": "10m-air-pistol-men",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "10m_air_pistol_men",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_10m_air_pistol_women",
+    "code": "10m_air_pistol_women",
+    "slug": "10m-air-pistol-women",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "10m_air_pistol_women",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_10m_air_pistol_mixed",
+    "code": "10m_air_pistol_mixed",
+    "slug": "10m-air-pistol-mixed",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "10m_air_pistol_mixed",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_25m_rapid_fire_pistol_men",
+    "code": "25m_rapid_fire_pistol_men",
+    "slug": "25m-rapid-fire-pistol-men",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "25m_rapid_fire_pistol_men",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_munich_2026_25m_pistol_women",
+    "code": "25m_pistol_women",
+    "slug": "25m-pistol-women",
+
+    "competition_edition_id": "issf_world_cup_munich_2026",
+    "event_id": "25m_pistol_women",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_granada_2022_10m_air_pistol_men",
+    "code": "10m_air_pistol_men",
+    "slug": "10m-air-pistol-men",
+
+    "competition_edition_id": "comp_ed_2022_issf_grand_prix_granada",
+    "event_id": "10m_air_pistol_men",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_granada_2022_10m_air_rifle_men",
+    "code": "10m_air_rifle_men",
+    "slug": "10m-air-rifle-men",
+
+    "competition_edition_id": "comp_ed_2022_issf_grand_prix_granada",
+    "event_id": "10m_air_rifle_men",
+    "age_category_id": "senior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_10m_air_rifle_men_junior",
+    "code": "10m_air_rifle_men_junior",
+    "slug": "10m-air-rifle-men_junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "10m_air_rifle_men",
+    "age_category_id": "junior",
+
+    "source_url": "https://www.issf-sports.org/competitions/3283/results",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "2026-06-06 20:05:35.000",
+    "updated_at": "2026-06-06 20:05:35.000"
+  },
+  {
+    "id": "ce_jwch_suhl_2026_10m_air_pistol_men_junior",
+    "code": "10m_air_pistol_men_junior",
+    "slug": "10m_air_pistol_men_junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "10m_air_pistol_men",
+    "age_category_id": "junior",
+
+    "source_url": "https://www.issf-sports.org/competitions/3283/results",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "2026-06-06 20:05:35.000",
+    "updated_at": "2026-06-06 20:05:35.000"
+  },
+  {
+    "id": "ce_jwch_suhl_2026_trap_men_junior",
+    "code": "trap_men_junior",
+    "slug": "trap_men_junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "trap_men",
+    "age_category_id": "junior",
+
+    "source_url": "https://www.issf-sports.org/competitions/3283/results",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "2026-06-06 20:05:35.000",
+    "updated_at": "2026-06-06 20:05:35.000"
+  },
+  {
+    "id": "ce_jwch_suhl_2026_skeet_men_junior",
+    "code": "skeet_men_junior",
+    "slug": "skeet_men_junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "skeet_men",
+    "age_category_id": "junior",
+
+    "source_url": "https://www.issf-sports.org/competitions/3283/results",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "2026-06-06 20:05:35.000",
+    "updated_at": "2026-06-06 20:05:35.000"
+  },
+  {
+    "id": "ce_jwch_suhl_2026_50m_rifle_3_positions_men_junior",
+    "code": "50m_rifle_3_positions_men_junior",
+    "slug": "50m-rifle-3-positions-men-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "50m_rifle_3_positions_men",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_50m_rifle_prone_men_junior",
+    "code": "50m_rifle_prone_men_junior",
+    "slug": "50m-rifle-prone-men-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "50m_rifle_prone_men",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_10m_air_rifle_women_junior",
+    "code": "10m_air_rifle_women_junior",
+    "slug": "10m-air-rifle-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "10m_air_rifle_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_50m_rifle_3_positions_women_junior",
+    "code": "50m_rifle_3_positions_women_junior",
+    "slug": "50m-rifle-3-positions-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "50m_rifle_3_positions_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_50m_rifle_prone_women_junior",
+    "code": "50m_rifle_prone_women_junior",
+    "slug": "50m-rifle-prone-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "50m_rifle_prone_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_10m_air_rifle_mixed_junior",
+    "code": "10m_air_rifle_mixed_junior",
+    "slug": "10m-air-rifle-mixed-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "10m_air_rifle_mixed",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "ce_jwch_suhl_2026_25m_rapid_fire_pistol_men_junior",
+    "code": "25m_rapid_fire_pistol_men_junior",
+    "slug": "25m-rapid-fire-pistol-men-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "25m_rapid_fire_pistol_men",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_25m_standard_pistol_men_junior",
+    "code": "25m_standard_pistol_men_junior",
+    "slug": "25m-standard-pistol-men-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "25m_standard_pistol_men",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_25m_pistol_men_junior",
+    "code": "25m_pistol_men_junior",
+    "slug": "25m-pistol-men-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "25m_pistol_men",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_50m_pistol_men_junior",
+    "code": "50m_pistol_men_junior",
+    "slug": "50m-pistol-men-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "50m_pistol_men",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_10m_air_pistol_women_junior",
+    "code": "10m_air_pistol_women_junior",
+    "slug": "10m-air-pistol-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "10m_air_pistol_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_25m_pistol_women_junior",
+    "code": "25m_pistol_women_junior",
+    "slug": "25m-pistol-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "25m_pistol_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_25m_standard_pistol_women_junior",
+    "code": "25m_standard_pistol_women_junior",
+    "slug": "25m-standard-pistol-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "25m_standard_pistol_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_50m_pistol_women_junior",
+    "code": "50m_pistol_women_junior",
+    "slug": "50m-pistol-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "50m_pistol_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_10m_air_pistol_mixed_junior",
+    "code": "10m_air_pistol_mixed_junior",
+    "slug": "10m-air-pistol-mixed-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "10m_air_pistol_mixed",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "ce_jwch_suhl_2026_trap_women_junior",
+    "code": "trap_women_junior",
+    "slug": "trap-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "trap_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_skeet_women_junior",
+    "code": "skeet_women_junior",
+    "slug": "skeet-women-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "skeet_women",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ce_jwch_suhl_2026_trap_mixed_junior",
+    "code": "trap_mixed_junior",
+    "slug": "trap-mixed-junior",
+
+    "competition_edition_id": "issf_junior_world_champ_suhl_2026",
+    "event_id": "trap_mixed",
+    "age_category_id": "junior",
+
+    "source_url": "",
+    "notes": "",
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,37 @@
+{{!-- Competition Page Tabs Section --}}
+<section class="competition-page__tabs">
+  {{!-- Competition Page Tabs --}}
+  <div class="tabs container">
+    <!-- Tabs Navigation -->
+    <nav class="tabs__nav">
+      <button class="tabs__btn is-active" data-tab="info">Info</button>
+      <button class="tabs__btn" data-tab="schedule">Schedule</button>
+      <button class="tabs__btn" data-tab="results">Results</button>
+      <button class="tabs__btn" data-tab="documents">Documents</button>
+      <button class="tabs__btn" data-tab="news">News</button>
+      <button class="tabs__btn" data-tab="gallery">Gallery</button>
+    </nav>
+
+    {{!-- Tabs Content --}}
+    <div class="tabs__content">
+      {{!-- Tab Panel Info --}}
+      <section class="tabs__panel is-active" data-tab="info">
+        {{> layouts/pages/competition/tabs/tab-info }}
+      </section>
+
+      {{!-- Tab Schedule --}}
+      <section class="tabs__panel" data-tab="schedule">
+        {{> layouts/pages/competition/tabs/tab-schedule-2 }}
+      </section>
+
+      {{!-- Tab Results --}}
+      {{> layouts/pages/competition/tabs/results }}
+
+      {{!-- Tab Documents --}}
+      {{> layouts/pages/competition/tabs/documents }}
+
+      {{!-- Tab Gallery --}}
+      {{> layouts/pages/competition/tabs/gallery }}
+    </div>
+  </div>
+</section>

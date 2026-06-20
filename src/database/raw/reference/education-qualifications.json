@@ -1,0 +1,73 @@
+[
+  {
+    "id": "associate_degree",
+    "code": "associate_degree",
+
+    "name": "Associate Degree",
+    "short_name": "Associate",
+
+    "description": "Associate degree awarded after a short-cycle higher education program",
+
+    "level": 1,
+
+    "sort_order": 1,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "bachelors_degree",
+    "code": "bachelors_degree",
+
+    "name": "Bachelor's Degree",
+    "short_name": "Bachelor's",
+
+    "description": "Undergraduate academic degree awarded by a university",
+
+    "level": 2,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "masters_degree",
+    "code": "masters_degree",
+
+    "name": "Master's Degree",
+    "short_name": "Master's",
+
+    "description": "Postgraduate academic degree awarded by a university",
+
+    "level": 3,
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "doctoral_degree",
+    "code": "doctoral_degree",
+
+    "name": "Doctoral Degree",
+    "short_name": "Doctorate",
+
+    "description": "Highest academic degree awarded by a university",
+
+    "level": 4,
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

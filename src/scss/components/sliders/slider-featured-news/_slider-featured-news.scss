@@ -1,0 +1,96 @@
+// .slider-featured-news__wrapper {
+//   // padding-block: var(--space-lg);
+//   // padding-inline: var(--space-sm);
+//   // overflow: hidden;
+
+//   // With navigation
+//   // margin-inline: var(--space-3xl);
+
+//   // With pagination
+//   // margin-bottom: var(--space-2xl);
+// }
+
+.slider-featured-news__wrapper .swiper-wrapper {
+  height: auto;
+}
+
+// .slider-featured-news__wrapper .swiper-slide {
+// transition: transform var(--duration-normal) var(--timing-cubic);
+
+// &:hover,
+// &:focus-within {
+//   transform: translateY(-4px);
+// }
+// }
+
+// .slider-featured-news__wrapper .swiper-pagination {
+//   // --swiper-pagination-bottom: 16px;
+//   // --swiper-pagination-color: #b1b3f8;
+// }
+
+// .slider-featured-news__wrapper .swiper-pagination-bullet {
+//   // 0.75rem = 12px
+//   width: 0.75rem;
+//   height: 0.75rem;
+
+//   overflow: hidden;
+//   opacity: 1;
+
+//   background-color: #b1b3f8;
+// }
+
+// .slider-featured-news__wrapper .swiper-pagination-bullet-active::before {
+//   content: "";
+//   position: absolute;
+//   left: 0;
+//   top: 0;
+
+//   width: 100%;
+//   height: 100%;
+
+//   background-color: var(--color-bg-accent);
+
+//   transform: scaleX(0);
+//   transform-origin: left center;
+
+//   // autoplay in name-slider.js => delay: 8000,
+//   animation: autoplay-loading 8000ms linear forwards;
+// }
+
+// @keyframes autoplay-loading {
+//   100% {
+//     transform: scaleX(1);
+//   }
+// }
+
+// .slider-featured-news__wrapper:hover .swiper-pagination-bullet-active::before {
+//   animation-play-state: paused;
+// }
+
+// .slider-featured-news__wrapper .swiper-button-prev,
+// .slider-featured-news__wrapper .swiper-button-next {
+//   --swiper-navigation-top-offset: 50%;
+//   --swiper-navigation-sides-offset: var(--space-sm);
+//   --swiper-navigation-size: 2rem;
+
+//   color: #b1b3f8;
+
+//   transition: color var(--duration-normal) var(--timing-cubic);
+
+//   &:hover {
+//     color: #8b5cf6;
+//   }
+// }
+
+// Hide navigation arrows on mobile devices
+// @media (max-width: 767.98px) {
+//   .slider-featured-news__wrapper {
+//     margin-inline: 0;
+//     margin-bottom: 0;
+//   }
+
+//   .slider-featured-news__wrapper .swiper-button-prev,
+//   .slider-featured-news__wrapper .swiper-button-next {
+//     display: none;
+//   }
+// }

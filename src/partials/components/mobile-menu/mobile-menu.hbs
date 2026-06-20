@@ -1,0 +1,93 @@
+<!-- Mobile Menu -->
+<div class="mobile-menu {{class}}">
+  <!-- Mobile Menu Toggle (Open Button) -->
+  <button
+    class="js-open-mobile-menu mobile-menu__toggle"
+    type="button"
+    aria-label="Open mobile menu"
+    aria-expanded="false"
+    aria-controls="mobile-menu-container"
+  >
+    <svg class="mobile-menu__toggle-icon" width="32" height="32" aria-hidden="true">
+      <use href="assets/icons/sprite.svg#icon-ui-burger"></use>
+    </svg>
+  </button>
+
+  <!-- Mobile Menu Container -->
+  <div class="js-mobile-menu-container mobile-container" id="mobile-menu-container">
+    <div class="mobile-container__header">
+      <!-- Site Logo -->
+      {{> components/logo/logo}}
+      {{!-- <load src="/src/partials/logo/logo.html" /> --}}
+
+      <!-- Mobile Menu Toggle (Close Button) -->
+      <button
+        class="js-close-mobile-menu mobile-menu__toggle"
+        type="button"
+        aria-label="Close mobile menu"
+      >
+        <svg class="mobile-menu__toggle-icon" width="32" height="32" aria-hidden="true">
+          <use href="assets/icons/sprite.svg#icon-ui-close"></use>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile Menu Navigation -->
+    <ul class="mobile-nav">
+      <li>
+        <a class="mobile-nav__link" href="competitions/">Competitions</a>
+      </li>
+      <li>
+        <a class="mobile-nav__link" href="disciplines/">Disciplines</a>
+      </li>
+      <li>
+        <a class="mobile-nav__link" href="athletes/">Athletes</a>
+      </li>
+      <li>
+        <a class="mobile-nav__link" href="news/">News</a>
+      </li>
+      <li>
+        <a class="mobile-nav__link" href="gallery/">Gallery</a>
+      </li>
+      <li>
+        <a class="mobile-nav__link" href="contacts/">Contacts</a>
+      </li>
+    </ul>
+
+    <!-- Mobile Menu Footer -->
+    <div class="mobile-container__footer">
+      <!-- Contacts -->
+      <ul class="mobile-contacts mobile-menu__contacts">
+        <li>
+          <a class="mobile-contacts__link mobile-contacts__link--accent" href="tel:+994124937060">
+            <svg class="mobile-contacts__icon" width="24" height="24">
+              <use href="assets/icons/sprite.svg#icon-ui-mobile"></use>
+            </svg>
+            <span>(+994) 12 493 70 60</span>
+          </a>
+        </li>
+        <li>
+          <a class="mobile-contacts__link" href="mailto:info@aze-shooting.org">
+            <svg class="mobile-contacts__icon" width="24" height="24">
+              <use href="assets/icons/sprite.svg#icon-ui-email"></use>
+            </svg>
+            <span>info@aze-shooting.org</span>
+          </a>
+        </li>
+      </ul>
+
+      <!-- Social Links -->
+      <ul class="mobile-social mobile-menu__social">
+        <li class="mobile-social__item">
+          <a class="mobile-social__link" href="https://www.facebook.com/azeshooting/">Facebook </a>
+        </li>
+        <li class="mobile-social__item">
+          <a class="mobile-social__link" href="https://www.instagram.com/azeshooting/">Instagram</a>
+        </li>
+        <li class="mobile-social__item">
+          <a class="mobile-social__link" href="https://www.youtube.com/@azeshooting/">YouTube </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,53 @@
+/* STORIES */
+
+.story-card {
+  position: relative;
+
+  height: 480px;
+  border-radius: 28px;
+
+  overflow: hidden;
+}
+
+.story-card__image {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+}
+
+.story-card__overlay {
+  position: absolute;
+  inset: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  gap: 16px;
+
+  padding: 32px;
+
+  color: rgba(255, 255, 255, 1);
+
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.85),
+    rgba(0, 0, 0, 0.1) 75%
+  );
+}
+
+.story-card__category {
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: var(--tracking-ui);
+  text-transform: uppercase;
+
+  // color: #91b8ff;
+}
+
+.story-card__title {
+  margin: 0;
+
+  font-size: 24px;
+  line-height: 1.3;
+}

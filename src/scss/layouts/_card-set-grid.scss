@@ -1,0 +1,66 @@
+.grid {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xl);
+}
+
+.grid__item {
+  flex: 0 0 100%;
+
+  transition: transform var(--duration-normal) var(--timing-cubic);
+
+  &:hover,
+  &:focus-within {
+    transform: translateY(-4px);
+  }
+
+  /* ===== Колонки ===== */
+  .grid--2 & {
+    @media (min-width: 768px) {
+      flex: 0 0 calc((100% - var(--space-xl)) / 2);
+    }
+  }
+
+  .grid--3 & {
+    @media (min-width: 768px) {
+      flex: 0 0 calc((100% - var(--space-xl)) / 2);
+    }
+
+    @media (min-width: 1024px) {
+      flex: 0 0 calc((100% - var(--space-xl) * 2) / 3);
+    }
+  }
+
+  .grid--4 & {
+    @media (min-width: 768px) {
+      flex: 0 0 calc((100% - var(--space-xl) * 2) / 3);
+    }
+
+    @media (min-width: 1024px) {
+      flex: 0 0 calc((100% - var(--space-xl) * 3) / 4);
+    }
+  }
+
+  .grid--5 & {
+    @media (min-width: 560px) {
+      flex: 0 0 calc((100% - var(--space-xl)) / 2);
+    }
+
+    @media (min-width: 768px) {
+      flex: 0 0 calc((100% - var(--space-xl) * 2) / 3);
+    }
+
+    @media (min-width: 1024px) {
+      flex: 0 0 calc((100% - var(--space-xl) * 3) / 4);
+    }
+
+    @media (min-width: 1440px) {
+      flex: 0 0 calc((100% - var(--space-xl) * 4) / 5);
+    }
+  }
+}

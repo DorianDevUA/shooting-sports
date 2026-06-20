@@ -1,0 +1,86 @@
+[
+  {
+    "id": "tag_rel_0001",
+
+    "entity_id": "art_0001",
+    "entity_type_id": "article",
+
+    "tag_id": "azerbaijan",
+
+    "is_active": true,
+    "sort_order": 1,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "tag_rel_0002",
+
+    "entity_id": "art_0001",
+    "entity_type_id": "article",
+
+    "tag_id": "issf",
+
+    "is_active": true,
+    "sort_order": 2,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "tag_rel_0003",
+
+    "entity_id": "art_0004",
+    "entity_type_id": "article",
+
+    "tag_id": "spain",
+
+    "is_active": true,
+    "sort_order": 1,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "tag_rel_0004",
+
+    "entity_id": "art_0004",
+    "entity_type_id": "article",
+
+    "tag_id": "winner",
+
+    "is_active": true,
+    "sort_order": 2,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "tag_rel_0005",
+
+    "entity_id": "art_0004",
+    "entity_type_id": "article",
+
+    "tag_id": "gold_medal",
+
+    "is_active": true,
+    "sort_order": 3,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "tag_rel_0006",
+
+    "entity_id": "art_0001",
+    "entity_type_id": "article",
+
+    "tag_id": "asf",
+
+    "is_active": true,
+    "sort_order": 1,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

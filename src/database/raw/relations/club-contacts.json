@@ -1,0 +1,17 @@
+[
+  {
+    "id": "club_contact_001",
+
+    "contact_type_id": "email",
+    "value": "info@example.com",
+
+    "entity_id": "club_0001",
+    "entity_type_id": "club",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

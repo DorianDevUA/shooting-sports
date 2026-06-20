@@ -1,0 +1,35 @@
+<footer class="page-footer">
+  <div class='container'>
+    {{!-- Intro | Socials | Subscription --}}
+    <div class='page-footer__main'>
+
+      {{! Intro }}
+      <div class='page-footer__intro'>
+        {{! Site Logo }}
+        {{> components/logo/logo class="page-footer__logo"}}
+
+        {{! Intro text }}
+        <p class="text">Supporting athletes, celebrating<br />achievements, and advancing<br />the sport of shooting.</p>
+      </div>
+
+      {{! Subscription }}
+      {{> components/subscription/subscription class='page-footer__newsletter'}}
+
+      {{! Social Links }}
+      <div class="page-footer__contacts">
+        {{> components/contacts/contacts class='page-footer__address'}}
+        {{> components/socials/socials class='socials--lg page-footer__socials'}}
+      </div>
+    </div>
+
+    {{!-- Copyright --}}
+    <div class='page-footer__bottom'>
+      {{! Copyright text}}
+      <p class='page-footer__copyright'>
+        {{!-- Made with &#10084; by Dorian Devois<br /> --}}
+        All rights reserved<br />
+        Azerbaijan Shooting Federation &copy; 2026
+      </p>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "personal",
+    "code": "personal",
+    "name": "Personal Coach",
+    "description": "Primary personal coach responsible for the athlete training.",
+
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "national",
+    "code": "national",
+    "name": "National Coach",
+    "description": "Coach assigned by the national federation or national team.",
+
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "assistant",
+    "code": "assistant",
+    "name": "Assistant Coach",
+    "description": "Assistant coach supporting athlete preparation.",
+
+    "sort_order": 3,
+    "is_active": true
+  },
+  {
+    "id": "fitness",
+    "code": "fitness",
+    "name": "Fitness Coach",
+    "description": "Coach responsible for physical conditioning.",
+
+    "sort_order": 4,
+    "is_active": true
+  }
+]

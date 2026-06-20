@@ -1,0 +1,18 @@
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="{{ site.name }}" />
+<meta
+  property="og:title"
+  content="{{fallback page.seo.title seo.default.title}} | {{ site.name }}"
+/>
+<meta
+  property="og:description"
+  content="{{fallback page.seo.description seo.default.description}}"
+/>
+<meta property="og:url" content="{{buildUrl site.url page.url}}" />
+<meta
+  property="og:image"
+  content="{{buildAbsUrl site.url (fallback page.ogImage seo.default.ogImage)}}"
+/>
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />

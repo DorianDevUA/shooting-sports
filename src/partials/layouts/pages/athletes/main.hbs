@@ -1,0 +1,26 @@
+{{! Page Content }}
+<main class="page-content">
+  {{!-- Page Hero Section --}}
+  {{> layouts/page-hero/index }}
+
+  {{!-- Page Filters --}}
+  {{> layouts/page-filters/athletes-filters }}
+
+  {{!-- Pistol Team Slider --}}
+  {{> layouts/swiper-sliders/slider-pistol-team }}
+
+  {{!-- Refle Team Slider --}}
+  {{> layouts/swiper-sliders/slider-rifle-team }}
+
+  <section class="section">
+    <div class="container">
+      {{> components/competition-banner/competition-banner class="js-athletes-page-event-banner"}}
+    </div>
+  </section>
+
+  {{!-- Skeet Team Slider --}}
+  {{> layouts/swiper-sliders/slider-skeet-team }}
+
+  {{!-- Trap Team Slider --}}
+  {{> layouts/swiper-sliders/slider-trap-team }}
+</main>

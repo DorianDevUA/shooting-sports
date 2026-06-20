@@ -1,0 +1,252 @@
+[
+  {
+    "id": "amd_0001",
+    "athlete_id": "pers_0001",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0002",
+    "athlete_id": "pers_0002",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0003",
+    "athlete_id": "pers_0003",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0004",
+    "athlete_id": "pers_0004",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0005",
+    "athlete_id": "pers_0005",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0030",
+    "athlete_id": "pers_0030",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0031",
+    "athlete_id": "pers_0031",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0032",
+    "athlete_id": "pers_0032",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0033",
+    "athlete_id": "pers_0033",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0006",
+    "athlete_id": "pers_0006",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0007",
+    "athlete_id": "pers_0007",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0008",
+    "athlete_id": "pers_0008",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_00034",
+    "athlete_id": "pers_0034",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0035",
+    "athlete_id": "pers_0035",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0036",
+    "athlete_id": "pers_0036",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0011",
+    "athlete_id": "pers_0011",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0012",
+    "athlete_id": "pers_0012",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0038",
+    "athlete_id": "pers_0038",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0039",
+    "athlete_id": "pers_0039",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0040",
+    "athlete_id": "pers_0040",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0041",
+    "athlete_id": "pers_0041",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0013",
+    "athlete_id": "pers_0013",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0043",
+    "athlete_id": "pers_0043",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0014",
+    "athlete_id": "pers_0014",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0015",
+    "athlete_id": "pers_0015",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0016",
+    "athlete_id": "pers_0016",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0017",
+    "athlete_id": "pers_0017",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0044",
+    "athlete_id": "pers_0044",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0045",
+    "athlete_id": "pers_0045",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0046",
+    "athlete_id": "pers_0046",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0018",
+    "athlete_id": "pers_0018",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0019",
+    "athlete_id": "pers_0019",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0020",
+    "athlete_id": "pers_0020",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0050",
+    "athlete_id": "pers_0050",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0023",
+    "athlete_id": "pers_0023",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0024",
+    "athlete_id": "pers_0024",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0025",
+    "athlete_id": "pers_0025",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0026",
+    "athlete_id": "pers_0026",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0027",
+    "athlete_id": "pers_0027",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0049",
+    "athlete_id": "pers_0049",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0028",
+    "athlete_id": "pers_0028",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0029",
+    "athlete_id": "pers_0029",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_0047",
+    "athlete_id": "pers_0047",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  },
+  {
+    "id": "amd_00102",
+    "athlete_id": "pers_0102",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0103",
+    "athlete_id": "pers_0103",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0104",
+    "athlete_id": "pers_0104",
+    "discipline": { "id": "pistol", "slug": "pistol", "name": "Pistol" }
+  },
+  {
+    "id": "amd_0105",
+    "athlete_id": "pers_0105",
+    "discipline": { "id": "rifle", "slug": "rifle", "name": "Rifle" }
+  },
+  {
+    "id": "amd_0106",
+    "athlete_id": "pers_0106",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0107",
+    "athlete_id": "pers_0107",
+    "discipline": { "id": "skeet", "slug": "skeet", "name": "Skeet" }
+  },
+  {
+    "id": "amd_0108",
+    "athlete_id": "pers_0108",
+    "discipline": { "id": "trap", "slug": "trap", "name": "Trap" }
+  }
+]

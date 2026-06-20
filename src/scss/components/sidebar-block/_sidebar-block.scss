@@ -1,0 +1,27 @@
+.sidebar-block {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+
+  padding-block: var(--space-xl);
+  padding-inline: var(--space-xl);
+
+  border-radius: var(--radius-xl);
+
+  background-color: var(--color-bg-primary);
+}
+
+// .sidebar-block__header {
+//
+// }
+
+.sidebar-block__title {
+  font-size: var(--font-size-2xl);
+  line-height: 1;
+
+  color: var(--color-text-title);
+}
+
+// .sidebar-block__body {
+//
+// }

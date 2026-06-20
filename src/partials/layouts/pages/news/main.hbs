@@ -1,0 +1,27 @@
+{{! Page Content }}
+<main class="page-content">
+  {{! Page Hero Section  }}
+  {{> layouts/page-hero/index }}
+
+  {{!-- Featured News --}}
+  {{> layouts/swiper-sliders/slider-featured-news }}
+
+  {{!-- Filtered News Slider --}}
+  {{> layouts/swiper-sliders/slider-filtered-news }}
+
+  {{!-- Latest News Slider --}}
+  {{> layouts/swiper-sliders/slider-latest-news }}
+
+  {{!-- Event Banner Section --}}
+  <section class="section">
+    <div class="container">
+      {{> components/competition-banner/competition-banner class="js-news-event-banner"}}
+    </div>
+  </section>
+
+  {{!-- Competition News Slider --}}
+  {{> layouts/swiper-sliders/slider-competition-news }}
+
+  {{!-- Interviews & Stories Slider --}}
+  {{> layouts/swiper-sliders/slider-stories-news }}
+</main>

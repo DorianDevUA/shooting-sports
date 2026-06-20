@@ -1,0 +1,86 @@
+[
+  {
+    "id": "10m",
+    "label": "10 m",
+    "value": 10,
+    "unit": "m",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "15m",
+    "label": "15 m",
+    "value": 15,
+    "unit": "m",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "16m",
+    "label": "16 m",
+    "value": 16,
+    "unit": "m",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m",
+    "label": "25 m",
+    "value": 25,
+    "unit": "m",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m",
+    "label": "50 m",
+    "value": 50,
+    "unit": "m",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "100m",
+    "label": "100 m",
+    "value": 100,
+    "unit": "m",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "300m",
+    "label": "300 m",
+    "value": 300,
+    "unit": "m",
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

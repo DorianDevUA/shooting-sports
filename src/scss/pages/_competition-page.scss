@@ -1,0 +1,30 @@
+.competition-page__tabs {
+  padding-block: var(--space-lg);
+}
+
+.competition-page__tags .tags__list {
+  gap: var(--space-sm);
+}
+
+.competition-page__tags .tags__link {
+  padding-top: var(--space-xs);
+  padding-bottom: calc(var(--space-xs) - 1px);
+  padding-inline: var(--space-sm);
+
+  border: 1px solid var(--color-border-dark);
+
+  font-size: var(--font-size-xs);
+  color: var(--color-text-dark);
+
+  transition:
+    color var(--duration-normal) var(--timing-cubic),
+    border-color var(--duration-normal) var(--timing-cubic),
+    background-color var(--duration-normal) var(--timing-cubic);
+
+  &:hover {
+    color: var(--color-text-inverse);
+    border-color: rgba(44, 82, 130, 1);
+    background-color: rgba(44, 82, 130, 1);
+    text-decoration: none;
+  }
+}

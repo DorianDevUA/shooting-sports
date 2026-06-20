@@ -1,0 +1,123 @@
+.tags__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.tags__item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tags__link {
+  display: inline-flex;
+  // overflow: hidden;
+
+  padding-inline: var(--space-sm);
+  padding-block: var(--space-xs);
+
+  border: 1px solid transparent;
+  border-radius: var(--radius-full);
+
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  line-height: 1;
+  color: var(--color-text-dark);
+
+  background-size: 200% auto;
+
+  transition: background var(--duration-slow) var(--timing-cubic);
+
+  &:hover,
+  &:focus {
+    background-position: right center;
+    text-decoration: underline;
+  }
+
+  &--gold {
+    background-image: linear-gradient(
+      to right,
+      #94740d 0%,
+      #e29f1b 51%,
+      #94740d 100%
+    );
+  }
+
+  &--silver {
+    background-image: linear-gradient(
+      to right,
+      #777777 0%,
+      #a9a9a9 51%,
+      #777777 100%
+    );
+  }
+
+  &--aze {
+    background-image: linear-gradient(
+      to right,
+      var(--color-brand-blue) 0%,
+      var(--color-brand-red) 51%,
+      var(--color-brand-green) 100%
+    );
+  }
+
+  &--esp {
+    background-image: linear-gradient(
+      to right,
+      #ad1519 0%,
+      #fabd00 51%,
+      #ad1519 100%
+    );
+  }
+
+  &--dark {
+    background-image: linear-gradient(
+      to right,
+      #282726 0%,
+      #7a7a7a 51%,
+      #282726 100%
+    );
+  }
+
+  &--green {
+    background-image: linear-gradient(
+      to right,
+      #07570b 0%,
+      #2f9b4e 51%,
+      #07570b 100%
+    );
+  }
+
+  &--blue {
+    background-image: linear-gradient(
+      to right,
+      #1d67bb 0%,
+      #66aee2 51%,
+      #1d67bb 100%
+    );
+  }
+
+  &--orange {
+    background-image: linear-gradient(
+      to right,
+      #ff512f 0%,
+      #f09819 51%,
+      #ff512f 100%
+    );
+  }
+
+  &--default {
+    background-image: linear-gradient(
+      to right,
+      #777777 0%,
+      #a9a9a9 51%,
+      #777777 100%
+    );
+  }
+}

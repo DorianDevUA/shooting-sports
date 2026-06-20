@@ -1,0 +1,17 @@
+<html lang="en">
+  {{!-- Head --}}
+  {{> layouts/head/index }}
+  {{!-- Body --}}
+  <body data-page="{{ page.code }}">
+    {{!-- Header --}}
+    {{> layouts/header/index }}
+    {{!-- Main --}}
+    {{> layouts/pages/home/main }}
+    {{!-- Foter --}}
+    {{> layouts/footer/index}}
+    {{!-- Modal Backdrop --}}
+    {{> components/backdrop/backdrop}}
+    {{!-- Page Scripts --}}
+    <script type="module" src="/src/js/main.js"></script>
+  </body>
+</html>

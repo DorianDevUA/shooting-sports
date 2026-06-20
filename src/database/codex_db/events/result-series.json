@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ser_res_2022_granada_lunev_10apm_q_01",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+    "stage_id": "qualification",
+    "series_number": 1,
+    "score": 97,
+    "score_display": "97",
+    "shots_count": 10
+  },
+  {
+    "id": "ser_res_2022_granada_lunev_10apm_q_02",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+    "stage_id": "qualification",
+    "series_number": 2,
+    "score": 98,
+    "score_display": "98",
+    "shots_count": 10
+  },
+  {
+    "id": "ser_res_2022_granada_lunev_10apm_q_03",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+    "stage_id": "qualification",
+    "series_number": 3,
+    "score": 97,
+    "score_display": "97",
+    "shots_count": 10
+  },
+  {
+    "id": "ser_res_2022_granada_lunev_10apm_q_04",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+    "stage_id": "qualification",
+    "series_number": 4,
+    "score": 96,
+    "score_display": "96",
+    "shots_count": 10
+  },
+  {
+    "id": "ser_res_2022_granada_lunev_10apm_q_05",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+    "stage_id": "qualification",
+    "series_number": 5,
+    "score": 97,
+    "score_display": "97",
+    "shots_count": 10
+  },
+  {
+    "id": "ser_res_2022_granada_lunev_10apm_q_06",
+    "result_id": "res_2022_granada_lunev_10apm_q",
+    "stage_id": "qualification",
+    "series_number": 6,
+    "score": 96,
+    "score_display": "96",
+    "shots_count": 10
+  }
+]

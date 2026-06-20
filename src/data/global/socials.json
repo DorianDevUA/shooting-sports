@@ -1,0 +1,22 @@
+{
+  "og": {
+    "type": "website",
+    "siteName": "Azerbaijan Shooting Federation",
+    "url": "https://doriandevois.github.io/vituum-project/",
+    "image": "/assets/images/social/social-preview-1200x630.jpg"
+  },
+
+  "twitter": {
+    "card": "summary_large_image",
+    "site": "@azshooting",
+    "creator": "@azshooting",
+    "image": "/assets/images/social/social-preview-1200x630.jpg"
+  },
+
+  "links": {
+    "facebook": "https://facebook.com/azshooting",
+    "instagram": "https://instagram.com/azshooting",
+    "youtube": "https://youtube.com/@azshooting",
+    "twitter": "https://twitter.com/azshooting"
+  }
+}

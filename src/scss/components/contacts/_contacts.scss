@@ -1,0 +1,29 @@
+.contacts {
+  display: flex;
+  flex-direction: column;
+
+  font-style: normal;
+}
+
+.contacts__list {
+  display: flex;
+  flex-direction: column;
+}
+
+.contacts__link {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: var(--space-sm);
+
+  font-weight: 500;
+}
+
+.contacts__link:hover {
+  color: var(--color-text-accent);
+}
+
+.contacts__link > .icon {
+  // fill: currentColor;
+  fill: var(--color-text-inverse);
+}

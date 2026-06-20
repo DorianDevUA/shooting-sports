@@ -1,0 +1,379 @@
+[
+  {
+    "id": "physical_education",
+    "code": "physical_education",
+
+    "name": "Physical Education",
+    "short_name": "PE",
+
+    "category_id": "social_sciences",
+
+    "description": "Physical education, sports training and teaching methods",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "sports_management",
+    "code": "sports_management",
+
+    "name": "Sports Management",
+    "short_name": "Sports Mgmt",
+
+    "category_id": "social_sciences",
+
+    "description": "Management of sports organizations and events",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "sports_psychology",
+    "code": "sports_psychology",
+
+    "name": "Sports Psychology",
+    "short_name": "Sports Psych",
+
+    "category_id": "social_sciences",
+
+    "description": "Psychological preparation and support in sports",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "sports_medicine",
+    "code": "sports_medicine",
+
+    "name": "Sports Medicine",
+    "short_name": "Sports Med",
+
+    "description": "Medical support and rehabilitation in sports",
+
+    "category_id": "medical_health_sciences",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "physiotherapy",
+    "code": "physiotherapy",
+
+    "name": "Physiotherapy",
+    "short_name": "Physiotherapy",
+
+    "description": "Physical rehabilitation and therapy",
+
+    "category_id": "medical_health_sciences",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "medicine",
+    "code": "medicine",
+
+    "name": "Medicine",
+    "short_name": "Medicine",
+
+    "description": "Medical science and healthcare practice",
+
+    "category_id": "medical_health_sciences",
+
+    "sort_order": 20,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "psychology",
+    "code": "psychology",
+
+    "name": "Psychology",
+    "short_name": "Psychology",
+
+    "description": "Human behavior and mental processes",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "pedagogy",
+    "code": "pedagogy",
+
+    "name": "Pedagogy",
+    "short_name": "Pedagogy",
+
+    "description": "Theory and practice of education and teaching",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 9,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "business_administration",
+    "code": "business_administration",
+
+    "name": "Business Administration",
+    "short_name": "Business Admin",
+
+    "description": "Management and administration of business operations",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 10,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "management",
+    "code": "management",
+
+    "name": "Management",
+    "short_name": "Management",
+
+    "description": "General organizational and operational management",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 11,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "marketing",
+    "code": "marketing",
+
+    "name": "Marketing",
+    "short_name": "Marketing",
+
+    "description": "Market research and communications",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 12,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "finance",
+    "code": "finance",
+
+    "name": "Finance",
+    "short_name": "Finance",
+
+    "description": "Financial systems and investment",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 21,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "accounting",
+    "code": "accounting",
+
+    "name": "Accounting",
+    "short_name": "Accounting",
+
+    "description": "Financial reporting and auditing",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 22,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "economics",
+    "code": "economics",
+
+    "name": "Economics",
+    "short_name": "Economics",
+
+    "description": "Economic systems and markets",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 17,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "information_technology",
+    "code": "information_technology",
+
+    "name": "Information Technology",
+    "short_name": "IT",
+
+    "description": "Software systems and computing technologies",
+
+    "category_id": "engineering_technology",
+
+    "sort_order": 13,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "computer_science",
+    "code": "computer_science",
+
+    "name": "Computer Science",
+    "short_name": "CS",
+
+    "description": "Computation, algorithms and software systems",
+
+    "category_id": "natural_sciences",
+
+    "sort_order": 14,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "engineering",
+    "code": "engineering",
+
+    "name": "Engineering",
+    "short_name": "Engineering",
+
+    "description": "Applied technical sciences and engineering",
+
+    "category_id": "engineering_technology",
+
+    "sort_order": 23,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "law",
+    "code": "law",
+
+    "name": "Law",
+    "short_name": "Law",
+
+    "description": "Legal systems and jurisprudence",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 15,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "international_relations",
+    "code": "international_relations",
+
+    "name": "International Relations",
+    "short_name": "IR",
+
+    "description": "Global politics and diplomacy",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 16,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "journalism",
+    "code": "journalism",
+
+    "name": "Media and Communications",
+    "short_name": "Journalism",
+
+    "description": "Media, journalism and communications studies",
+
+    "category_id": "social_sciences",
+
+    "sort_order": 18,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "linguistics",
+    "code": "linguistics",
+
+    "name": "Linguistics",
+    "short_name": "Linguistics",
+
+    "description": "Language structure and theory",
+
+    "category_id": "humanities",
+
+    "sort_order": 19,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

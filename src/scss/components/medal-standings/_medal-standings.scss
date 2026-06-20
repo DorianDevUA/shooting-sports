@@ -1,0 +1,33 @@
+/* Обгортка таблиці */
+.medal-standings__table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* Кнопка "See Less" */
+.medal-standings__btn {
+  padding-block: var(--space-sm);
+  padding-inline: var(--space-lg);
+
+  border: 1px solid var(--color-border-dark);
+  border-radius: var(--radius-full);
+
+  margin-top: var(--space-lg);
+
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  line-height: 1;
+  letter-spacing: var(--tracking-ui);
+
+  background-color: transparent;
+  cursor: pointer;
+
+  transition:
+    color var(--duration-normal) var(--timing-cubic),
+    background-color var(--duration-normal) var(--timing-cubic);
+}
+
+.medal-standings__btn:hover {
+  background-color: var(--color-bg-dark);
+  color: var(--color-text-inverse);
+}

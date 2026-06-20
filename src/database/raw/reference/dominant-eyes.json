@@ -1,0 +1,43 @@
+[
+  {
+    "id": "right",
+    "code": "right",
+    "name": "Right-eye dominant",
+    "short_name": "Right",
+    "description": "Athlete primarily uses the right eye for aiming",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "2026-04-05 20:05:35.000",
+    "updated_at": "2026-04-05 20:05:35.000"
+  },
+
+  {
+    "id": "left",
+    "code": "left",
+    "name": "Left-eye dominant",
+    "short_name": "Left",
+    "description": "Athlete primarily uses the left eye for aiming",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "2026-04-05 20:05:35.000",
+    "updated_at": "2026-04-05 20:05:35.000"
+  },
+
+  {
+    "id": "mixed",
+    "code": "mixed",
+    "name": "Mixed dominance",
+    "short_name": "Mixed",
+    "description": "Athlete can aim effectively with both eyes",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "2026-04-05 20:05:35.000",
+    "updated_at": "2026-04-05 20:05:35.000"
+  }
+]

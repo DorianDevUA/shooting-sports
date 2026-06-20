@@ -1,0 +1,17 @@
+/* Кольорові кружечки для медалей */
+.medal-badge {
+  display: inline-block;
+  width: 1rem;
+  height: 1rem;
+  border-radius: var(--radius-full);
+
+  &--gold {
+    background-color: #f1b82d;
+  }
+  &--silver {
+    background-color: #cccccc;
+  }
+  &--bronze {
+    background-color: #d37c5a;
+  }
+}

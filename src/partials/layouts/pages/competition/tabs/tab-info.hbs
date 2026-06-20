@@ -1,0 +1,228 @@
+{{!-- Tab Panel Info --}}
+<section class="page-details">
+  <div class="page-details__layout">
+    {{!-- Left Column --}}
+    <div class="page-details__column">
+      {{!-- Competition Info --}}
+      <section class="page-details__group">
+        <header class="page-details__header">
+          <h2 class="page-details__title">Competition Information</h2>
+        </header>
+
+        <ul class="page-details__list">
+          <li class="page-details__field">
+            <span class="page-details__label">Type:</span>
+            <span class="page-details__value">World Championship</span>
+          </li>
+          <li class="page-details__field">
+            <span class="page-details__label">Level:</span>
+            <span class="page-details__value">International</span>
+          </li>
+          <li class="page-details__field">
+            <span class="page-details__label">Categoty:</span>
+            <span class="page-details__value">Junior</span>
+          </li>
+          <li class="page-details__field">
+            <span class="page-details__label">Disciplines:</span>
+            <span class="page-details__value">Rifle / Pistol / Shotgun</span>
+          </li>
+          <li class="page-details__field">
+            <span class="page-details__label">Participation:</span>
+            <span class="page-details__value">Individual / Mixed</span>
+          </li>
+          <!-- <li class="page-details__field">
+            <span class="page-details__label">Events:</span>
+            <span class="page-details__value"
+              >10ARM / 10ARW / 10ARMT / 50RPM / 50RPW / 50R3PM / 50R3PW / 10APM
+              / 10APW / 10APMT / 25PM / 25PW / 25SPM / 25SPW / 25RFP / 50PM /
+              50PW / TRM / TRW / TRMT / SKM / SKW
+            </span>
+          </li> -->
+        </ul>
+      </section>
+
+      {{!-- General Info --}}
+      <!-- <section class="page-details__group">
+        <header class="page-details__header">
+          <h2 class="page-details__title">General Info</h2>
+        </header>
+
+        <ul class="page-details__list">
+          <li class="page-details__field">
+            <span class="page-details__label">Organizer:</span>
+            <span class="page-details__value"
+              >ISSF (International Shooting Sport Federation)</span
+            >
+          </li>
+
+          <li class="page-details__field">
+            <span class="page-details__label">Host:</span>
+            <span class="page-details__value"
+              >DSB (German Shooting Sport Federation)</span
+            >
+          </li>
+
+          <li class="page-details__field">
+            <span class="page-details__label">Venue:</span>
+            <span class="page-details__value"
+              >Shooting Center Suhl (Suhl, Germany)</span
+            >
+          </li>
+        </ul>
+      </section> -->
+    </div>
+
+    {{!-- Right Column --}}
+    <div class="page-details__column">
+      {{!--  --}}
+      <section class="page-details__group">
+        <header class="page-details__header">
+          <h2 class="page-details__title">Dates &amp; Schedule</h2>
+        </header>
+
+        <ul class="page-details__list">
+          <li class="page-details__field">
+            <span class="page-details__label">Official Arrival:</span>
+            <span class="page-details__value">16 Jun, 2026</span>
+          </li>
+
+          <li class="page-details__field">
+            <span class="page-details__label">Pre-Event Training:</span>
+            <span class="page-details__value">17 Jun, 2026</span>
+          </li>
+
+          <li class="page-details__field">
+            <span class="page-details__label">Technical Meeting:</span>
+            <span class="page-details__value">17 Jun - 21 Jun, 2026</span>
+          </li>
+
+          <li class="page-details__field">
+            <span class="page-details__label">Competitions:</span>
+            <span class="page-details__value">18 Jun - 25 Jun, 2026</span>
+          </li>
+
+          <li class="page-details__field">
+            <span class="page-details__label">Official Departure:</span>
+            <span class="page-details__value">26 Jun, 2026</span>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </div>
+
+  <div class="page-details__layout">
+    {{!-- Left Column --}}
+    <div class="page-details__column">
+      {{!-- Competition Events --}}
+      <section class="page-details__group">
+        <header class="page-details__header">
+          <h2 class="page-details__title">Competition Events</h2>
+        </header>
+
+        <table class="events-table">
+          <!-- Тело таблицы, куда JS вставит строки -->
+          <tbody class="events-table__body" id="events-table-rows">
+            <!-- Строки будут сгенерированы динамически -->
+          </tbody>
+        </table>
+      </section>
+    </div>
+
+    {{!-- Right Column --}}
+    <div class="page-details__column">
+      {{!-- Competition Medal Standings --}}
+      <section class="medal-standings page-details__group">
+        <!-- Шапка-заголовок над таблицею -->
+        <header class="page-details__header">
+          <h2 class="page-details__title">Medal standings</h2>
+
+          <p class="page-details__last-update">
+            <span>LAST UPDATE:</span>
+            <span>31 MAY 2026</span>
+          </p>
+        </header>
+
+        {{!-- Контейнер для адаптивності на мобільних --}}
+        <div class="medal-standings__table-wrapper">
+          <table class="medals-table">
+            <thead>
+              <tr class="medals-table__row medals-table__row--header">
+                <th class="medals-table__th medals-table__th--rank">Rank</th>
+                <th class="medals-table__th medals-table__th--team">Country</th>
+
+                {{!-- Замість іконок медалей використовую класи для кольорових кіл --}}
+                <th class="medals-table__th">
+                  <span class="medal-badge medal-badge--gold"></span>
+                </th>
+                <th class="medals-table__th">
+                  <span class="medal-badge medal-badge--silver"></span>
+                </th>
+                <th class="medals-table__th">
+                  <span class="medal-badge medal-badge--bronze"></span>
+                </th>
+
+                <th class="medals-table__th medals-table__th--total">Total</th>
+              </tr>
+            </thead>
+
+            <tbody id="medals-table-body">
+              <!-- Приклад одного рядка (Country Row) -->
+              <tr class="medals-table__row">
+                <td class="medals-table__td medals-table__td--rank">1</td>
+                <td class="medals-table__td medals-table__td--noc">
+                  <svg
+                    class="medals-table__flag"
+                    width="43"
+                    height="32"
+                    aria-hidden="true"
+                  >
+                    <use
+                      href="assets/icons/flags/sprite.svg#icon-flag-az"
+                    ></use>
+                  </svg>
+                  <abbr class="medals-table__country" title="Azerbaijan"
+                    >AZE</abbr
+                  >
+                </td>
+
+                <td class="medals-table__td medals-table__td--count">4</td>
+                <!-- Порожньо, якщо 0 -->
+                <td class="medals-table__td medals-table__td--count"></td>
+                <td class="medals-table__td medals-table__td--count">3</td>
+                <td class="medals-table__td medals-table__td--total-count">
+                  7
+                </td>
+              </tr>
+              <!-- Інші рядки додаються аналогічно або через JS JS.map() -->
+            </tbody>
+
+            <tfoot>
+              <tr class="medals-table__row medals-table__row--footer">
+                <td
+                  class="medals-table__td medals-table__td--footer-amount"
+                  colspan="2"
+                >
+                  Amount:
+                </td>
+                <td class="medals-table__td medals-table__td--footer-count">
+                  10
+                </td>
+                <td class="medals-table__td medals-table__td--footer-count">
+                  10
+                </td>
+                <td class="medals-table__td medals-table__td--footer-count">
+                  10
+                </td>
+                <td class="medals-table__td medals-table__td--footer-total">
+                  30
+                </td>
+              </tr>
+            </tfoot>
+          </table>
+        </div>
+
+        <button class="medal-standings__btn">See Less</button>
+      </section>
+    </div>
+  </div>
+</section>

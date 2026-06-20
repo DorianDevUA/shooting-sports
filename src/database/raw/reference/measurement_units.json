@@ -1,0 +1,86 @@
+[
+  {
+    "id": "kilogram",
+    "code": "kg",
+    "name": "kilogram",
+    "symbol": "kg",
+
+    "category_id": "weight",
+    "is_base": true,
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "gram",
+    "code": "g",
+    "name": "gram",
+    "symbol": "g",
+
+    "category_id": "weight",
+    "is_base": false,
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "centimeter",
+    "code": "cm",
+    "name": "centimeter",
+    "symbol": "cm",
+
+    "category_id": "length",
+    "is_base": false,
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "meter",
+    "code": "m",
+    "name": "meter",
+    "symbol": "m",
+
+    "category_id": "length",
+    "is_base": true,
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "second",
+    "code": "sec",
+    "name": "second",
+    "symbol": "s",
+
+    "category_id": "time",
+    "is_base": true,
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "minute",
+    "code": "min",
+    "name": "minute",
+    "symbol": "min",
+
+    "category_id": "time",
+    "is_base": false,
+
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

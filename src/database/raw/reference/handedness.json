@@ -1,0 +1,41 @@
+[
+  {
+    "id": "right",
+    "code": "right",
+    "name": "Right-handed",
+    "short_name": "Right",
+    "description": "Athlete shoots with the right hand",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "left",
+    "code": "left",
+    "name": "Left-handed",
+    "short_name": "Left",
+    "description": "Athlete shoots with the left hand",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ambidextrous",
+    "code": "ambidextrous",
+    "name": "Ambidextrous",
+    "short_name": "Ambidextrous",
+    "description": "Athlete can shoot with both hands equally",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

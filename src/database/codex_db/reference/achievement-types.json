@@ -1,0 +1,26 @@
+[
+  {
+    "id": "medal",
+    "name": "Medal",
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "record",
+    "name": "Record",
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "olympic_quota",
+    "name": "Olympic Quota",
+    "sort_order": 3,
+    "is_active": true
+  },
+  {
+    "id": "finalist",
+    "name": "Finalist",
+    "sort_order": 4,
+    "is_active": true
+  }
+]

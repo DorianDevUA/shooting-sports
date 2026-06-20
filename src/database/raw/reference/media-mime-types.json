@@ -1,0 +1,35 @@
+[
+  {
+    "id": "image_jpeg",
+    "code": "image/jpeg",
+    "slug": "image-jpeg",
+
+    "name": "JPEG Image",
+    "extension": "jpg",
+
+    "sort_order": 1,
+    "is_active": true
+  },
+  {
+    "id": "image_png",
+    "code": "image/png",
+    "slug": "image-png",
+
+    "name": "PNG Image",
+    "extension": "png",
+
+    "sort_order": 2,
+    "is_active": true
+  },
+  {
+    "id": "image_webp",
+    "code": "image/webp",
+    "slug": "image-webp",
+
+    "name": "WebP Image",
+    "extension": "webp",
+
+    "sort_order": 3,
+    "is_active": true
+  }
+]

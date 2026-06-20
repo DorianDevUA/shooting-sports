@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fishing",
+    "code": "fishing",
+    "name": "Fishing",
+    "description": "Fishing as a leisure activity",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "travel",
+    "code": "travel",
+    "name": "Travel",
+    "description": "Traveling for leisure or exploration",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "fitness",
+    "code": "fitness",
+    "name": "Fitness",
+    "description": "Physical training and fitness activities",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "internet",
+    "code": "internet",
+    "name": "Internet Browsing",
+    "description": "Browsing the internet, social media, online activity",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "reading",
+    "code": "reading",
+    "name": "Reading",
+    "description": "Reading books, articles and literature",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "chess",
+    "code": "chess",
+    "name": "Chess",
+    "description": "Strategic board game improving thinking skills",
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,886 @@
+[
+  {
+    "id": "pers_role_0001",
+
+    "person_id": "pers_0001",
+    "role_id": "athlete",
+
+    "started_at": "2010-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0002",
+
+    "person_id": "pers_0004",
+    "role_id": "athlete",
+
+    "started_at": "2014-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0003",
+
+    "person_id": "pers_0004",
+    "role_id": "coach",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "Started coaching junior national team",
+
+    "is_primary": false,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0004",
+
+    "person_id": "pers_0101",
+    "role_id": "coach",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0005",
+
+    "person_id": "pers_0002",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0006",
+
+    "person_id": "pers_0003",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0007",
+
+    "person_id": "pers_0005",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0008",
+
+    "person_id": "pers_0030",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0009",
+
+    "person_id": "pers_0031",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0010",
+
+    "person_id": "pers_0032",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0011",
+
+    "person_id": "pers_0033",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0012",
+
+    "person_id": "pers_0006",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0013",
+
+    "person_id": "pers_0007",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0014",
+
+    "person_id": "pers_0008",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0015",
+
+    "person_id": "pers_0034",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0016",
+
+    "person_id": "pers_0035",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0017",
+
+    "person_id": "pers_0036",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0018",
+
+    "person_id": "pers_0011",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0019",
+
+    "person_id": "pers_0012",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0020",
+
+    "person_id": "pers_0038",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0021",
+
+    "person_id": "pers_0039",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0022",
+
+    "person_id": "pers_0040",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0023",
+
+    "person_id": "pers_0041",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0024",
+
+    "person_id": "pers_0013",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0025",
+
+    "person_id": "pers_0043",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0026",
+
+    "person_id": "pers_0014",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0027",
+
+    "person_id": "pers_0015",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0028",
+
+    "person_id": "pers_0016",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0029",
+
+    "person_id": "pers_0017",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0030",
+
+    "person_id": "pers_0044",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0031",
+
+    "person_id": "pers_0045",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0032",
+
+    "person_id": "pers_0046",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0033",
+
+    "person_id": "pers_0018",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0034",
+
+    "person_id": "pers_0019",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0035",
+
+    "person_id": "pers_0020",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0036",
+
+    "person_id": "pers_0050",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0037",
+
+    "person_id": "pers_0023",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0038",
+
+    "person_id": "pers_0024",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0039",
+
+    "person_id": "pers_0025",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0040",
+
+    "person_id": "pers_0026",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0041",
+
+    "person_id": "pers_0027",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0042",
+
+    "person_id": "pers_0049",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0043",
+
+    "person_id": "pers_0028",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0044",
+
+    "person_id": "pers_0029",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0045",
+
+    "person_id": "pers_0047",
+    "role_id": "athlete",
+
+    "started_at": "2022-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0046",
+
+    "person_id": "pers_0102",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0047",
+
+    "person_id": "pers_0103",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0048",
+
+    "person_id": "pers_0104",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0049",
+
+    "person_id": "pers_0105",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0050",
+
+    "person_id": "pers_0106",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0051",
+
+    "person_id": "pers_0107",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pers_role_0052",
+
+    "person_id": "pers_0108",
+    "role_id": "athlete",
+
+    "started_at": "2026-01-01",
+    "ended_at": null,
+
+    "notes": "",
+
+    "is_primary": true,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "police_officer",
+    "name": "Police Officer"
+  },
+  {
+    "id": "athlete",
+    "name": "Athlete"
+  },
+  {
+    "id": "military",
+    "name": "Military"
+  },
+  {
+    "id": "student",
+    "name": "Student"
+  }
+]

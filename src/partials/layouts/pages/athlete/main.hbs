@@ -1,0 +1,48 @@
+{{! Page Content }}
+<main class="page-content">
+  {{!-- Page Hero Section --}}
+  {{> layouts/page-hero/index }}
+
+  {{!-- Athlete Profile Section --}}
+  <section class="athlete-page__profile section" data-profile></section>
+
+  <section>
+    <div class="container">
+      <!-- 🔻 BOTTOM BLOCK (Tabs) -->
+      <div class="athlete-page__tabs tabs">
+        <!-- Tabs Navigation -->
+        <nav class="tabs__nav">
+          <button class="tabs__btn is-active" data-tab="info">Info</button>
+          <button class="tabs__btn" data-tab="achievements">
+            Achievements
+          </button>
+          <button class="tabs__btn" data-tab="ranking">Ranking</button>
+          <button class="tabs__btn" data-tab="medals">Medals</button>
+          <button class="tabs__btn" data-tab="news">News</button>
+        </nav>
+
+        <!-- Tabs Content -->
+        <div class="tabs__content">
+          <section class="tabs__panel is-active athlete-info" data-tab="info">
+            {{!-- Info content... --}}
+            {{> layouts/pages/athlete/info-tab }}
+          </section>
+
+          <section class="tabs__panel" data-tab="achievements">
+            Achievements content...
+          </section>
+
+          <section class="tabs__panel" data-tab="ranking">
+            Ranking content...
+          </section>
+
+          <section class="tabs__panel" data-tab="medals">
+            Medals content...
+          </section>
+
+          <section class="tabs__panel" data-tab="news">Related news...</section>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "national_team_senior",
+    "slug": "national-team-senior",
+
+    "name": "Senior National Team",
+    "short_name": "National Team",
+
+    "team_type_id": "national",
+    "age_category_id": "senior",
+
+    "description": "Main senior national team",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "national_team_junior",
+    "slug": "national-team-junior",
+
+    "name": "Junior National Team",
+    "short_name": "Junior Team",
+
+    "team_type_id": "national",
+    "age_category_id": "junior",
+
+    "description": "Junior national team.",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "national_team_youth",
+    "slug": "national-team-youth",
+
+    "name": "Youth National Team",
+    "short_name": "Youth Team",
+
+    "team_type_id": "national",
+    "age_category_id": "youth",
+
+    "description": "Youth national team.",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

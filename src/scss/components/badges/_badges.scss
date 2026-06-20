@@ -1,0 +1,245 @@
+.badges {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+
+  position: absolute;
+
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+
+  &--top-left {
+    top: var(--space-md);
+    left: var(--space-md);
+  }
+
+  &--top-right {
+    top: var(--space-md);
+    right: var(--space-md);
+  }
+
+  &--bottom-right {
+    right: var(--space-md);
+    bottom: var(--space-md);
+  }
+
+  &--bottom-left {
+    left: var(--space-md);
+    bottom: var(--space-md);
+  }
+}
+
+.badges__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: var(--space-xs);
+  padding-bottom: calc(var(--space-xs) - 1px);
+  padding-inline: var(--space-sm);
+
+  border-radius: var(--radius-full);
+
+  font-size: var(--font-size-2xs);
+  font-weight: 500;
+  line-height: 1;
+  color: var(--badge-color, var(--color-text-inverse));
+  white-space: nowrap;
+
+  background-color: var(--badge-bg, var(--color-bg-dark));
+
+  text-shadow: var(--shadow-text-xs);
+
+  transition:
+    border-color var(--duration-normal) var(--timing-cubic),
+    background-color var(--duration-normal) var(--timing-cubic),
+    box-shadow var(--duration-normal) var(--timing-cubic);
+
+  &:hover,
+  &:focus {
+    color: var(--color-text-inverse);
+    box-shadow: var(--shadow-box-md);
+
+    text-decoration: underline;
+  }
+
+  .badges__item--flag & {
+    padding: 0;
+
+    border: none;
+    border-radius: 0;
+
+    background-color: transparent;
+
+    overflow: hidden;
+  }
+
+  /* Badge Statuses */
+  // Потрібно переробити всю систему кольорів бейджів під цей стиль
+  &[data-status="scheduled"] {
+    --badge-bg: var(--badges-bg-status-scheduled);
+    --badge-color: var(--badges-text-status-scheduled);
+  }
+
+  &[data-status="ongoing"] {
+    background-color: #cce5ff;
+    color: #9f5f1f;
+  }
+
+  &[data-status="completed"] {
+    background-color: rgb(241, 252, 202);
+    color: #715604;
+  }
+
+  &[data-status="cancelled"] {
+    background-color: #f8d7da;
+    color: #721c24;
+  }
+
+  &[data-discipline="pistol"] {
+    background-color: #2e2f42;
+    color: #ffffff;
+    background-image: linear-gradient(
+      to right bottom,
+      #8bf180,
+      #133f61,
+      #56d2f5
+    );
+  }
+
+  &[data-discipline="rifle"] {
+    background-color: #2e2f42;
+    color: #ffffff;
+    background-image: linear-gradient(
+      to right bottom,
+      #ef8888,
+      #0e63b3,
+      #a0cd9c
+    );
+  }
+
+  &[data-discipline="skeet"] {
+    background-color: #2e2f42;
+    color: #ffffff;
+    background-image: linear-gradient(
+      to right bottom,
+      #88a3ef,
+      #93730c,
+      #9ccd9e
+    );
+  }
+
+  &[data-discipline="trap"] {
+    background-color: #2e2f42;
+    color: #ffffff;
+    background-image: linear-gradient(
+      to right bottom,
+      #7597fb,
+      #6e4485,
+      #f4b98e
+    );
+  }
+
+  &[data-age-category="senior"] {
+    --badge-bg: #4b3800;
+
+    background-image: linear-gradient(
+      to right bottom,
+      #ba8b02 0%,
+      #2c2c2c 51%,
+      #ba8b02 100%
+    );
+  }
+
+  &[data-age-category="junior"] {
+    --badge-bg: #2c5282;
+
+    background-image: linear-gradient(
+      to right bottom,
+      #498ad8 0%,
+      #2c5282 51%,
+      #498ad8 100%
+    );
+  }
+
+  &[data-age-category="youth"] {
+    --badge-bg: #348836;
+
+    background-image: linear-gradient(
+      to right bottom,
+      #1ad27f 0%,
+      #348836 51%,
+      #1ad27f 100%
+    );
+  }
+
+  &[data-category="senior"] {
+    --badge-bg: #4b3800;
+
+    background-image: linear-gradient(
+      to right bottom,
+      #ba8b02 0%,
+      #2c2c2c 51%,
+      #ba8b02 100%
+    );
+  }
+
+  &[data-category="mixed"] {
+    --badge-bg: #2c5282;
+
+    background-image: linear-gradient(
+      to right bottom,
+      #498ad8 0%,
+      #2c5282 51%,
+      #498ad8 100%
+    );
+  }
+
+  &[data-category="junior"] {
+    --badge-bg: #348836;
+
+    background-image: linear-gradient(
+      to right bottom,
+      #1ad27f 0%,
+      #348836 51%,
+      #1ad27f 100%
+    );
+  }
+
+  /* Badge Types */
+  &[data-type="world-cup"] {
+    background-color: #d8f9d9;
+    color: #06740d;
+  }
+
+  &[data-type="olympic"] {
+    background-color: #af9a39;
+    color: #ffffff;
+  }
+
+  &[data-type="national"] {
+    background-color: #cddbff;
+    color: #0a414b;
+  }
+
+  &[data-type="world-championship"] {
+    background-color: #e2e3e5;
+    color: #383d41;
+  }
+
+  /* Badge Stages */
+  &[data-stages="final"] {
+    background-color: #d4edda;
+    color: #0c5460;
+  }
+}
+
+.badges__icon {
+  width: var(--badge-icon-size, auto);
+
+  .badges__item--flag & {
+    --badge-icon-size: 2rem;
+  }
+}

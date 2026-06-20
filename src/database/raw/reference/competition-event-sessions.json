@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ces_0001",
+
+    "competition_event_id": "ce_granada_2022_25m_rapid_fire_pistol_men",
+    "stage_id": "qualification",
+
+    "date": "2022-05-28",
+    "start_time": "09:00",
+    "end_time": "16:20",
+
+    "title": "Stage 1 - Relay 1 to 11"
+  },
+  {
+    "id": "ces_0002",
+
+    "competition_event_id": "ce_granada_2022_25m_rapid_fire_pistol_men",
+    "stage_id": "qualification",
+
+    "date": "2022-05-29",
+    "start_time": "08:30",
+    "end_time": "15:50",
+
+    "title": "Stage 2 - Relay 1 to 11"
+  },
+  {
+    "id": "ces_0003",
+
+    "competition_event_id": "ce_granada_2022_25m_rapid_fire_pistol_men",
+    "stage_id": "final",
+
+    "date": "2022-05-29",
+    "start_time": "17:15",
+    "end_time": null,
+
+    "title": "Final"
+  }
+]

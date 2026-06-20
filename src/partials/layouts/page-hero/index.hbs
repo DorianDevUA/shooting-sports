@@ -1,0 +1,13 @@
+{{! Page Hero Section  }}
+<section class="page-hero {{#if page.slug}}page-hero--{{ page.slug }}{{/if}}">
+  <div class="page-hero__container container">
+    {{! Page Hero Title }}
+    <h2 class="page-hero__title">{{ page.seo.title }}</h2>
+    {{! Page Breadcrumbs  }}
+    {{> components/breadcrumbs/breadcrumbs
+          breadcrumbs=page.breadcrumbs
+          addClass="page-hero__breadcrumbs"
+    }}
+  </div>
+</section>
+{{log page}}

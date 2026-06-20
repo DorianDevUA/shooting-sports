@@ -1,0 +1,93 @@
+[
+  {
+    "id": "competition",
+    "slug": "competition",
+    "name": "Competition",
+    "description": "Competition types and series",
+
+    "sort_order": 1,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "location",
+    "slug": "location",
+    "name": "Location",
+    "description": "Geographical context",
+
+    "sort_order": 2,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "discipline",
+    "slug": "discipline",
+    "name": "Discipline",
+    "description": "Shooting disciplines",
+
+    "sort_order": 3,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "achievement",
+    "slug": "achievement",
+    "name": "Achievement",
+    "description": "Results and achievements",
+
+    "sort_order": 4,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "age",
+    "slug": "age",
+    "name": "Age Category",
+    "description": "Age-based grouping",
+
+    "sort_order": 5,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "content",
+    "slug": "content",
+    "name": "Content Type",
+    "description": "Type of content",
+
+    "sort_order": 6,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "organization",
+    "slug": "organization",
+    "name": "Organization",
+    "description": "Organizations and federations",
+
+    "sort_order": 7,
+    "is_active": true,
+    "is_visible": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

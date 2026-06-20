@@ -1,0 +1,43 @@
+.tooltip-link {
+  position: relative;
+  // text-decoration: underline;
+  color: blue;
+}
+
+.tooltip-link__text {
+  position: absolute;
+  z-index: var(--z-tooltip);
+  left: -60%;
+
+  padding-block: var(--space-sm);
+  padding-inline: var(--space-md);
+  // border: 1px solid var(--color-border-light);
+  border-radius: var(--radius-full);
+
+  white-space: nowrap;
+  font-size: var(--font-size-xs);
+  color: var(--color-text-inverse);
+
+  background-color: rgba(255, 251, 201, 0.9);
+
+  background-image: linear-gradient(
+    to right,
+    var(--color-brand-blue),
+    var(--color-brand-red),
+    var(--color-brand-green)
+  );
+
+  // visibility: hidden;
+  opacity: 0;
+  transform: translateY(0) scale(0);
+
+  transition:
+    opacity var(--duration-normal) var(--timing-cubic),
+    transform var(--duration-normal) var(--timing-cubic);
+
+  .tooltip-link:hover & {
+    // visibility: visible;
+    opacity: 1;
+    transform: translateY(-150%) scale(1);
+  }
+}

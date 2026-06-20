@@ -1,0 +1,107 @@
+:root {
+  /* Solid colors */
+  --black: #000000;
+  --white: #ffffff;
+  --spanish-gray: #9ca3af;
+  --deep-indigo: rgb(46, 47, 66);
+  --night-sky: rgb(65, 105, 225);
+  --ocean: #404bbf;
+  --sky-blue: #99afef;
+  --deep-blue: rgb(44, 82, 130);
+  --navy: rgb(15, 23, 36);
+  --grape-violet: #9400d3;
+  --white-smoke: #f5f5f5;
+  --lavender-bloom: #e6e6fa;
+  --cloud: #f3f4f6;
+  --silver-cloud: #c0c0c0;
+  --light-gray: #e5e5e5;
+  --cool-gray: #8a8b96;
+  --gunmetal: #454657;
+  --storm-gray: #5c5d6c;
+
+  /* Brand */
+  --color-accent: var(--night-sky);
+  --color-brand-blue: #00b5e2;
+  --color-brand-red: #ef3340;
+  --color-brand-green: #509e2f;
+
+  /* Text */
+  --color-text-accent: var(--color-accent);
+  --color-text-primary: var(--gunmetal);
+  --color-text-secondary: var(--storm-gray);
+  --color-text-title: var(--deep-indigo);
+
+  --color-text-inverse: var(--white);
+  --color-text-muted: var(--spanish-gray);
+
+  --color-text-light: var(--light-gray);
+  --color-text-dark: var(--deep-indigo);
+  --color-text-dark-blue: var(--navy);
+  --color-text-deep-blue: var(--deep-blue);
+
+  /* Backgrounds */
+  --color-bg-primary: var(--white);
+  --color-bg-secondary: var(--white-smoke);
+
+  --color-bg-accent: var(--color-accent);
+  --color-bg-accent-hover: var(--ocean);
+  --color-bg-accent-disabled: var(--sky-blue);
+
+  --color-bg-light: var(--white-smoke);
+  --color-bg-dark: var(--deep-indigo);
+  --color-bg-dark-blue: var(--navy);
+  --color-bg-deep-blue: var(--deep-blue);
+  --color-bg-muted: var(--cloud);
+
+  /* Borders */
+  --color-divider: var(--light-gray);
+
+  --color-border-soft-dark: rgba(0, 0, 0, 0.1);
+  --color-border-soft-light: rgba(255, 255, 255, 0.1);
+
+  --color-border-strong-dark: rgba(0, 0, 0, 0.2);
+  --color-border-strong-light: rgba(255, 255, 255, 0.2);
+
+  --color-border-accent: var(--color-accent);
+  --color-border-accent-hover: var(--ocean);
+  --color-border-light: var(--white-smoke);
+  --color-border-dark: var(--deep-indigo);
+  --color-border-dark-blue: var(--navy);
+  --color-border-deep-blue: var(--deep-blue);
+
+  // Overlays
+  --color-bg-overlay-black: rgba(0, 0, 0, 0.4);
+  --color-bg-overlay-white: var(--white);
+
+  --color-bg-overlay-light: var(--white-smoke);
+  --color-bg-overlay-dark: rgba(46, 47, 66, 0.8);
+
+  // --color-gray-100: #f5f5f5;
+  // --color-gray-200: #e5e5e5;
+  // --color-gray-300: #d4d4d4;
+  // --color-gray-500: #737373;
+  // --color-gray-700: #404040;
+  // --color-gray-900: #171717;
+
+  // States
+  // --color-success: #16a34a;
+  // --color-warning: #f59e0b;
+  // --color-error: #dc2626;
+  // --color-info: #2563eb;
+
+  // Notification colours
+  // --color-status-info: #0dcaf0;
+  // --color-status-success: #198754;
+  // --color-status-warning: #ffc107;
+  // --color-status-danger: #dc3545;
+
+  // --color-bg-status-info: #e7f9fd;
+  // --color-bg-status-success: #eaf7ef;
+  // --color-bg-status-warning: #fff4cc;
+  // --color-bg-status-danger: #fdecea;
+
+  // --color-border-status-info: #9eeaf9;
+  // --color-border-status-success: #9dd8b5;
+  // --color-border-status-warning: #ffe08a;
+  // --color-border-status-danger: #f5b5b5;
+}

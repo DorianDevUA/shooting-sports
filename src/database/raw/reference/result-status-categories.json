@@ -1,0 +1,92 @@
+[
+  {
+    "id": "valid",
+    "code": "VALID",
+    "name": "Valid Result",
+    "description": "Result is valid and counted normally",
+
+    "affects_ranking": true,
+    "has_score": true,
+    "is_terminal": true,
+
+    "severity": "none",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "non_start",
+    "code": "NS",
+    "name": "Non Starter",
+    "description": "Participant did not start the competition",
+
+    "affects_ranking": false,
+    "has_score": false,
+    "is_terminal": true,
+
+    "severity": "warning",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "incomplete",
+    "code": "INC",
+    "name": "Incomplete Result",
+    "description": "Participant started but did not complete the event",
+
+    "affects_ranking": false,
+    "has_score": false,
+    "is_terminal": true,
+
+    "severity": "warning",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "penalty",
+    "code": "PEN",
+    "name": "Penalty / Disqualification",
+    "description": "Result invalidated due to rule violation",
+
+    "affects_ranking": false,
+    "has_score": false,
+    "is_terminal": true,
+
+    "severity": "error",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "invalid",
+    "code": "INV",
+    "name": "Invalid Result",
+    "description": "No valid score recorded",
+
+    "affects_ranking": false,
+    "has_score": false,
+    "is_terminal": true,
+
+    "severity": "info",
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

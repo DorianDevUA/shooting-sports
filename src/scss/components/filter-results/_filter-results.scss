@@ -1,0 +1,44 @@
+.filter-results {
+  display: none;
+  flex-direction: column;
+  padding-bottom: 40px;
+
+  &.is-visible {
+    display: flex;
+  }
+}
+
+.filter-results__list {
+  display: none;
+
+  &.is-visible {
+    display: flex;
+  }
+}
+
+.filter-results__title {
+  margin-bottom: var(--space-md);
+  text-transform: uppercase;
+}
+
+.filter-results__message {
+  display: none;
+  justify-content: center;
+
+  padding-block: var(--space-4xl);
+
+  font-weight: 500;
+  text-transform: uppercase;
+
+  &.is-visible {
+    display: flex;
+  }
+
+  &--error {
+    color: var(--color-brand-red);
+  }
+
+  &--success {
+    color: var(--color-brand-green);
+  }
+}

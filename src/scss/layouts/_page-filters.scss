@@ -1,0 +1,36 @@
+.page-filters {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-filters__header {
+  display: flex;
+  width: 100%;
+  gap: var(--space-lg);
+}
+
+.page-filters__search > input[type="search"] {
+  width: 100%;
+}
+
+.page-filters__panel {
+  display: none;
+
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+
+  border-top: 1px solid var(--color-border-soft-dark);
+
+  &.is-open {
+    display: flex;
+  }
+}
+
+.page-filters__groups {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+
+  width: 100%;
+}

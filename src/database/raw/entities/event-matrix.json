@@ -1,0 +1,25 @@
+{
+  "10m_air_rifle": ["male", "female", "mixed"],
+  "50m_rifle_3p": ["male", "female"],
+  "50m_rifle_prone": ["male"],
+  "300m_rifle_3p": ["male"],
+  "300m_rifle_prone": ["male"],
+  "300m_standard_rifle": ["male"],
+
+  "10m_air_pistol": ["male", "female", "mixed"],
+  "25m_pistol": ["female"],
+  "25m_rapid_fire_pistol": ["male"],
+  "25m_center_fire_pistol": ["male"],
+  "25m_standard_pistol": ["male"],
+  "50m_pistol": ["male"],
+
+  "trap": ["male", "female", "mixed"],
+  "double_trap": ["male"],
+  "skeet": ["male", "female", "mixed"],
+  "sporting": ["male", "female"],
+
+  "10m_running_target": ["male"],
+  "50m_running_target": ["male"],
+
+  "target_sprint": ["male", "female", "mixed"]
+}

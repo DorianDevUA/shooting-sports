@@ -1,0 +1,122 @@
+[
+  {
+    "id": "featured",
+    "code": "featured",
+    "name": "Featured",
+    "description": "Main entity of the article (primary focus, hero of the story)",
+
+    "applies_to": ["person", "competition", "organization"],
+    "is_primary": true,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "participant",
+    "code": "participant",
+    "name": "Participant",
+    "description": "Entity participated in the event described in the article",
+
+    "applies_to": ["person", "team"],
+    "is_primary": false,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "winner",
+    "code": "winner",
+    "name": "Winner",
+    "description": "Entity achieved a winning position in the context of the article",
+
+    "applies_to": ["person", "team"],
+    "is_primary": false,
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "mentioned",
+    "code": "mentioned",
+    "name": "Mentioned",
+    "description": "Entity is mentioned in the article but not central",
+
+    "applies_to": ["person", "organization", "competition"],
+    "is_primary": false,
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "related",
+    "code": "related",
+    "name": "Related",
+    "description": "Entity is contextually related to the article",
+
+    "applies_to": ["competition", "discipline", "organization"],
+    "is_primary": false,
+
+    "sort_order": 5,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "organizer",
+    "code": "organizer",
+    "name": "Organizer",
+    "description": "Organization responsible for organizing the event",
+
+    "applies_to": ["organization"],
+    "is_primary": false,
+
+    "sort_order": 6,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "host",
+    "code": "host",
+    "name": "Host",
+    "description": "Host country, city, or organization",
+
+    "applies_to": ["organization"],
+    "is_primary": false,
+
+    "sort_order": 7,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "sponsor",
+    "code": "sponsor",
+    "name": "Sponsor",
+    "description": "Sponsor mentioned in the article",
+
+    "applies_to": ["organization"],
+    "is_primary": false,
+
+    "sort_order": 8,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

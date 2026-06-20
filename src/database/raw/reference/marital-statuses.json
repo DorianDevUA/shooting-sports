@@ -1,0 +1,50 @@
+[
+  {
+    "id": "single",
+    "code": "single",
+    "name": "Single",
+    "description": "Not married",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "married",
+    "code": "married",
+    "name": "Married",
+    "description": "Legally married",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "divorced",
+    "code": "divorced",
+    "name": "Divorced",
+    "description": "Marriage officially ended",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "widowed",
+    "code": "widowed",
+    "name": "Widowed",
+    "description": "Spouse deceased",
+
+    "sort_order": 4,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

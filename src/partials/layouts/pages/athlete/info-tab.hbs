@@ -1,0 +1,37 @@
+<!-- Athlete Details Section -->
+<section class="athlete-info__details">
+  <!-- LEFT COLUMN -->
+  <div class="athlete-info__column">
+    <!-- Sports Information -->
+    {{> layouts/pages/athlete/info-tab/sports-information }}
+
+    <!-- Coaching -->
+    {{> layouts/pages/athlete/info-tab/coaching }}
+
+    <!-- Physical Profile -->
+    {{> layouts/pages/athlete/info-tab/physical-metrics }}
+  </div>
+
+  <!-- RIGHT COLUMN -->
+  <div class="athlete-info__column">
+    <!-- Personal Information -->
+    {{> layouts/pages/athlete/info-tab/personal-information }}
+
+    <!-- Education & Career -->
+    {{> layouts/pages/athlete/info-tab/education-career }}
+
+    <!-- Personal Interests -->
+    {{> layouts/pages/athlete/info-tab/personal-interests }}
+  </div>
+</section>
+
+<!-- Athlete Biography Section -->
+<section class="athlete-info-group athlete-biography js-athlete-bio">
+  <header class="athlete-info-group__header">
+    <h3 class="athlete-info-group__title">Biography</h3>
+  </header>
+
+  <div class="athlete-biography__content">
+    <!-- Довільний HTML з біографії атлета. Вставляється через innerHTML. -->
+  </div>
+</section>

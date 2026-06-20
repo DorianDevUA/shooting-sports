@@ -1,0 +1,397 @@
+[
+  {
+    "id": "10m_air_rifle_men",
+    "slug": "10m-air-rifle-men",
+    "name": "10m Air Rifle Men",
+    "code": "10ARM",
+    "discipline_id": "10m_air_rifle",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 1,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "10m_air_rifle_women",
+    "slug": "10m-air-rifle-women",
+    "name": "10m Air Rifle Women",
+    "code": "10ARW",
+    "discipline_id": "10m_air_rifle",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 2,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "10m_air_rifle_mixed",
+    "slug": "10m-air-rifle-mixed",
+    "name": "10m Air Rifle Mixed Team",
+    "code": "10ARMT",
+    "discipline_id": "10m_air_rifle",
+    "gender_id": "mixed",
+    "format_id": "team",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 3,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_rifle_3_positions_men",
+    "slug": "50m-rifle-3-positions-men",
+    "name": "50m Rifle 3 Positions Men",
+    "code": "50R3PM",
+    "discipline_id": "50m_rifle_3_positions",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 4,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_rifle_3_positions_women",
+    "slug": "50m-rifle-3-positions-women",
+    "name": "50m Rifle 3 Positions Women",
+    "code": "50R3PW",
+    "discipline_id": "50m_rifle_3_positions",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 5,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_rifle_prone_men",
+    "slug": "50m-rifle-prone-men",
+    "name": "50m Rifle Prone Men",
+    "code": "50RPM",
+    "discipline_id": "50m_rifle_prone",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 6,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_rifle_prone_women",
+    "slug": "50m-rifle-prone-women",
+    "name": "50m Rifle Prone Women",
+    "code": "50RPW",
+    "discipline_id": "50m_rifle_prone",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 7,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "10m_air_pistol_men",
+    "slug": "10m-air-pistol-men",
+    "name": "10m Air Pistol Men",
+    "code": "10APM",
+    "discipline_id": "10m_air_pistol",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 10,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "10m_air_pistol_women",
+    "slug": "10m-air-pistol-women",
+    "name": "10m Air Pistol Women",
+    "code": "10APW",
+    "discipline_id": "10m_air_pistol",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 11,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "10m_air_pistol_mixed",
+    "slug": "10m-air-pistol-mixed",
+    "name": "10m Air Pistol Mixed Team",
+    "code": "10APMT",
+    "discipline_id": "10m_air_pistol",
+    "gender_id": "mixed",
+    "format_id": "team",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 12,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_pistol_men",
+    "slug": "25m-pistol-men",
+    "name": "25m Pistol Men",
+    "code": "25PM",
+    "discipline_id": "25m_pistol",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 16,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_pistol_women",
+    "slug": "25m-pistol-women",
+    "name": "25m Pistol Women",
+    "code": "25PW",
+    "discipline_id": "25m_pistol",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 19,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_standard_pistol_men",
+    "slug": "25m-standard-pistol-men",
+    "name": "25m Standard Pistol Men",
+    "code": "25SPM",
+    "discipline_id": "25m_standard_pistol",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 15,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_standard_pistol_women",
+    "slug": "25m-standard-pistol-women",
+    "name": "25m Standard Pistol Women",
+    "code": "25SPW",
+    "discipline_id": "25m_standard_pistol",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 19,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "25m_rapid_fire_pistol_men",
+    "slug": "25m-rapid-fire-pistol-men",
+    "name": "25m Rapid Fire Pistol Men",
+    "code": "25RFPM",
+    "discipline_id": "25m_rapid_fire_pistol",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 13,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_pistol_men",
+    "slug": "50m-pistol-men",
+    "name": "50m Pistol Men",
+    "code": "50PM",
+    "discipline_id": "50m_pistol",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 17,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "50m_pistol_women",
+    "slug": "50m-pistol-women",
+    "name": "50m Pistol Women",
+    "code": "50PW",
+    "discipline_id": "50m_pistol",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": false,
+
+    "is_active": true,
+    "sort_order": 20,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "trap_men",
+    "slug": "trap-men",
+    "name": "Trap Men",
+    "code": "TRM",
+
+    "discipline_id": "trap",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 20,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "trap_women",
+    "slug": "trap-women",
+    "name": "Trap Women",
+    "code": "TRW",
+    "discipline_id": "trap",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 21,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "trap_mixed",
+    "slug": "trap-mixed",
+    "name": "Trap Mixed Team",
+    "code": "TRMT",
+    "discipline_id": "trap",
+    "gender_id": "mixed",
+    "format_id": "team",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 22,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+
+  {
+    "id": "skeet_men",
+    "slug": "skeet-men",
+    "name": "Skeet Men",
+    "code": "SKM",
+    "discipline_id": "skeet",
+    "gender_id": "male",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 30,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "skeet_women",
+    "slug": "skeet-women",
+    "name": "Skeet Women",
+    "code": "SKW",
+    "discipline_id": "skeet",
+    "gender_id": "female",
+    "format_id": "individual",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 31,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "skeet_mixed",
+    "slug": "skeet-mixed",
+    "name": "Skeet Mixed Team",
+    "code": "SKMT",
+    "discipline_id": "skeet",
+    "gender_id": "mixed",
+    "format_id": "team",
+
+    "is_olympic": true,
+
+    "is_active": true,
+    "sort_order": 32,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

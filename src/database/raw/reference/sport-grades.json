@@ -1,0 +1,70 @@
+[
+  {
+    "id": "cms",
+    "code": "cms",
+    "name": "Candidate for Master of Sport",
+    "short_name": "CMS",
+
+    "level": 1,
+    "description": "Entry-level national sports qualification.",
+
+    "is_ranked": true,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ms",
+    "code": "ms",
+    "name": "Master of Sport",
+    "short_name": "MS",
+
+    "level": 2,
+    "description": "National-level sports title.",
+
+    "is_ranked": true,
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "msic",
+    "code": "msic",
+    "name": "Master of Sport International Class",
+    "short_name": "MSIC",
+
+    "level": 3,
+    "description": "International-level sports title.",
+
+    "is_ranked": true,
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "honored_ms",
+    "code": "honored_ms",
+    "name": "Honored Master of Sport",
+    "short_name": "HMS",
+
+    "level": 4,
+    "description": "Top honorary sports title awarded for exceptional achievements.",
+
+    "is_ranked": true,
+
+    "sort_order": 4,
+    "is_active": false,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

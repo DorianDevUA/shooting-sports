@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ath_coach_0001",
+
+    "athlete_id": "pers_0001",
+
+    "coach_id": "pers_0101",
+    "coach_type_id": "personal",
+
+    "is_primary": true,
+
+    "started_at": "2020-01-01",
+    "ended_at": null,
+
+    "notes": null,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "ath_coach_0002",
+
+    "athlete_id": "pers_0001",
+
+    "coach_id": "pers_0101",
+    "coach_type_id": "national",
+
+    "is_primary": true,
+
+    "started_at": "2020-01-01",
+    "ended_at": null,
+
+    "notes": null,
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

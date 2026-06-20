@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rifle",
+    "slug": "rifle",
+    "code": "rifle",
+
+    "name": "Rifle",
+    "description": "Rifle shooting disciplines",
+
+    "sort_order": 1,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "pistol",
+    "slug": "pistol",
+    "code": "pistol",
+
+    "name": "Pistol",
+    "description": "Pistol shooting disciplines",
+
+    "sort_order": 2,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  },
+  {
+    "id": "shotgun",
+    "slug": "shotgun",
+    "code": "shotgun",
+
+    "name": "Shotgun",
+    "description": "Shotgun shooting disciplines",
+
+    "sort_order": 3,
+    "is_active": true,
+
+    "created_at": "",
+    "updated_at": ""
+  }
+]

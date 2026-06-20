@@ -1,0 +1,44 @@
+[
+  {
+    "id": "organizer",
+    "code": "organizer",
+    "name": "Organizer",
+    "description": "The main organization responsible for planning, managing, and executing the competition or competition edition. Defines rules, schedule, and overall structure."
+  },
+  {
+    "id": "host",
+    "code": "host",
+    "name": "Host Organization",
+    "description": "The organization or federation in the country or venue where the competition is physically held. Responsible for local logistics, infrastructure, and on-site operations."
+  },
+  {
+    "id": "sponsor",
+    "code": "sponsor",
+    "name": "Sponsor",
+    "description": "A commercial or institutional partner providing financial or material support for the competition in exchange for visibility and branding rights."
+  },
+  {
+    "id": "co_organizer",
+    "code": "co_organizer",
+    "name": "Co-Organizer",
+    "description": "An additional organization sharing partial responsibility for organizing the competition alongside the main organizer."
+  },
+  {
+    "id": "technical_delegate",
+    "code": "technical_delegate",
+    "name": "Technical Delegate",
+    "description": "A representative responsible for ensuring the competition is conducted according to official technical rules and standards of the governing federation."
+  },
+  {
+    "id": "media_partner",
+    "code": "media_partner",
+    "name": "Media Partner",
+    "description": "An organization responsible for broadcasting, media coverage, and distribution of competition content across platforms."
+  },
+  {
+    "id": "equipment_provider",
+    "code": "equipment_provider",
+    "name": "Equipment Provider",
+    "description": "A partner supplying official equipment, targets, or technical systems used during the competition."
+  }
+]

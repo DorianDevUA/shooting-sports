@@ -1,0 +1,55 @@
+{
+  "competitions": {
+    "level_id": "codex_db/reference/competition-levels.json",
+    "organizer_id": "raw/entities/organizations.json"
+  },
+  "competition_editions": {
+    "competition_id": "codex_db/entities/competitions.json",
+    "city_id": "raw/reference/cities.json",
+    "country_id": "raw/reference/countries.json",
+    "status_id": "codex_db/reference/competition-statuses.json"
+  },
+  "competition_events": {
+    "competition_edition_id": "codex_db/entities/competition-editions.json",
+    "event_id": "raw/entities/events.json",
+    "discipline_id": "raw/entities/disciplines.json",
+    "gender_id": "raw/reference/genders.json",
+    "format_id": "raw/reference/event-formats.json",
+    "age_category_id": "raw/reference/age-categories.json",
+    "status_id": "codex_db/reference/competition-statuses.json"
+  },
+  "results": {
+    "competition_event_id": "codex_db/events/competition-events.json",
+    "participant_id": "raw/relations/participants.json",
+    "person_id": "raw/entities/people.json",
+    "stage_id": "raw/reference/stages.json",
+    "status_id": "codex_db/reference/competition-statuses.json",
+    "score_unit_id": "codex_db/reference/scoring-units.json"
+  },
+  "result_series": {
+    "result_id": "codex_db/events/results.json",
+    "stage_id": "raw/reference/stages.json"
+  },
+  "achievements": {
+    "person_id": "raw/entities/people.json",
+    "participant_id": "raw/relations/participants.json",
+    "result_id": "codex_db/events/results.json",
+    "competition_event_id": "codex_db/events/competition-events.json",
+    "type_id": "codex_db/reference/achievement-types.json",
+    "medal_id": "codex_db/reference/medal-types.json",
+    "source_article_id": "raw/entities/articles.json"
+  },
+  "ranking_snapshots": {
+    "ranking_type_id": "codex_db/reference/ranking-types.json",
+    "event_id": "raw/entities/events.json",
+    "discipline_id": "raw/entities/disciplines.json",
+    "person_id": "raw/entities/people.json"
+  },
+  "records": {
+    "person_id": "raw/entities/people.json",
+    "result_id": "codex_db/events/results.json",
+    "competition_event_id": "codex_db/events/competition-events.json",
+    "event_id": "raw/entities/events.json",
+    "discipline_id": "raw/entities/disciplines.json"
+  }
+}
