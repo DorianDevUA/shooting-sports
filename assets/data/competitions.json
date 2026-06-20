@@ -1,0 +1,2085 @@
+[
+  {
+    "id": "issf_world_cup_munich_2026",
+    "slug": "issf-world-cup-munich-2026",
+    "code": "issf_world_cup_munich_2026",
+    "name": "ISSF World Cup Rifle / Pistol",
+    "short_name": "ISSF World Cup",
+    "excerpt": "Precision, speed, and control: The core focus of elite rifle and pistol competition",
+    "competition": {
+      "id": "issf_world_cup",
+      "slug": "issf-world-cup",
+      "code": "issf_world_cup",
+      "name": "ISSF World Cup",
+      "short_name": "ISSF WC",
+      "level": {
+        "id": "international",
+        "slug": "international",
+        "code": "international",
+        "name": "International",
+        "description": ""
+      },
+      "description": "ISSF World Cup series featuring elite international shooting competitions across multiple stages each year."
+    },
+    "category": {
+      "id": "senior",
+      "slug": "senior",
+      "code": "senior",
+      "name": "Senior Competition",
+      "short_name": "Senior",
+      "description": "Competition intended primarily for senior athletes. May include open participation depending on federation rules."
+    },
+    "status": "completed",
+    "disciplines": [
+      {
+        "id": "rifle",
+        "slug": "rifle",
+        "code": "rifle",
+        "name": "Rifle",
+        "description": "Rifle shooting disciplines",
+        "sort_order": 1
+      },
+      {
+        "id": "pistol",
+        "slug": "pistol",
+        "code": "pistol",
+        "name": "Pistol",
+        "description": "Pistol shooting disciplines",
+        "sort_order": 2
+      }
+    ],
+    "events": [
+      {
+        "id": "ce_munich_2026_10m_air_rifle_men",
+        "slug": "10m-air-rifle-men",
+        "code": "10m_air_rifle_men",
+        "event": {
+          "id": "10m_air_rifle_men",
+          "code": "10ARM",
+          "slug": "10m-air-rifle-men",
+          "name": "10m Air Rifle Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_10m_air_rifle_women",
+        "slug": "10m-air-rifle-women",
+        "code": "10m_air_rifle_women",
+        "event": {
+          "id": "10m_air_rifle_women",
+          "code": "10ARW",
+          "slug": "10m-air-rifle-women",
+          "name": "10m Air Rifle Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_10m_air_rifle_mixed",
+        "slug": "10m-air-rifle-mixed",
+        "code": "10m_air_rifle_mixed",
+        "event": {
+          "id": "10m_air_rifle_mixed",
+          "code": "10ARMT",
+          "slug": "10m-air-rifle-mixed",
+          "name": "10m Air Rifle Mixed Team",
+          "format": {
+            "id": "team",
+            "name": "Team",
+            "description": "Team competition where multiple athletes represent one team",
+            "team_size": 2
+          },
+          "gender": {
+            "id": "mixed",
+            "name": "Mixed"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_10m_air_pistol_men",
+        "slug": "10m-air-pistol-men",
+        "code": "10m_air_pistol_men",
+        "event": {
+          "id": "10m_air_pistol_men",
+          "code": "10APM",
+          "slug": "10m-air-pistol-men",
+          "name": "10m Air Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_10m_air_pistol_women",
+        "slug": "10m-air-pistol-women",
+        "code": "10m_air_pistol_women",
+        "event": {
+          "id": "10m_air_pistol_women",
+          "code": "10APW",
+          "slug": "10m-air-pistol-women",
+          "name": "10m Air Pistol Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_10m_air_pistol_mixed",
+        "slug": "10m-air-pistol-mixed",
+        "code": "10m_air_pistol_mixed",
+        "event": {
+          "id": "10m_air_pistol_mixed",
+          "code": "10APMT",
+          "slug": "10m-air-pistol-mixed",
+          "name": "10m Air Pistol Mixed Team",
+          "format": {
+            "id": "team",
+            "name": "Team",
+            "description": "Team competition where multiple athletes represent one team",
+            "team_size": 2
+          },
+          "gender": {
+            "id": "mixed",
+            "name": "Mixed"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_25m_rapid_fire_pistol_men",
+        "slug": "25m-rapid-fire-pistol-men",
+        "code": "25m_rapid_fire_pistol_men",
+        "event": {
+          "id": "25m_rapid_fire_pistol_men",
+          "code": "25RFPM",
+          "slug": "25m-rapid-fire-pistol-men",
+          "name": "25m Rapid Fire Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "25m_rapid_fire_pistol",
+            "code": "RFP25",
+            "slug": "25m-rapid-fire-pistol",
+            "name": "25m Rapid Fire Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Rapid Fire Pistol"
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_munich_2026_25m_pistol_women",
+        "slug": "25m-pistol-women",
+        "code": "25m_pistol_women",
+        "event": {
+          "id": "25m_pistol_women",
+          "code": "25PW",
+          "slug": "25m-pistol-women",
+          "name": "25m Pistol Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "25m_pistol",
+            "code": "P25",
+            "slug": "25m-pistol",
+            "name": "25m Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Sport Pistol"
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      }
+    ],
+    "organizations": {
+      "organizer": {
+        "id": "issf",
+        "slug": "issf",
+        "code": "issf",
+        "short_code": "issf",
+        "name": "International Shooting Sport Federation",
+        "short_name": "ISSF",
+        "acronym": "ISSF",
+        "description": "International governing body for Olympic and international shooting sports.",
+        "type": {
+          "id": "federation",
+          "code": "federation",
+          "slug": "federation",
+          "name": "Sports Federation",
+          "description": "Governing body for a sport or discipline"
+        },
+        "status": {
+          "id": "active",
+          "code": "active",
+          "slug": "active",
+          "name": "Active",
+          "description": "Organization is active and operational."
+        },
+        "location": {
+          "venue": null,
+          "city": null,
+          "country": null
+        },
+        "founded_date": "1907-07-17",
+        "contacts": {
+          "website": "https://www.issf-sports.org",
+          "email": null,
+          "phone": null
+        },
+        "notes": null
+      },
+      "host": {
+        "id": "germany_shooting_federation",
+        "slug": "germany-shooting-federation",
+        "code": "germany_shooting_federation",
+        "short_code": "dsb",
+        "name": "German Shooting Sport Federation",
+        "short_name": "German Shooting Federation",
+        "acronym": "DSB",
+        "description": "National shooting sport federation of Germany.",
+        "type": {
+          "id": "federation",
+          "code": "federation",
+          "slug": "federation",
+          "name": "Sports Federation",
+          "description": "Governing body for a sport or discipline"
+        },
+        "status": {
+          "id": "active",
+          "code": "active",
+          "slug": "active",
+          "name": "Active",
+          "description": "Organization is active and operational."
+        },
+        "location": {
+          "venue": null,
+          "city": null,
+          "country": {
+            "id": "de",
+            "slug": "germany",
+            "name": "Germany",
+            "code": "DEU",
+            "region": {
+              "id": "europe",
+              "name": "Europe",
+              "code": "EU"
+            },
+            "alpha2": "de",
+            "alpha3": "deu",
+            "flag": "assets/icons/flags/de.svg"
+          }
+        },
+        "founded_date": null,
+        "contacts": {
+          "website": "https://www.dsb.de",
+          "email": null,
+          "phone": null
+        },
+        "notes": null
+      }
+    },
+    "venue": null,
+    "city": {
+      "id": "munich",
+      "name": "Munich",
+      "country": {
+        "id": "de",
+        "slug": "germany",
+        "name": "Germany",
+        "code": "DEU",
+        "region": {
+          "id": "europe",
+          "name": "Europe",
+          "code": "EU"
+        },
+        "alpha2": "de",
+        "alpha3": "deu",
+        "flag": "assets/icons/flags/de.svg"
+      }
+    },
+    "start_date": "2026-05-24",
+    "end_date": "2026-05-31",
+    "media": {
+      "cover": {
+        "id": "media_0119",
+        "type": {
+          "id": "image",
+          "code": "image",
+          "name": "Image"
+        },
+        "mime_type": {
+          "id": "image_jpeg",
+          "code": "image/jpeg",
+          "slug": "image-jpeg",
+          "name": "JPEG Image",
+          "extension": "jpg"
+        },
+        "url": "assets/images/competitions/issf-world-cup-rifle-pistol-munich-2026/issf-world-cup-rifle-pistol-munich-2026.jpg",
+        "width": 720,
+        "height": 480
+      },
+      "thumbnail": null
+    },
+    "source_url": "https://www.issf-sports.org/competitions/3284",
+    "notes": null
+  },
+  {
+    "id": "issf_junior_world_champ_suhl_2026",
+    "slug": "issf-junior-world-champ-suhl-2026",
+    "code": "issf_junior_world_champ_suhl_2026",
+    "name": "ISSF Junior World Championship Rifle / Pistol / Shotgun",
+    "short_name": "ISSF Junior World Championship",
+    "excerpt": "Emerging talents battle for global titles with precision, consistency and nerve across eight days of elite competition",
+    "competition": {
+      "id": "issf_world_championship",
+      "slug": "issf-world-championship",
+      "code": "issf_world_championship",
+      "name": "ISSF World Championship",
+      "short_name": "ISSF WCh",
+      "level": {
+        "id": "international",
+        "slug": "international",
+        "code": "international",
+        "name": "International",
+        "description": ""
+      },
+      "description": "The premier ISSF competition determining world champions in all shooting disciplines."
+    },
+    "category": {
+      "id": "junior",
+      "slug": "junior",
+      "code": "junior",
+      "name": "Junior Competition",
+      "short_name": "Junior",
+      "description": "Competition intended for junior athletes according to the age limits defined by the governing federation."
+    },
+    "status": "scheduled",
+    "disciplines": [
+      {
+        "id": "rifle",
+        "slug": "rifle",
+        "code": "rifle",
+        "name": "Rifle",
+        "description": "Rifle shooting disciplines",
+        "sort_order": 1
+      },
+      {
+        "id": "pistol",
+        "slug": "pistol",
+        "code": "pistol",
+        "name": "Pistol",
+        "description": "Pistol shooting disciplines",
+        "sort_order": 2
+      },
+      {
+        "id": "shotgun",
+        "slug": "shotgun",
+        "code": "shotgun",
+        "name": "Shotgun",
+        "description": "Shotgun shooting disciplines",
+        "sort_order": 3
+      }
+    ],
+    "events": [
+      {
+        "id": "ce_jwch_suhl_2026_10m_air_rifle_men_junior",
+        "slug": "10m-air-rifle-men_junior",
+        "code": "10m_air_rifle_men_junior",
+        "event": {
+          "id": "10m_air_rifle_men",
+          "code": "10ARM",
+          "slug": "10m-air-rifle-men",
+          "name": "10m Air Rifle Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "https://www.issf-sports.org/competitions/3283/results",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_10m_air_pistol_men_junior",
+        "slug": "10m_air_pistol_men_junior",
+        "code": "10m_air_pistol_men_junior",
+        "event": {
+          "id": "10m_air_pistol_men",
+          "code": "10APM",
+          "slug": "10m-air-pistol-men",
+          "name": "10m Air Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "https://www.issf-sports.org/competitions/3283/results",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_trap_men_junior",
+        "slug": "trap_men_junior",
+        "code": "trap_men_junior",
+        "event": {
+          "id": "trap_men",
+          "code": "TRM",
+          "slug": "trap-men",
+          "name": "Trap Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "trap",
+            "code": "TRAP",
+            "slug": "trap",
+            "name": "Trap",
+            "distance": null,
+            "category": {
+              "id": "shotgun",
+              "slug": "shotgun",
+              "code": "shotgun",
+              "name": "Shotgun",
+              "description": "Shotgun shooting disciplines",
+              "sort_order": 3
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "https://www.issf-sports.org/competitions/3283/results",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_skeet_men_junior",
+        "slug": "skeet_men_junior",
+        "code": "skeet_men_junior",
+        "event": {
+          "id": "skeet_men",
+          "code": "SKM",
+          "slug": "skeet-men",
+          "name": "Skeet Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "skeet",
+            "code": "SKEET",
+            "slug": "skeet",
+            "name": "Skeet",
+            "distance": null,
+            "category": {
+              "id": "shotgun",
+              "slug": "shotgun",
+              "code": "shotgun",
+              "name": "Shotgun",
+              "description": "Shotgun shooting disciplines",
+              "sort_order": 3
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "https://www.issf-sports.org/competitions/3283/results",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_50m_rifle_3_positions_men_junior",
+        "slug": "50m-rifle-3-positions-men-junior",
+        "code": "50m_rifle_3_positions_men_junior",
+        "event": {
+          "id": "50m_rifle_3_positions_men",
+          "code": "50R3PM",
+          "slug": "50m-rifle-3-positions-men",
+          "name": "50m Rifle 3 Positions Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "50m_rifle_3_positions",
+            "code": "R3P50",
+            "slug": "50m-rifle-3-positions",
+            "name": "50m Rifle 3 Positions",
+            "distance": {
+              "id": "50m",
+              "label": "50 m",
+              "value": 50,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_50m_rifle_prone_men_junior",
+        "slug": "50m-rifle-prone-men-junior",
+        "code": "50m_rifle_prone_men_junior",
+        "event": {
+          "id": "50m_rifle_prone_men",
+          "code": "50RPM",
+          "slug": "50m-rifle-prone-men",
+          "name": "50m Rifle Prone Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "50m_rifle_prone",
+            "code": "RPR50",
+            "slug": "50m-rifle-prone",
+            "name": "50m Rifle Prone",
+            "distance": {
+              "id": "50m",
+              "label": "50 m",
+              "value": 50,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_10m_air_rifle_women_junior",
+        "slug": "10m-air-rifle-women-junior",
+        "code": "10m_air_rifle_women_junior",
+        "event": {
+          "id": "10m_air_rifle_women",
+          "code": "10ARW",
+          "slug": "10m-air-rifle-women",
+          "name": "10m Air Rifle Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_50m_rifle_3_positions_women_junior",
+        "slug": "50m-rifle-3-positions-women-junior",
+        "code": "50m_rifle_3_positions_women_junior",
+        "event": {
+          "id": "50m_rifle_3_positions_women",
+          "code": "50R3PW",
+          "slug": "50m-rifle-3-positions-women",
+          "name": "50m Rifle 3 Positions Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "50m_rifle_3_positions",
+            "code": "R3P50",
+            "slug": "50m-rifle-3-positions",
+            "name": "50m Rifle 3 Positions",
+            "distance": {
+              "id": "50m",
+              "label": "50 m",
+              "value": 50,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_50m_rifle_prone_women_junior",
+        "slug": "50m-rifle-prone-women-junior",
+        "code": "50m_rifle_prone_women_junior",
+        "event": {
+          "id": "50m_rifle_prone_women",
+          "code": "50RPW",
+          "slug": "50m-rifle-prone-women",
+          "name": "50m Rifle Prone Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "50m_rifle_prone",
+            "code": "RPR50",
+            "slug": "50m-rifle-prone",
+            "name": "50m Rifle Prone",
+            "distance": {
+              "id": "50m",
+              "label": "50 m",
+              "value": 50,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_10m_air_rifle_mixed_junior",
+        "slug": "10m-air-rifle-mixed-junior",
+        "code": "10m_air_rifle_mixed_junior",
+        "event": {
+          "id": "10m_air_rifle_mixed",
+          "code": "10ARMT",
+          "slug": "10m-air-rifle-mixed",
+          "name": "10m Air Rifle Mixed Team",
+          "format": {
+            "id": "team",
+            "name": "Team",
+            "description": "Team competition where multiple athletes represent one team",
+            "team_size": 2
+          },
+          "gender": {
+            "id": "mixed",
+            "name": "Mixed"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_25m_rapid_fire_pistol_men_junior",
+        "slug": "25m-rapid-fire-pistol-men-junior",
+        "code": "25m_rapid_fire_pistol_men_junior",
+        "event": {
+          "id": "25m_rapid_fire_pistol_men",
+          "code": "25RFPM",
+          "slug": "25m-rapid-fire-pistol-men",
+          "name": "25m Rapid Fire Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "25m_rapid_fire_pistol",
+            "code": "RFP25",
+            "slug": "25m-rapid-fire-pistol",
+            "name": "25m Rapid Fire Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Rapid Fire Pistol"
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_25m_standard_pistol_men_junior",
+        "slug": "25m-standard-pistol-men-junior",
+        "code": "25m_standard_pistol_men_junior",
+        "event": {
+          "id": "25m_standard_pistol_men",
+          "code": "25SPM",
+          "slug": "25m-standard-pistol-men",
+          "name": "25m Standard Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "25m_standard_pistol",
+            "code": "SP25",
+            "slug": "25m-standard-pistol",
+            "name": "25m Standard Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Standard Pistol"
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_25m_pistol_men_junior",
+        "slug": "25m-pistol-men-junior",
+        "code": "25m_pistol_men_junior",
+        "event": {
+          "id": "25m_pistol_men",
+          "code": "25PM",
+          "slug": "25m-pistol-men",
+          "name": "25m Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "25m_pistol",
+            "code": "P25",
+            "slug": "25m-pistol",
+            "name": "25m Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Sport Pistol"
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_50m_pistol_men_junior",
+        "slug": "50m-pistol-men-junior",
+        "code": "50m_pistol_men_junior",
+        "event": {
+          "id": "50m_pistol_men",
+          "code": "50PM",
+          "slug": "50m-pistol-men",
+          "name": "50m Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "50m_pistol",
+            "code": "FP50",
+            "slug": "50m-pistol",
+            "name": "50m Pistol",
+            "distance": {
+              "id": "50m",
+              "label": "50 m",
+              "value": 50,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_10m_air_pistol_women_junior",
+        "slug": "10m-air-pistol-women-junior",
+        "code": "10m_air_pistol_women_junior",
+        "event": {
+          "id": "10m_air_pistol_women",
+          "code": "10APW",
+          "slug": "10m-air-pistol-women",
+          "name": "10m Air Pistol Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_25m_pistol_women_junior",
+        "slug": "25m-pistol-women-junior",
+        "code": "25m_pistol_women_junior",
+        "event": {
+          "id": "25m_pistol_women",
+          "code": "25PW",
+          "slug": "25m-pistol-women",
+          "name": "25m Pistol Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "25m_pistol",
+            "code": "P25",
+            "slug": "25m-pistol",
+            "name": "25m Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Sport Pistol"
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_25m_standard_pistol_women_junior",
+        "slug": "25m-standard-pistol-women-junior",
+        "code": "25m_standard_pistol_women_junior",
+        "event": {
+          "id": "25m_standard_pistol_women",
+          "code": "25SPW",
+          "slug": "25m-standard-pistol-women",
+          "name": "25m Standard Pistol Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "25m_standard_pistol",
+            "code": "SP25",
+            "slug": "25m-standard-pistol",
+            "name": "25m Standard Pistol",
+            "distance": {
+              "id": "25m",
+              "label": "25 m",
+              "value": 25,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": "Standard Pistol"
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_50m_pistol_women_junior",
+        "slug": "50m-pistol-women-junior",
+        "code": "50m_pistol_women_junior",
+        "event": {
+          "id": "50m_pistol_women",
+          "code": "50PW",
+          "slug": "50m-pistol-women",
+          "name": "50m Pistol Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "50m_pistol",
+            "code": "FP50",
+            "slug": "50m-pistol",
+            "name": "50m Pistol",
+            "distance": {
+              "id": "50m",
+              "label": "50 m",
+              "value": 50,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_10m_air_pistol_mixed_junior",
+        "slug": "10m-air-pistol-mixed-junior",
+        "code": "10m_air_pistol_mixed_junior",
+        "event": {
+          "id": "10m_air_pistol_mixed",
+          "code": "10APMT",
+          "slug": "10m-air-pistol-mixed",
+          "name": "10m Air Pistol Mixed Team",
+          "format": {
+            "id": "team",
+            "name": "Team",
+            "description": "Team competition where multiple athletes represent one team",
+            "team_size": 2
+          },
+          "gender": {
+            "id": "mixed",
+            "name": "Mixed"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_trap_women_junior",
+        "slug": "trap-women-junior",
+        "code": "trap_women_junior",
+        "event": {
+          "id": "trap_women",
+          "code": "TRW",
+          "slug": "trap-women",
+          "name": "Trap Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "trap",
+            "code": "TRAP",
+            "slug": "trap",
+            "name": "Trap",
+            "distance": null,
+            "category": {
+              "id": "shotgun",
+              "slug": "shotgun",
+              "code": "shotgun",
+              "name": "Shotgun",
+              "description": "Shotgun shooting disciplines",
+              "sort_order": 3
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_skeet_women_junior",
+        "slug": "skeet-women-junior",
+        "code": "skeet_women_junior",
+        "event": {
+          "id": "skeet_women",
+          "code": "SKW",
+          "slug": "skeet-women",
+          "name": "Skeet Women",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "female",
+            "name": "Female"
+          },
+          "discipline": {
+            "id": "skeet",
+            "code": "SKEET",
+            "slug": "skeet",
+            "name": "Skeet",
+            "distance": null,
+            "category": {
+              "id": "shotgun",
+              "slug": "shotgun",
+              "code": "shotgun",
+              "name": "Shotgun",
+              "description": "Shotgun shooting disciplines",
+              "sort_order": 3
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_jwch_suhl_2026_trap_mixed_junior",
+        "slug": "trap-mixed-junior",
+        "code": "trap_mixed_junior",
+        "event": {
+          "id": "trap_mixed",
+          "code": "TRMT",
+          "slug": "trap-mixed",
+          "name": "Trap Mixed Team",
+          "format": {
+            "id": "team",
+            "name": "Team",
+            "description": "Team competition where multiple athletes represent one team",
+            "team_size": 2
+          },
+          "gender": {
+            "id": "mixed",
+            "name": "Mixed"
+          },
+          "discipline": {
+            "id": "trap",
+            "code": "TRAP",
+            "slug": "trap",
+            "name": "Trap",
+            "distance": null,
+            "category": {
+              "id": "shotgun",
+              "slug": "shotgun",
+              "code": "shotgun",
+              "name": "Shotgun",
+              "description": "Shotgun shooting disciplines",
+              "sort_order": 3
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "junior",
+          "slug": "junior",
+          "code": "U21",
+          "name": "Junior",
+          "min_age": 18,
+          "max_age": 20,
+          "description": "Junior athletes under senior level"
+        },
+        "source_url": "",
+        "notes": ""
+      }
+    ],
+    "organizations": {
+      "organizer": null,
+      "host": null
+    },
+    "venue": null,
+    "city": {
+      "id": "suhl",
+      "name": "Suhl",
+      "country": {
+        "id": "de",
+        "slug": "germany",
+        "name": "Germany",
+        "code": "DEU",
+        "region": {
+          "id": "europe",
+          "name": "Europe",
+          "code": "EU"
+        },
+        "alpha2": "de",
+        "alpha3": "deu",
+        "flag": "assets/icons/flags/de.svg"
+      }
+    },
+    "start_date": "2026-06-16",
+    "end_date": "2026-06-26",
+    "media": {
+      "cover": {
+        "id": "media_0124",
+        "type": {
+          "id": "image",
+          "code": "image",
+          "name": "Image"
+        },
+        "mime_type": {
+          "id": "image_jpeg",
+          "code": "image/jpeg",
+          "slug": "image-jpeg",
+          "name": "JPEG Image",
+          "extension": "jpg"
+        },
+        "url": "assets/images/competitions/issf-junior-world-champ-suhl-2026/issf-junior-world-champ-suhl-2026-cover.jpg",
+        "width": 1920,
+        "height": 1080
+      },
+      "thumbnail": null
+    },
+    "source_url": "https://www.issf-sports.org/competitions/3283",
+    "notes": null
+  },
+  {
+    "id": "comp_ed_2022_issf_grand_prix_granada",
+    "slug": "issf-grand-prix-granada-2022",
+    "code": "issf_grand_prix_granada_2022",
+    "name": "ISSF Grand Prix (Test)",
+    "short_name": "ISSF GP Granada 2022",
+    "excerpt": "some text",
+    "competition": {
+      "id": "issf_grand_prix",
+      "slug": "issf-grand-prix",
+      "code": "issf_grand_prix",
+      "name": "ISSF Grand Prix",
+      "short_name": "ISSF GP",
+      "level": {
+        "id": "international",
+        "slug": "international",
+        "code": "international",
+        "name": "International",
+        "description": ""
+      },
+      "description": "International Shooting Sport Federation Grand Prix competition series."
+    },
+    "category": {
+      "id": "junior",
+      "slug": "junior",
+      "code": "junior",
+      "name": "Junior Competition",
+      "short_name": "Junior",
+      "description": "Competition intended for junior athletes according to the age limits defined by the governing federation."
+    },
+    "status": "live",
+    "disciplines": [
+      {
+        "id": "pistol",
+        "slug": "pistol",
+        "code": "pistol",
+        "name": "Pistol",
+        "description": "Pistol shooting disciplines",
+        "sort_order": 2
+      },
+      {
+        "id": "rifle",
+        "slug": "rifle",
+        "code": "rifle",
+        "name": "Rifle",
+        "description": "Rifle shooting disciplines",
+        "sort_order": 1
+      }
+    ],
+    "events": [
+      {
+        "id": "ce_granada_2022_10m_air_pistol_men",
+        "slug": "10m-air-pistol-men",
+        "code": "10m_air_pistol_men",
+        "event": {
+          "id": "10m_air_pistol_men",
+          "code": "10APM",
+          "slug": "10m-air-pistol-men",
+          "name": "10m Air Pistol Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "10m_air_pistol",
+            "code": "AP10",
+            "slug": "10m-air-pistol",
+            "name": "10m Air Pistol",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "pistol",
+              "slug": "pistol",
+              "code": "pistol",
+              "name": "Pistol",
+              "description": "Pistol shooting disciplines",
+              "sort_order": 2
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      },
+      {
+        "id": "ce_granada_2022_10m_air_rifle_men",
+        "slug": "10m-air-rifle-men",
+        "code": "10m_air_rifle_men",
+        "event": {
+          "id": "10m_air_rifle_men",
+          "code": "10ARM",
+          "slug": "10m-air-rifle-men",
+          "name": "10m Air Rifle Men",
+          "format": {
+            "id": "individual",
+            "name": "Individual",
+            "description": "Single athlete competes individually",
+            "team_size": 1
+          },
+          "gender": {
+            "id": "male",
+            "name": "Male"
+          },
+          "discipline": {
+            "id": "10m_air_rifle",
+            "code": "AR10",
+            "slug": "10m-air-rifle",
+            "name": "10m Air Rifle",
+            "distance": {
+              "id": "10m",
+              "label": "10 m",
+              "value": 10,
+              "unit": "m"
+            },
+            "category": {
+              "id": "rifle",
+              "slug": "rifle",
+              "code": "rifle",
+              "name": "Rifle",
+              "description": "Rifle shooting disciplines",
+              "sort_order": 1
+            },
+            "description": ""
+          }
+        },
+        "age_category": {
+          "id": "senior",
+          "slug": "senior",
+          "code": "PRO",
+          "name": "Senior",
+          "min_age": 21,
+          "max_age": null,
+          "description": "Main adult competition category. Veteran / masters athletes"
+        },
+        "source_url": "",
+        "notes": ""
+      }
+    ],
+    "organizations": {
+      "organizer": null,
+      "host": null
+    },
+    "venue": {
+      "id": "granada_shooting_range",
+      "slug": "granada-shooting-range",
+      "code": "granada_shooting_range",
+      "name": "Granada Shooting Range",
+      "short_name": "Granada Range",
+      "description": "Official shooting venue in Granada.",
+      "type": {
+        "id": "shooting_range",
+        "code": "shooting_range",
+        "slug": "shooting-range",
+        "name": "Shooting Range",
+        "short_name": "Range",
+        "description": "General purpose shooting range for rifle, pistol, or shotgun disciplines."
+      },
+      "address": "Calle Example, 123",
+      "postal_code": "18001",
+      "latitude": 37.1773,
+      "longitude": -3.5986,
+      "city": {
+        "id": "granada",
+        "name": "Granada",
+        "country": {
+          "id": "es",
+          "slug": "spain",
+          "name": "Spain",
+          "code": "ESP",
+          "region": {
+            "id": "europe",
+            "name": "Europe",
+            "code": "EU"
+          },
+          "alpha2": "es",
+          "alpha3": "esp",
+          "flag": "assets/icons/flags/es.svg"
+        }
+      },
+      "notes": ""
+    },
+    "city": {
+      "id": "granada",
+      "name": "Granada",
+      "country": {
+        "id": "es",
+        "slug": "spain",
+        "name": "Spain",
+        "code": "ESP",
+        "region": {
+          "id": "europe",
+          "name": "Europe",
+          "code": "EU"
+        },
+        "alpha2": "es",
+        "alpha3": "esp",
+        "flag": "assets/icons/flags/es.svg"
+      }
+    },
+    "start_date": "2022-05-22",
+    "end_date": "2027-05-22",
+    "media": {
+      "cover": null,
+      "thumbnail": null
+    },
+    "source_url": "",
+    "notes": ""
+  }
+]
