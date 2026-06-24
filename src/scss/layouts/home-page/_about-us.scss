@@ -51,7 +51,7 @@
   // В даному випадку ::before = flex-item
   // Керування геометрією через: width / height; margin-top; align-items;
   &::before {
-    content: '';
+    content: "";
     flex-shrink: 0;
     // display: inline-block; ← не потрібно (коли це flex-item)
 
@@ -61,7 +61,8 @@
     margin-top: var(--space-xs);
     margin-right: var(--space-sm);
 
-    background-image: url(../../assets/icons/ui/bullet.svg);
+    background-image: url(./icons/ui/bullet.svg);
+    // background-image: url(../../assets/icons/ui/bullet.svg);
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
