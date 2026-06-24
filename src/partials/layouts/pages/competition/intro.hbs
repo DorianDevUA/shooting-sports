@@ -41,12 +41,20 @@
     <div class="page-intro__content">
       <!-- Сompetition Status Line -->
       <header class="page-intro__header">
-        <span class="competition-hero__status competition-hero__status--live">
-          Live
-        </span>
+        <div
+          class="competition-hero__level competition-hero__level--international"
+        >
+          International
+        </div>
       </header>
 
       <div class="page-intro__body">
+        {{!-- Сompetition Level --}}
+        <div class="competition-hero__status competition-hero__status--live">
+          Live
+          <span class="live-indicator is-visible"></span>
+        </div>
+
         {{!-- Сompetition Edition --}}
         <span class="competition-hero__edition">
           ISSF Junior World Championship

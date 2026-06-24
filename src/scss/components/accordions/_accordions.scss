@@ -1,0 +1,20 @@
+.accordion__content {
+  opacity: 0;
+  overflow: hidden;
+
+  height: 0;
+
+  // transform: scale(0.5);
+  transform: translateX(-300px) scale(0.5);
+
+  transition:
+    height var(--duration-normal) var(--timing-cubic),
+    transform var(--duration-normal) var(--timing-cubic) 100ms,
+    opacity 1000ms var(--timing-cubic);
+
+  .accordion__item.is-expanded & {
+    opacity: 1;
+    // transform: scale(1);
+    transform: translateX(0) scale(1);
+  }
+}

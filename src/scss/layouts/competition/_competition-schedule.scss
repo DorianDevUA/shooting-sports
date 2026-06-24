@@ -189,9 +189,9 @@
 //   }
 // }
 
-// !=====================================================================================================
+// !=2===================================================================================================
 // !===========================================================================
-// ! ===========================================================================
+// !===========================================================================
 // !===========================================================================
 // !===========================================================================
 // !===========================================================================
@@ -310,7 +310,7 @@
 //   }
 // }
 
-// !============================================================================
+// !=3==========================================================================
 // !============================================================================
 // !============================================================================
 // !============================================================================
@@ -331,13 +331,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-
-  align-items: flex-start;
-  gap: var(--space-lg);
-
-  @media (min-width: 768px) {
-    align-items: center;
-  }
+  align-items: center;
+  column-gap: var(--space-lg);
 }
 
 .competition-schedule__title {
@@ -345,60 +340,100 @@
   font-weight: 700;
 }
 
-.competition-schedule__filters {
+.competition-schedule__actions {
   display: flex;
   flex-wrap: wrap;
   gap: var(--space-md);
 }
 
-.competition-schedule__filter {
-  padding-block: var(--space-sm);
-  padding-inline: var(--space-lg);
+.competition-schedule__action {
+  padding-block: var(--space-xs);
+  padding-inline: var(--space-sm);
 
-  border: 1px solid var(--color-border-soft-dark, #d8dee8);
-  border-radius: var(--radius-full);
-
-  font-size: var(--font-size-sm);
+  font-size: var(--font-size-xs);
   font-weight: 500;
-
-  background-color: transparent;
+  text-transform: capitalize;
+  color: var(--color-text-deep-blue);
 
   cursor: pointer;
 
   transition:
     color var(--duration-normal) var(--timing-cubic),
-    border-color var(--duration-normal) var(--timing-cubic),
     background-color var(--duration-normal) var(--timing-cubic);
 
-  &:hover,
-  &.is-active {
+  &:hover {
     color: var(--color-text-inverse);
-    border-color: var(--color-border-deep-blue, #0048a5);
-    background-color: var(--color-bg-deep-blue, #0048a5);
+    background-color: var(--color-bg-deep-blue);
   }
 }
+
+// .competition-schedule__filters {
+//   display: flex;
+//   flex-wrap: wrap;
+//   gap: var(--space-md);
+// }
+
+// .competition-schedule__filter {
+//   padding-block: var(--space-sm);
+//   padding-inline: var(--space-lg);
+
+//   border: 1px solid var(--color-border-soft-dark, #d8dee8);
+//   border-radius: var(--radius-full);
+
+//   font-size: var(--font-size-sm);
+//   font-weight: 500;
+
+//   background-color: transparent;
+
+//   cursor: pointer;
+
+//   transition:
+//     color var(--duration-normal) var(--timing-cubic),
+//     border-color var(--duration-normal) var(--timing-cubic),
+//     background-color var(--duration-normal) var(--timing-cubic);
+
+//   &:hover,
+//   &.is-active {
+//     color: var(--color-text-inverse);
+//     border-color: var(--color-border-deep-blue, #0048a5);
+//     background-color: var(--color-bg-deep-blue, #0048a5);
+//   }
+// }
 
 /* Days */
 .competition-schedule__days {
   display: flex;
   flex-direction: column;
-  gap: var(--space-4xl);
+  gap: var(--space-3xl);
 }
 
 .schedule-day {
   display: flex;
   flex-direction: column;
-  gap: var(--space-lg);
+}
+
+.schedule-day__toggle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+
+  padding-bottom: var(--space-md);
+
+  border-bottom: 1px solid var(--color-divider, #e5e7eb);
+
+  text-align: left;
+
+  background-color: transparent;
+
+  cursor: pointer;
 }
 
 .schedule-day__header {
   display: flex;
   flex-direction: column;
   gap: var(--space-xs);
-
-  padding-bottom: var(--space-md);
-
-  border-bottom: 1px solid var(--color-divider, #e5e7eb);
 
   @media (min-width: 768px) {
     flex-direction: row;
@@ -419,11 +454,28 @@
   color: var(--color-text-secondary);
 }
 
+.schedule-day__icon {
+  flex-shrink: 0;
+
+  font-size: 14px;
+
+  fill: currentColor;
+
+  transition: transform var(--duration-normal) var(--timing-cubic);
+
+  .schedule-day.is-expanded & {
+    transform: rotate(180deg);
+  }
+}
+
 /* Entries */
 .schedule-day__entries {
   display: flex;
   flex-direction: column;
-  gap: var(--space-md);
+  gap: var(--space-sm);
+
+  padding: var(--space-xs);
+  padding-top: var(--space-lg);
 }
 
 .schedule-entry {
@@ -432,19 +484,23 @@
   align-items: flex-start;
   gap: var(--space-md);
 
-  padding-block: var(--space-lg);
+  padding-block: var(--space-md);
   padding-inline: var(--space-lg);
 
   border: 1px solid var(--color-border-soft-dark, #e5e7eb);
   border-radius: var(--radius-md);
 
+  transform: translateY(0) scale(0.995);
+
   transition:
+    background-color var(--duration-normal) var(--timing-cubic),
     transform var(--duration-normal) var(--timing-cubic),
     box-shadow var(--duration-normal) var(--timing-cubic);
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-box-md);
+    background-color: var(--color-bg-light);
+    transform: translateY(-2px) scale(1.005);
+    box-shadow: var(--shadow-box-sm);
   }
 
   @media (min-width: 768px) {
@@ -488,11 +544,6 @@
   color: var(--color-text-secondary);
 
   font-size: var(--font-size-xs);
-}
-
-.schedule-entry__category {
-  // font-size: var(--font-size-xs);
-  // color: var(--color-text-secondary);
 }
 
 .schedule-entry__separator {

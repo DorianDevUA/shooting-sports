@@ -52,28 +52,43 @@ function createCompetitionSwiperCard(edition) {
           </a>
         </li>
       </ul>
+
+      <!-- Competition category badge -->
+      <ul class="badges badges--bottom-right" aria-label="Competition status">
+        <li>
+          <a
+            class="badges__link"
+            href="competitions/?status=${status}"
+            data-status="${status}"
+          >
+            ${status}
+          </a>
+        </li>
+      </ul>
     </div>
 
     <!-- Competition Card Edition -->
     <!-- <p class="competition-card__category"><a href="competitions/?edition=${competition.id}">${competition.name}</a></p> -->
 
-    <p class="competition-card__status">
+    <p class="competition-card__level">
       <a
         class="link"
-        href="competitions/?status=${status}"
-        data-status="${status}"
+        href="competitions/?level=${competition.level.id}"
+        data-level="${competition.level.id}"
       >
-        ${status}
+        ${competition.level.name}
       </a>
     </p>
-
 
     <!-- Competition Card Content -->
     <div class="competition-card__content">
       <h3 class="competition-card__title">
-        <a class="link" href="competitions/${slug}/">${short_name}</a>
+        <a class="link" href="competitions/${slug}/">
+          <span class="competition-card__type">${short_name}</span>
+          ${createDisciplineListMarkup(disciplines)}
+        </a>
       </h3>
-      ${createCompetitionDisciplineList(disciplines)}
+      <!-- ${createCompetitionDisciplineList(disciplines)} -->
       <p class="competition-card__description">${excerpt}</p>
       <div class="competition-card__info">
         <!-- Competition Card Flag -->
@@ -128,6 +143,24 @@ export function createCompetitionDisciplineList(disciplines) {
     )
     .join("")}
 </ul>`;
+}
+
+export function createDisciplineListMarkup(disciplines) {
+  if (!disciplines.length) {
+    return "";
+  }
+
+  console.log(disciplines);
+
+  return `
+  ${disciplines
+    .toSorted((a, b) => a.sort_order - b.sort_order)
+    .map(
+      ({ id, name }) =>
+        `<span class="competition-card__discipline">${name}</span>`,
+    )
+    .join("")}
+`;
 }
 
 export function createSwiperCompetitionCardList(competitions) {

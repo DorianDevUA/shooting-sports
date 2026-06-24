@@ -1,0 +1,52 @@
+// Точка live-индикатор
+.live-indicator {
+  position: relative;
+
+  display: none;
+
+  width: 8px;
+  height: 8px;
+
+  border-radius: 50%;
+
+  background-color: #eaff00;
+
+  &.is-visible {
+    display: inline-flex;
+  }
+}
+
+// Пульсирующий круг через псевдоэлемент
+.live-indicator::after {
+  content: "";
+
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+
+  border-radius: 50%;
+
+  background-color: #71dc43;
+  // background-color: #e64242;
+
+  animation: pulse 1.5s infinite;
+}
+
+// Настройка анимации пульсации
+@keyframes pulse {
+  0% {
+    transform: scale(0.8);
+    opacity: 0.8;
+  }
+
+  50% {
+    opacity: 0;
+  }
+
+  100% {
+    transform: scale(2.5);
+    opacity: 0;
+  }
+}

@@ -1,0 +1,7 @@
+.accordion__content {
+  overflow: hidden;
+
+  height: 0;
+
+  transition: height 300ms ease;
+}

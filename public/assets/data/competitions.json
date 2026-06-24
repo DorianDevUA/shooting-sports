@@ -636,7 +636,7 @@
       "short_name": "Junior",
       "description": "Competition intended for junior athletes according to the age limits defined by the governing federation."
     },
-    "status": "scheduled",
+    "status": "live",
     "disciplines": [
       {
         "id": "rifle",
@@ -1860,7 +1860,7 @@
     "slug": "issf-grand-prix-granada-2022",
     "code": "issf_grand_prix_granada_2022",
     "name": "ISSF Grand Prix (Test)",
-    "short_name": "ISSF GP Granada 2022",
+    "short_name": "ISSF Junior Grand Prix",
     "excerpt": "some text",
     "competition": {
       "id": "issf_grand_prix",

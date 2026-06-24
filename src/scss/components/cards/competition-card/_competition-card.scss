@@ -86,7 +86,7 @@
   );
 }
 
-.competition-card__status {
+.competition-card__level {
   display: flex;
   justify-content: center;
   font-size: var(--font-size-xs);
@@ -101,16 +101,16 @@
     var(--color-brand-green)
   );
 
-  & > .link[data-status="live"] {
-    color: #96ff99;
+  & > .link[data-level="international"] {
+    color: #fcea73;
   }
 
-  & > .link[data-status="scheduled"] {
-    color: #5cf4ff;
+  & > .link[data-level="national"] {
+    color: #a6f0ff;
   }
 
-  & > .link[data-status="completed"] {
-    color: #ffe986;
+  & > .link[data-level="continental"] {
+    color: #97ff9a;
   }
 }
 
@@ -140,6 +140,13 @@
   &:not(:last-child)::after {
     content: "/";
     padding-right: 3px;
+  }
+}
+
+.competition-card__discipline {
+  &:not(:last-child)::after {
+    content: "/";
+    padding-inline: 3px;
   }
 }
 

@@ -45,7 +45,8 @@
   font-size: var(--font-size-2xs);
   font-weight: 500;
   line-height: 1;
-  color: var(--badge-color, var(--color-text-inverse));
+  text-transform: uppercase;
+  color: var(--badge-text, var(--color-text-inverse));
   white-space: nowrap;
 
   background-color: var(--badge-bg, var(--color-bg-dark));
@@ -79,11 +80,11 @@
   /* Badge Statuses */
   // Потрібно переробити всю систему кольорів бейджів під цей стиль
   &[data-status="scheduled"] {
-    --badge-bg: var(--badges-bg-status-scheduled);
-    --badge-color: var(--badges-text-status-scheduled);
+    --badge-bg: var(--color-bg-badge-scheduled);
+    --badge-text: var(--color-text-badge-scheduled);
   }
 
-  &[data-status="ongoing"] {
+  &[data-status="live"] {
     background-color: #cce5ff;
     color: #9f5f1f;
   }

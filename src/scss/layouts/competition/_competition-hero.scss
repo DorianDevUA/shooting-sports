@@ -2,12 +2,13 @@
   padding-block: 16px;
 }
 
-.competition-hero__status {
+.competition-hero__level {
   display: flex;
   justify-content: center;
+  align-items: center;
 
   font-size: var(--font-size-sm);
-  font-weight: 500;
+  font-weight: 700;
   line-height: var(--line-height-wide);
   text-transform: uppercase;
   color: var(--color-text-inverse);
@@ -19,8 +20,40 @@
     var(--color-brand-green)
   );
 
+  &--continental {
+    color: #71dc43;
+  }
+
+  &--international {
+    color: #ffe986;
+  }
+
+  &--national {
+    color: #43e0ff;
+  }
+}
+
+.competition-hero__status {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+
+  padding-block: var(--space-xs);
+  padding-inline: var(--space-md);
+
+  // border: 2px solid #71dc43;
+  border-radius: var(--radius-full);
+
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  line-height: 1;
+  text-transform: uppercase;
+  color: var(--color-text-primary);
+
+  background-color: var(--color-brand-red);
+
   &--live {
-    color: rgb(130, 252, 167);
+    color: #ffe986;
   }
 
   &--completed {

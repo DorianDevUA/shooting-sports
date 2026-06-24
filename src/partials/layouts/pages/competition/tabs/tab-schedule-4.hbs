@@ -1,0 +1,181 @@
+<section class="competition-schedule accordion">
+  <!-- <div class="competition-schedule__filters">
+    <button class="competition-schedule__filter is-active" type="button">
+      All Events
+    </button>
+
+    <button class="competition-schedule__filter" type="button">Rifle</button>
+
+    <button class="competition-schedule__filter" type="button">Pistol</button>
+
+    <button class="competition-schedule__filter" type="button">Shotgun</button>
+  </div> -->
+
+  <div class="competition-schedule__header">
+    <h2 class="competition-schedule__title">Schedule</h2>
+
+    <!-- <div class="competition-schedule__controls"></div> -->
+
+    <div class="competition-schedule__actions">
+      <button
+        class="competition-schedule__action"
+        type="button"
+        data-accordion-expand
+      >
+        Expand all
+      </button>
+
+      <button
+        class="competition-schedule__action"
+        type="button"
+        data-accordion-collapse
+      >
+        Collapse all
+      </button>
+    </div>
+  </div>
+
+  <ul class="competition-schedule__days">
+    <!-- DAY 1 -->
+
+    <li class="schedule-day accordion__item is-expanded">
+      <button
+        class="schedule-day__toggle accordion__trigger"
+        type="button"
+        aria-expanded="true"
+      >
+        <div class="schedule-day__header">
+          <h3 class="schedule-day__date">16 Jun 2026</h3>
+          <span class="schedule-day__weekday">Tuesday</span>
+        </div>
+
+        <svg
+          class="schedule-day__icon"
+          width="20"
+          height="20"
+          aria-hidden="true"
+        >
+          <use href="assets/icons/sprite.svg#icon-ui-chevron-down"></use>
+        </svg>
+      </button>
+
+      <div class="schedule-day__content accordion__content">
+        <ul class="schedule-day__entries">
+          <li class="schedule-entry">
+            <div class="schedule-entry__time">All Day</div>
+
+            <div class="schedule-entry__body">
+              <h4 class="schedule-entry__title">Arrival of Delegations</h4>
+            </div>
+          </li>
+
+          <li class="schedule-entry">
+            <div class="schedule-entry__time">09:00 – 16:00</div>
+
+            <div class="schedule-entry__body">
+              <h4 class="schedule-entry__title">Equipment Control</h4>
+            </div>
+
+            <span class="schedule-entry__badge schedule-entry__badge--control">
+              Control
+            </span>
+          </li>
+
+          <li class="schedule-entry">
+            <div class="schedule-entry__time">09:00 – 16:00</div>
+
+            <div class="schedule-entry__body">
+              <h4 class="schedule-entry__title">
+                Unofficial Training All Ranges
+              </h4>
+
+              <div class="schedule-entry__meta">
+                <span>Unofficial Training</span>
+                <span class="schedule-entry__separator"></span>
+                <span>All Ranges</span>
+              </div>
+            </div>
+
+            <span class="schedule-entry__badge schedule-entry__badge--training">
+              Training
+            </span>
+          </li>
+        </ul>
+      </div>
+    </li>
+
+    <!-- DAY 2 -->
+
+    <li class="schedule-day accordion__item">
+      <button
+        class="schedule-day__toggle accordion__trigger"
+        type="button"
+        aria-expanded="false"
+      >
+        <div class="schedule-day__header">
+          <h3 class="schedule-day__date">17 Jun 2026</h3>
+          <span class="schedule-day__weekday">Wednesday</span>
+        </div>
+
+        <svg
+          class="schedule-day__icon"
+          width="20"
+          height="20"
+          aria-hidden="true"
+        >
+          <use href="assets/icons/sprite.svg#icon-ui-chevron-down"></use>
+        </svg>
+      </button>
+
+      <div class="schedule-day__content accordion__content">
+        <ul class="schedule-day__entries">
+          <li class="schedule-entry">
+            <div class="schedule-entry__time">08:00 – 16:00</div>
+
+            <div class="schedule-entry__body">
+              <h4 class="schedule-entry__title">Equipment Control</h4>
+            </div>
+
+            <span class="schedule-entry__badge schedule-entry__badge--control">
+              Control
+            </span>
+          </li>
+
+          <li class="schedule-entry">
+            <div class="schedule-entry__time">09:00 – 10:00</div>
+
+            <div class="schedule-entry__body">
+              <h4 class="schedule-entry__title">10m Air Pistol Women Junior</h4>
+
+              <div class="schedule-entry__meta">
+                <span>Pre-event Training</span>
+                <span class="schedule-entry__separator"></span>
+                <span>Relay 1</span>
+                <span class="schedule-entry__separator"></span>
+                <span>Range A</span>
+              </div>
+            </div>
+
+            <span class="schedule-entry__badge schedule-entry__badge--training">
+              Training
+            </span>
+          </li>
+
+          <li class="schedule-entry">
+            <div class="schedule-entry__time">16:00</div>
+
+            <div class="schedule-entry__body">
+              <h4 class="schedule-entry__title">
+                Technical Meeting Rifle / Pistol / Skeet
+              </h4>
+            </div>
+
+            <span class="schedule-entry__badge schedule-entry__badge--meeting">
+              Meeting
+            </span>
+          </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+</section>

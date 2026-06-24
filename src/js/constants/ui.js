@@ -4,6 +4,7 @@ const CLASS_STATES = {
   HIDDEN: "is-hidden",
   OPEN: "is-open",
   CURRENT: "is-current",
+  EXPANDED: "is-expanded",
 };
 
 const DISCIPLINES = {
